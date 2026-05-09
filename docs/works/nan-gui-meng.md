@@ -1,0 +1,40 @@
+---
+slug: nan-gui-meng
+title: 南归梦
+title_alt: []
+genre: 闽剧
+heritage: false
+plot_type:
+era_setting:
+adapted_from:
+needs_research: true
+sources: []
+---
+
+# 南归梦
+
+> 行当/题材：待考
+
+## 剧情简介
+
+暂未检索到关于闽剧《南归梦》的公开剧情资料。根据剧名"南归梦"推测，本剧或以思乡归途、离散重逢为题材，可能涉及旅人或流离者盼望南归故土的情感主线，但具体内容有待考证。
+
+## 主要角色
+
+待补充。
+
+## 故事来源 / 源流
+
+待补充。
+
+## 闽剧演出记录
+
+暂无具体闽剧版本演出记录（来自 batch-05 文件）。
+
+## 资料来源
+
+暂无。
+
+## 备注
+
+多次网络检索均未找到该剧目的有效资料，标注 needs_research: true。建议查阅闽剧数字博物馆（http://www.fzmjtc.cn）或福州市档案馆闽剧资料。
