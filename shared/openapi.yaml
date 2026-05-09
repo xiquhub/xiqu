@@ -1,0 +1,271 @@
+openapi: 3.0.3
+info:
+  title: 闽剧档案站 API
+  version: 0.1.0
+  description: V1 API contract. Implemented in Go locally; will be reimplemented in TypeScript on Cloudflare Workers in V2.
+servers:
+  - url: http://localhost:8787
+    description: Local Go server
+paths:
+  /api/healthz:
+    get:
+      summary: Health check
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status: { type: string, enum: [ok] }
+                required: [status]
+  /api/plays:
+    get:
+      summary: List plays (works)
+      parameters:
+        - { name: page, in: query, schema: { type: integer, default: 1, minimum: 1 } }
+        - { name: page_size, in: query, schema: { type: integer, default: 24, minimum: 1, maximum: 100 } }
+        - { name: hangdang, in: query, schema: { type: string } }
+        - { name: troupe, in: query, schema: { type: string } }
+        - { name: era, in: query, schema: { type: string } }
+        - { name: heritage, in: query, schema: { type: boolean } }
+        - { name: sort, in: query, schema: { type: string, enum: [title, recent, productions], default: title } }
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: { $ref: '#/components/schemas/PlaysList' }
+  /api/plays/{slug}:
+    get:
+      summary: Play (work) detail
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/PlayDetail' } } }
+        '404': { $ref: '#/components/responses/NotFound' }
+  /api/plays/{slug}/{production_slug}:
+    get:
+      summary: Production detail
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+        - { name: production_slug, in: path, required: true, schema: { type: string } }
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/ProductionDetail' } } }
+        '404': { $ref: '#/components/responses/NotFound' }
+  /api/actors:
+    get:
+      summary: List actors
+      parameters:
+        - { name: page, in: query, schema: { type: integer, default: 1 } }
+        - { name: page_size, in: query, schema: { type: integer, default: 50 } }
+        - { name: hangdang, in: query, schema: { type: string } }
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/ActorsList' } } }
+  /api/actors/{slug}:
+    get:
+      summary: Actor detail
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/ActorDetail' } } }
+        '404': { $ref: '#/components/responses/NotFound' }
+  /api/troupes:
+    get:
+      summary: List troupes
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/TroupesList' } } }
+  /api/troupes/{slug}:
+    get:
+      summary: Troupe detail
+      parameters:
+        - { name: slug, in: path, required: true, schema: { type: string } }
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/TroupeDetail' } } }
+        '404': { $ref: '#/components/responses/NotFound' }
+  /api/search:
+    get:
+      summary: Full-text search across works/actors/troupes
+      parameters:
+        - { name: q, in: query, required: true, schema: { type: string, minLength: 1 } }
+        - { name: limit, in: query, schema: { type: integer, default: 30, maximum: 100 } }
+      responses:
+        '200':
+          description: OK
+          content: { application/json: { schema: { $ref: '#/components/schemas/SearchResults' } } }
+components:
+  responses:
+    NotFound:
+      description: Not Found
+      content: { application/json: { schema: { $ref: '#/components/schemas/Error' } } }
+  schemas:
+    Error:
+      type: object
+      properties:
+        error:
+          type: object
+          properties:
+            code:    { type: string, enum: [NOT_FOUND, INVALID_PARAM, INTERNAL] }
+            message: { type: string }
+            details: { nullable: true, type: object }
+          required: [code, message]
+      required: [error]
+    Pagination:
+      type: object
+      properties:
+        page:        { type: integer }
+        page_size:   { type: integer }
+        total:       { type: integer }
+        total_pages: { type: integer }
+      required: [page, page_size, total, total_pages]
+    WorkSummary:
+      type: object
+      properties:
+        slug:           { type: string }
+        title:          { type: string }
+        title_alt:      { type: array, items: { type: string } }
+        heritage:       { type: string, nullable: true }
+        plot_type:      { type: string, nullable: true }
+        era_setting:    { type: string, nullable: true }
+        production_count: { type: integer }
+      required: [slug, title, production_count]
+    PlaysList:
+      type: object
+      properties:
+        items:      { type: array, items: { $ref: '#/components/schemas/WorkSummary' } }
+        pagination: { $ref: '#/components/schemas/Pagination' }
+      required: [items, pagination]
+    ProductionSummary:
+      type: object
+      properties:
+        slug:       { type: string }
+        label:      { type: string }
+        troupe:     { type: string, nullable: true }
+        year:       { type: integer, nullable: true }
+        media_type: { type: string, nullable: true }
+        leads:      { type: array, items: { type: string } }
+        part_count: { type: integer }
+      required: [slug, label, part_count]
+    PlayDetail:
+      type: object
+      properties:
+        slug:          { type: string }
+        title:         { type: string }
+        title_alt:     { type: array, items: { type: string } }
+        genre:         { type: string }
+        heritage:      { type: string, nullable: true }
+        plot_type:     { type: string, nullable: true }
+        era_setting:   { type: string, nullable: true }
+        adapted_from:  { type: string, nullable: true }
+        plot_summary:  { type: string, nullable: true }
+        productions:   { type: array, items: { $ref: '#/components/schemas/ProductionSummary' } }
+      required: [slug, title, productions]
+    PartItem:
+      type: object
+      properties:
+        file_name:    { type: string }
+        label:        { type: string, nullable: true }
+        sort_order:   { type: integer }
+        duration_sec: { type: integer, nullable: true }
+      required: [file_name, sort_order]
+    ActorRef:
+      type: object
+      properties:
+        slug:    { type: string }
+        name:    { type: string }
+        role:    { type: string, nullable: true }
+        is_lead: { type: boolean }
+      required: [slug, name, is_lead]
+    ProductionDetail:
+      allOf:
+        - $ref: '#/components/schemas/ProductionSummary'
+        - type: object
+          properties:
+            work:   { $ref: '#/components/schemas/WorkSummary' }
+            parts:  { type: array, items: { $ref: '#/components/schemas/PartItem' } }
+            actors: { type: array, items: { $ref: '#/components/schemas/ActorRef' } }
+            notes:  { type: string, nullable: true }
+          required: [work, parts, actors]
+    ActorSummary:
+      type: object
+      properties:
+        slug:     { type: string }
+        name:     { type: string }
+        hangdang: { type: string, nullable: true }
+        production_count: { type: integer }
+      required: [slug, name, production_count]
+    ActorsList:
+      type: object
+      properties:
+        items: { type: array, items: { $ref: '#/components/schemas/ActorSummary' } }
+        pagination: { $ref: '#/components/schemas/Pagination' }
+      required: [items, pagination]
+    ActorWorkRef:
+      type: object
+      properties:
+        work:        { $ref: '#/components/schemas/WorkSummary' }
+        productions: { type: array, items: { $ref: '#/components/schemas/ProductionSummary' } }
+      required: [work, productions]
+    ActorDetail:
+      type: object
+      properties:
+        slug:          { type: string }
+        name:          { type: string }
+        hangdang:      { type: string, nullable: true }
+        bio:           { type: string, nullable: true }
+        active_period: { type: string, nullable: true }
+        works:         { type: array, items: { $ref: '#/components/schemas/ActorWorkRef' } }
+      required: [slug, name, works]
+    TroupeSummary:
+      type: object
+      properties:
+        slug: { type: string }
+        name: { type: string }
+        city: { type: string, nullable: true }
+        founded_year: { type: integer, nullable: true }
+        production_count: { type: integer }
+      required: [slug, name, production_count]
+    TroupesList:
+      type: object
+      properties:
+        items: { type: array, items: { $ref: '#/components/schemas/TroupeSummary' } }
+      required: [items]
+    TroupeDetail:
+      type: object
+      properties:
+        slug:          { type: string }
+        name:          { type: string }
+        city:          { type: string, nullable: true }
+        founded_year:  { type: integer, nullable: true }
+        bio:           { type: string, nullable: true }
+        works:         { type: array, items: { $ref: '#/components/schemas/WorkSummary' } }
+      required: [slug, name, works]
+    SearchHit:
+      type: object
+      properties:
+        kind:    { type: string, enum: [work, actor, troupe] }
+        slug:    { type: string }
+        title:   { type: string }
+        snippet: { type: string }
+      required: [kind, slug, title]
+    SearchResults:
+      type: object
+      properties:
+        query: { type: string }
+        works:   { type: array, items: { $ref: '#/components/schemas/SearchHit' } }
+        actors:  { type: array, items: { $ref: '#/components/schemas/SearchHit' } }
+        troupes: { type: array, items: { $ref: '#/components/schemas/SearchHit' } }
+      required: [query, works, actors, troupes]
