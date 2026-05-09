@@ -59,7 +59,7 @@ restore:
 	@echo "restored $(DB) from $(SNAPSHOT)"
 
 lint:
-	pnpm dlx @redocly/cli@latest lint shared/openapi.yaml
+	pnpm --package=@redocly/cli dlx redocly lint shared/openapi.yaml
 
 clean:
 	rm -rf apps/web/.next apps/web/out

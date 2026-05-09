@@ -27,3 +27,7 @@ pipelines/*/out/
 # OS
 .DS_Store
 Thumbs.db
+
+# Compiled Go binaries
+pipelines/ingest/ingest
+apps/server/server
