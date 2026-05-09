@@ -1,6 +1,6 @@
-go 1.22
+go 1.24.11
 
 use (
-    ./apps/server
-    ./pipelines/ingest
+	./apps/server
+	./pipelines/ingest
 )
