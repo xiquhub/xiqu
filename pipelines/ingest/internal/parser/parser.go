@@ -14,6 +14,9 @@ var (
 	reBookTitle = regexp.MustCompile(`《([^》]+)》`)
 	reYear      = regexp.MustCompile(`(19[5-9]\d|20[0-2]\d)`)
 	rePartTrail = regexp.MustCompile(`(?:[\(（]([上中下]|\d{1,2}|[A-Z]|[一二三四五六七八九十]+集?|上集|中集|下集)[\)）]|[\s　]*([1-9]|[一二三四五六七八九]|上|中|下|A|B|C|全剧|全)$)`)
+	// matches a Chinese-character title token followed immediately by digits and optional bracket part:
+	// e.g. "书痴1", "金兰情01", "九龙玉带1(上集)", "桃花缘_1" (underscore handled separately)
+	reTitleWithTrailingDigits = regexp.MustCompile(`^([\p{Han}]+)(\d{1,2})(.*)`)
 
 	commonTroupeKeywords = []string{
 		"福建省实验闽剧院", "福建省实验闽剧团", "福州闽剧院一团", "福州闽剧院二团",
@@ -64,18 +67,63 @@ func Parse(filename string) types.ParsedFile {
 		base = reBookTitle.ReplaceAllString(base, "")
 	} else {
 		// 形如 "闽剧 半把剪刀 1" 或 "闽剧 七品报喜郎 1" 或 "闽剧 半把剪刀（上）"
+		// 特殊：前置"全集"是集合标签而非剧名，跳过取下一个 token 作为剧名
 		s := strings.TrimSpace(base)
 		fields := strings.Fields(s)
-		if len(fields) > 0 {
-			tok := fields[0]
-			// If token contains a bracket (full-width or half-width), split it there
-			if idx := strings.IndexAny(tok, "（("); idx > 0 {
+		startIdx := 0
+		if len(fields) > 0 && (fields[0] == "全集" || fields[0] == "全") {
+			// "全集 贻春哥烛蒂" → title="贻春哥烛蒂", partLabel="全集"
+			pf.PartLabel = fields[0]
+			startIdx = 1
+		}
+		if startIdx < len(fields) {
+			tok := fields[startIdx]
+			// 先检查是否有 "汉字+数字[+括号可选]" 模式，如 "九龙玉带1(上集)" 或 "书痴1" → title="九龙玉带"/"书痴"
+			if m2 := reTitleWithTrailingDigits.FindStringSubmatch(tok); m2 != nil {
+				// m2[1]=hanzi title, m2[2]=digit(s), m2[3]=rest (e.g. "(上集)" or "")
+				pf.Title = m2[1]
+				afterTitle := m2[2] + m2[3] // digit(s) + optional bracket
+				remaining := strings.Join(fields[startIdx+1:], " ")
+				if remaining != "" {
+					base = afterTitle + " " + remaining
+				} else {
+					base = afterTitle
+				}
+			} else if idx := strings.IndexAny(tok, "（("); idx > 0 {
+				// If token contains a bracket (full-width or half-width), split it there
 				pf.Title = tok[:idx]
-				base = tok[idx:] + " " + strings.Join(fields[1:], " ")
+				rest := tok[idx:]
+				remaining := strings.Join(fields[startIdx+1:], " ")
+				if remaining != "" {
+					base = rest + " " + remaining
+				} else {
+					base = rest
+				}
+			} else if idx := strings.Index(tok, "_"); idx > 0 {
+				// "桃花缘_1" → title="桃花缘", rest="1"
+				pf.Title = tok[:idx]
+				rest := tok[idx+1:]
+				remaining := strings.Join(fields[startIdx+1:], " ")
+				if remaining != "" {
+					base = rest + " " + remaining
+				} else {
+					base = rest
+				}
 			} else {
 				pf.Title = tok
-				base = strings.TrimSpace(strings.TrimPrefix(s, tok))
+				base = strings.TrimSpace(strings.Join(fields[startIdx+1:], " "))
 			}
+		}
+	}
+
+	// 如果剧名末尾带有"全集"/"全剧"等，把它剥离为 partLabel（仅当 partLabel 为空时）
+	for _, suffix := range []string{"全集", "全剧", "全"} {
+		if strings.HasSuffix(pf.Title, suffix) && len([]rune(pf.Title)) > len([]rune(suffix)) {
+			if pf.PartLabel == "" {
+				pf.PartLabel = suffix
+			}
+			pf.Title = strings.TrimSuffix(pf.Title, suffix)
+			break
 		}
 	}
 

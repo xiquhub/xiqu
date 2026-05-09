@@ -21,6 +21,9 @@ pipelines/crawl/raw/
 .env.local
 *.local
 
+# Pipeline outputs
+pipelines/*/out/
+
 # OS
 .DS_Store
 Thumbs.db
