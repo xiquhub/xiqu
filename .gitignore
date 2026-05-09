@@ -1,0 +1,26 @@
+# Build artifacts
+node_modules/
+.next/
+dist/
+build/
+*.exe
+
+# Database
+db/xiqu.db
+db/xiqu.db-journal
+db/backups/
+
+# Storage (videos and large media)
+storage/
+
+# Crawler raw cache
+pipelines/crawl/raw/
+
+# Env / secrets
+.env
+.env.local
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
