@@ -107,9 +107,9 @@ export default async function PlaysPage({ searchParams }: Params) {
         </div>
       </header>
 
-      {/* 横向标签筛选 */}
-      <div className="mb-2 -mx-6 px-6 sm:mx-0 sm:px-0">
-        <div className="flex sm:flex-wrap gap-2 overflow-x-auto sm:overflow-visible pb-2 sm:pb-0 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+      {/* 标签筛选（多行换行） */}
+      <div className="mb-2">
+        <div className="flex flex-wrap gap-2">
           <TagChip
             href={buildHref({ heritage: !heritageOnly })}
             active={heritageOnly}
