@@ -9,33 +9,33 @@ export function Logo({ size = 36 }: { size?: number }) {
     <svg
       width={size}
       height={size}
-      viewBox="0 0 36 36"
+      viewBox="0 0 28 28"
       aria-label="戏曲档案 logo"
       role="img"
       style={{ flexShrink: 0 }}
     >
       {/* 印章主体 */}
-      <rect x="0" y="0" width="36" height="36" rx="3" fill="var(--color-accent)" />
+      <rect x="0" y="0" width="28" height="28" rx="2.5" fill="var(--color-accent)" />
       {/* 内框（仿真印章二重边） */}
       <rect
-        x="2"
-        y="2"
-        width="32"
-        height="32"
-        rx="2"
+        x="1.5"
+        y="1.5"
+        width="25"
+        height="25"
+        rx="1.5"
         fill="none"
         stroke="#f5efe2"
         strokeOpacity="0.25"
-        strokeWidth="0.7"
+        strokeWidth="0.55"
       />
       {/* 戲 字 */}
       <text
-        x="18"
-        y="18"
+        x="14"
+        y="14"
         textAnchor="middle"
         dominantBaseline="central"
         fill="#f5efe2"
-        fontSize="18"
+        fontSize="14"
         fontWeight="900"
         style={{ fontFamily: "var(--font-noto-serif-sc), serif" }}
       >
