@@ -31,7 +31,7 @@ export function Logo({ size = 36 }: { size?: number }) {
       {/* 戲 字 */}
       <text
         x="18"
-        y="21"
+        y="18"
         textAnchor="middle"
         dominantBaseline="central"
         fill="#f5efe2"
