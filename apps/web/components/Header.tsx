@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { ThemeToggle } from "./ThemeToggle";
+import { Logo } from "./Logo";
 
 const NAV = [
   { href: "/plays", label: "剧目" },
@@ -13,9 +14,7 @@ export function Header() {
     <header className="sticky top-0 z-30 bg-[var(--color-bg)]/85 backdrop-blur border-b border-[var(--color-border)]">
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between gap-6">
         <Link href="/" className="flex items-center gap-3 font-serif text-xl text-[var(--color-fg)] hover:text-[var(--color-accent)]">
-          <span className="inline-block w-7 h-7 bg-[var(--color-accent)] text-[#f5efe2] rounded-sm grid place-items-center text-xs font-bold tracking-tighter">
-            闽
-          </span>
+          <Logo size={36} />
           <span className="hidden sm:inline">闽剧档案 · xiquhub</span>
           <span className="sm:hidden">闽剧档案</span>
         </Link>
