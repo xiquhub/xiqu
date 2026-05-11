@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%8E%8B%E8%80%81%E8%99%8E%E6%8A%A2%E4%BA%B2/605276", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E8%80%81%E8%99%8E%E6%8A%A2%E4%BA%B2_(%E8%B6%8A%E5%89%A7)", type: wikipedia, scope: 通用 }
+cover: https://so1.360tres.com/t013b177e10f2abcb45.png
 ---
 
 # 王老虎抢亲
+
+![cover](https://so1.360tres.com/t013b177e10f2abcb45.png)
+
 
 > 行当/题材：爱情喜剧 / 生、旦行（有男扮女装的反串特色）
 

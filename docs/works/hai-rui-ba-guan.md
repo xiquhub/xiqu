@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%B5%B7%E7%91%9E%E7%BD%A2%E5%AE%98/624606", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E6%B5%B7%E7%91%9E%E7%BD%A2%E5%AE%98", type: wikipedia, scope: 通用 }
+cover: https://p1.ssl.qhmsg.com/t0107ab1b9913fe516a.jpg
 ---
 
 # 海瑞罢官
+
+![cover](https://p1.ssl.qhmsg.com/t0107ab1b9913fe516a.jpg)
+
 
 > 行当/题材：历史
 

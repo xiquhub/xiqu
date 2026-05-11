@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%8F%8C%E6%9E%AA%E9%99%86%E6%96%87%E9%BE%99/16831657", type: baidu_baike, scope: 通用 }
   - { url: "https://ys.httpcn.com/html/jumu/201921/CQPWPWAZCQ.shtml", type: 汉程艺术, scope: 通用 }
+cover: https://i.ytimg.com/vi/NVVLmTdv940/maxresdefault.jpg
 ---
 
 # 双枪陆文龙
+
+![cover](https://i.ytimg.com/vi/NVVLmTdv940/maxresdefault.jpg)
+
 
 > 行当/题材：武戏 / 历史戏 / 忠义题材
 

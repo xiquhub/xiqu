@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/F4kOs7QMHsE/hqdefault.jpg
 ---
 
 # 龙凤风波
+
+![cover](https://i.ytimg.com/vi/F4kOs7QMHsE/hqdefault.jpg)
+
 
 > 行当/题材：未知
 

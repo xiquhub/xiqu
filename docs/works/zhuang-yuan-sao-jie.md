@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://puui.qpic.cn/vpic_cover/c3045fedlw9/c3045fedlw9_hz.jpg
 ---
 
 # 状元扫街
+
+![cover](https://puui.qpic.cn/vpic_cover/c3045fedlw9/c3045fedlw9_hz.jpg)
+
 
 > 行当/题材：喜剧/滑稽/劝善
 

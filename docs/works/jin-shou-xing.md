@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://img1.fjdaily.com/app/images/2024-04/15/1b11dbfd-9797-4a6d-ad52-613fe0f952fc.JPEG
 ---
 
 # 金寿星
+
+![cover](https://img1.fjdaily.com/app/images/2024-04/15/1b11dbfd-9797-4a6d-ad52-613fe0f952fc.JPEG)
+
 
 > 行当/题材：未知
 

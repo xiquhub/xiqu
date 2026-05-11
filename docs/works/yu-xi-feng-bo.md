@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/jBj8men6cPI/hqdefault.jpg
 ---
 
 # 玉玺风波
+
+![cover](https://i.ytimg.com/vi/jBj8men6cPI/hqdefault.jpg)
+
 
 > 行当/题材：历史/宫廷
 

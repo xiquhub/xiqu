@@ -10,9 +10,13 @@ adapted_from: 莆仙戏传统剧目《邹雷廷》，由陈仁鉴（执笔）、
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%98%A5%E8%8D%89%E9%97%AF%E5%A0%82/4237342", type: baidu_baike, scope: 通用 }
+cover: https://img-rs.huanqiucdn.cn/dp/api/files/imageDir/da966f9ae27fba3332738215e518b9ef.png
 ---
 
 # 春草闯堂
+
+![cover](https://img-rs.huanqiucdn.cn/dp/api/files/imageDir/da966f9ae27fba3332738215e518b9ef.png)
+
 
 > 行当/题材：才子佳人（喜剧）
 

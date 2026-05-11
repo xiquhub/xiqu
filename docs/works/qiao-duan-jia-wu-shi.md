@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/bYqPOASo9cc/hqdefault.jpg
 ---
 
 # 巧断家务事
+
+![cover](https://i.ytimg.com/vi/bYqPOASo9cc/hqdefault.jpg)
+
 
 > 行当/题材：丑或小生／喜剧
 

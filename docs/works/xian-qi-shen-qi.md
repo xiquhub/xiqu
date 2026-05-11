@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/DVwl-Kea-qE/hqdefault.jpg
 ---
 
 # 献妻审妻
+
+![cover](https://i.ytimg.com/vi/DVwl-Kea-qE/hqdefault.jpg)
+
 
 > 行当/题材：待考（据题名推测为公案或情感道德戏）
 

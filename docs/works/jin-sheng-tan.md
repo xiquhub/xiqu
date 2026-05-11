@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E9%87%91%E5%9C%A3%E5%8F%B9/1097241", type: baidu_baike, scope: 通用 }
   - { url: "https://www.youtube.com/watch?v=JbXn9djf-WQ", type: 视频平台, scope: 闽剧专属 }
+cover: https://pic.app.fqlook.com/forum/20230223173653front1_0_155891_Fu2xdKfd3lJ5CxGG2FZDaQXfMgPL.jpg
 ---
 
 # 金圣叹
+
+![cover](https://pic.app.fqlook.com/forum/20230223173653front1_0_155891_Fu2xdKfd3lJ5CxGG2FZDaQXfMgPL.jpg)
+
 
 > 行当/题材：历史
 

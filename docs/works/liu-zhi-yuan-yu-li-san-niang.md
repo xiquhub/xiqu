@@ -10,9 +10,13 @@ adapted_from: 宋元南戏《白兔记》
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%99%BD%E5%85%94%E8%AE%B0/6382560", type: baidu_baike, scope: 通用 }
+cover: http://5b0988e595225.cdn.sohucs.com/images/20190721/112098e51c0946b58e0576f4b90ed637.jpeg
 ---
 
 # 刘知远与李三娘
+
+![cover](http://5b0988e595225.cdn.sohucs.com/images/20190721/112098e51c0946b58e0576f4b90ed637.jpeg)
+
 
 > 行当/题材：家庭
 

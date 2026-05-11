@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://www.qhnews.com/pic/0/02/17/88/2178850_014100.jpg
 ---
 
 # 梅玉配
+
+![cover](http://www.qhnews.com/pic/0/02/17/88/2178850_014100.jpg)
+
 
 > 行当/题材：才子佳人
 

@@ -9,9 +9,13 @@ era_setting: 唐初（唐太宗年间）
 adapted_from: 未知（以唐太宗李世民纳妃史事或民间传说为素材）
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/Atdywh_HE84/hqdefault.jpg
 ---
 
 # 李世民选妃
+
+![cover](https://i.ytimg.com/vi/Atdywh_HE84/hqdefault.jpg)
+
 
 > 行当/题材：历史
 

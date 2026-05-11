@@ -10,9 +10,13 @@ adapted_from: 传统剧目（或参考越剧同名剧目）
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AF%92%E6%B1%9F%E9%9B%AA/3950800", type: baidu_baike, scope: 通用 }
+cover: https://so1.360tres.com/t01e85f81655eff2f37.jpg
 ---
 
 # 寒江雪
+
+![cover](https://so1.360tres.com/t01e85f81655eff2f37.jpg)
+
 
 > 行当/题材：家庭
 

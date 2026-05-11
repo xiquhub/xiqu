@@ -10,9 +10,13 @@ adapted_from: 天方编剧的甬剧《半把剪刀》
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%8D%8A%E6%8A%8A%E5%89%AA%E5%88%80/9596076", type: baidu_baike, scope: 通用 }
+cover: https://i.ytimg.com/vi/o5GrFoAn2Q4/hqdefault.jpg
 ---
 
 # 半把剪刀
+
+![cover](https://i.ytimg.com/vi/o5GrFoAn2Q4/hqdefault.jpg)
+
 
 > 行当/题材：家庭·悲剧
 

@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://u6.iqiyipic.com/image/20250122/0c/c5/pv_3089642035541200_d_601_1248_720.jpg
 ---
 
 # 龙凤玉镯
+
+![cover](http://u6.iqiyipic.com/image/20250122/0c/c5/pv_3089642035541200_d_601_1248_720.jpg)
+
 
 > 行当/题材：未知
 

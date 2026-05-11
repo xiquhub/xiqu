@@ -10,9 +10,13 @@ adapted_from: 原创剧目，编剧陈元挺，1997年首演
 needs_research: false
 sources:
   - { url: "https://zx.fuzhou.gov.cn/zz/ywjx/ywjx/202512/t20251209_5255100.htm", type: other, scope: 闽剧专属 }
+cover: http://n.sinaimg.cn/ent/transform/20160113/1axZ-fxnkkuy8009142.jpg
 ---
 
 # 林则徐复出
+
+![cover](http://n.sinaimg.cn/ent/transform/20160113/1axZ-fxnkkuy8009142.jpg)
+
 
 > 行当/题材：历史
 

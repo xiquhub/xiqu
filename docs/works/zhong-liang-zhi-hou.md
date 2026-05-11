@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/1avqRrvKf98/hqdefault.jpg
 ---
 
 # 忠良之后
+
+![cover](https://i.ytimg.com/vi/1avqRrvKf98/hqdefault.jpg)
+
 
 > 行当/题材：历史/英雄/家国
 

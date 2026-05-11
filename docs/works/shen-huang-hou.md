@@ -9,9 +9,13 @@ era_setting: 不详
 adapted_from:
 needs_research: true
 sources: []
+cover: https://p2.cri.cn/M00/B9/20/CqgNOlte66WAN7qFAAAAAAAAAAA377.950x1221.jpg
 ---
 
 # 审皇后
+
+![cover](https://p2.cri.cn/M00/B9/20/CqgNOlte66WAN7qFAAAAAAAAAAA377.950x1221.jpg)
+
 
 > 行当/题材：公案戏 / 宫廷戏
 

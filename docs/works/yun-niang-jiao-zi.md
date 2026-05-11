@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/ewirKoTPQkU/hqdefault.jpg
 ---
 
 # 云娘教子
+
+![cover](https://i.ytimg.com/vi/ewirKoTPQkU/hqdefault.jpg)
+
 
 > 行当/题材：伦理/家庭
 

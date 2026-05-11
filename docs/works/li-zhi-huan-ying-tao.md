@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知（疑与《荔枝换绛桃》同源或为其异本）
 needs_research: true
 sources: []
+cover: https://k.sinaimg.cn/n/sinakd20211228s/107/w1024h683/20211228/ac44-5c93a2644ac4ea5eb30eb1fdb5e20814.jpg
 ---
 
 # 荔枝换樱桃
+
+![cover](https://k.sinaimg.cn/n/sinakd20211228s/107/w1024h683/20211228/ac44-5c93a2644ac4ea5eb30eb1fdb5e20814.jpg)
+
 
 > 行当/题材：才子佳人
 

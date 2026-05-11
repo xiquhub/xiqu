@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/nBi61nhgA9Y/hqdefault.jpg
 ---
 
 # 王有道休妻
+
+![cover](https://i.ytimg.com/vi/nBi61nhgA9Y/hqdefault.jpg)
+
 
 > 行当/题材：世情伦理剧 / 旦、生行
 

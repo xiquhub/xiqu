@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://i1.hdslb.com/bfs/archive/d862e2d05ec9c1a24e84d9a0ca4fcb1f82e1153f.jpg
 ---
 
 # 龙凤金耳扒
+
+![cover](http://i1.hdslb.com/bfs/archive/d862e2d05ec9c1a24e84d9a0ca4fcb1f82e1153f.jpg)
+
 
 > 行当/题材：未知
 

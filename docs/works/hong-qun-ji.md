@@ -12,9 +12,13 @@ sources:
   - { url: "https://www.sohu.com/a/331030528_123753", type: 通用网站, scope: 闽剧专属 }
   - { url: "https://www.mct.gov.cn/whzx/qgwhxxlb/fj/201209/t20120917_786848.htm", type: 政府网站, scope: 闽剧专属 }
   - { url: "https://www.douban.com/location/drama/26983142/", type: douban, scope: 闽剧专属 }
+cover: https://www.cflac.org.cn/zgwl/dfwl/sheng/fujjian/201310/W020131024608239482443.jpg
 ---
 
 # 红裙记
+
+![cover](https://www.cflac.org.cn/zgwl/dfwl/sheng/fujjian/201310/W020131024608239482443.jpg)
+
 
 > 行当/题材：家庭
 

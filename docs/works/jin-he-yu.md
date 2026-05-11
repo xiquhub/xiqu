@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://china144-1257247002.file.myqcloud.com/2020/07/8-3-800x533.jpg
 ---
 
 # 金河遇
+
+![cover](https://china144-1257247002.file.myqcloud.com/2020/07/8-3-800x533.jpg)
+
 
 > 行当/题材：未知
 

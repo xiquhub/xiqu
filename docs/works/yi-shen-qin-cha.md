@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://puui.qpic.cn/vpic_cover/q0953sjznj5/q0953sjznj5_hz.jpg
 ---
 
 # 一审钦差
+
+![cover](http://puui.qpic.cn/vpic_cover/q0953sjznj5/q0953sjznj5_hz.jpg)
+
 
 > 行当/题材：待考（据题名推测为公案戏，涉及钦差巡按题材）
 

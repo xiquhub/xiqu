@@ -10,9 +10,13 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+cover: https://image.fznews.com.cn/app/pic/2022-05/30/364703_3f57fc3a-e325-431d-8880-1ba9e8f8ed6d.jpg
 ---
 
 # 百花台上
+
+![cover](https://image.fznews.com.cn/app/pic/2022-05/30/364703_3f57fc3a-e325-431d-8880-1ba9e8f8ed6d.jpg)
+
 
 > 行当/题材：才子佳人
 

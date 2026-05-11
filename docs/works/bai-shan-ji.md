@@ -10,9 +10,13 @@ adapted_from: 传统剧目
 needs_research: false
 sources:
   - { url: "https://movie.douban.com/subject/33393411/", type: 其他, scope: 通用 }
+cover: https://puui.qpic.cn/vpic_cover/z0824z4kas6/z0824z4kas6_hz.jpg
 ---
 
 # 白扇记
+
+![cover](https://puui.qpic.cn/vpic_cover/z0824z4kas6/z0824z4kas6_hz.jpg)
+
 
 > 行当/题材：家庭·冤案·孝义
 

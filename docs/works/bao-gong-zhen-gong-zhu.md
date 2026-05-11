@@ -9,9 +9,13 @@ era_setting: 北宋
 adapted_from: 传统剧目（包公戏系列）
 needs_research: true
 sources: []
+cover: https://image.fznews.com.cn/app/pic/2023-09/28/450318_719aba6e-3cac-4fd8-b4f4-8e9a1ac383cd.jpg
 ---
 
 # 包公镇公主
+
+![cover](https://image.fznews.com.cn/app/pic/2023-09/28/450318_719aba6e-3cac-4fd8-b4f4-8e9a1ac383cd.jpg)
+
 
 > 行当/题材：公案·廉政
 

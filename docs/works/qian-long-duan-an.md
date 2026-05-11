@@ -9,9 +9,13 @@ era_setting: 清代·乾隆年间
 adapted_from: 乾隆民间故事
 needs_research: true
 sources: []
+cover: https://puui.qpic.cn/vpic_cover/u07585dclzp/u07585dclzp_hz.jpg
 ---
 
 # 乾隆断案
+
+![cover](https://puui.qpic.cn/vpic_cover/u07585dclzp/u07585dclzp_hz.jpg)
+
 
 > 行当/题材：须生（乾隆）／公案清官
 

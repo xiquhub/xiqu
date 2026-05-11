@@ -9,9 +9,13 @@ era_setting: 清代
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/t0FFuk22CDA/hqdefault.jpg
 ---
 
 # 余杭奇案
+
+![cover](https://i.ytimg.com/vi/t0FFuk22CDA/hqdefault.jpg)
+
 
 > 行当/题材：公案/侦案
 

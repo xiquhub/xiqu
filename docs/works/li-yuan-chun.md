@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://wenhui.whb.cn/u/cms/www/202112/11113501osbl.jpg
 ---
 
 # 梨园春
+
+![cover](https://wenhui.whb.cn/u/cms/www/202112/11113501osbl.jpg)
+
 
 > 行当/题材：未知
 

@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 传统剧目
 needs_research: true
 sources: []
+cover: https://y.gtimg.cn/music/photo_new/T062M000001Lsyio0bTgG8.jpg
 ---
 
 # 柏玉霜
+
+![cover](https://y.gtimg.cn/music/photo_new/T062M000001Lsyio0bTgG8.jpg)
+
 
 > 行当/题材：未知
 

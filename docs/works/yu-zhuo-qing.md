@@ -10,9 +10,13 @@ adapted_from: 拾玉镯（传统戏曲）
 needs_research: true
 sources:
   - { url: "https://baike.baidu.com/item/%E6%8B%BE%E7%8E%89%E9%95%AF/23774194", type: baidu_baike, scope: 通用 }
+cover: https://i.ytimg.com/vi/rtrjdk3VO5w/maxresdefault.jpg
 ---
 
 # 玉镯情
+
+![cover](https://i.ytimg.com/vi/rtrjdk3VO5w/maxresdefault.jpg)
+
 
 > 行当/题材：爱情/民间传说
 

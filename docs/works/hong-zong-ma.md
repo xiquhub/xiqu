@@ -10,9 +10,13 @@ adapted_from: 传统剧目《红鬃烈马》，取材于唐代薛平贵与王宝
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%BA%A2%E9%AC%83%E7%83%88%E9%A9%AC/874147", type: baidu_baike, scope: 通用 }
+cover: https://image.fznews.com.cn/app/pic/2024-12/17/525933_12e8732a-fbe0-4188-a147-b8aa600daaf8.jpg
 ---
 
 # 红鬃马
+
+![cover](https://image.fznews.com.cn/app/pic/2024-12/17/525933_12e8732a-fbe0-4188-a147-b8aa600daaf8.jpg)
+
 
 > 行当/题材：才子佳人
 

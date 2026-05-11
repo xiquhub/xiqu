@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 传统剧目
 needs_research: true
 sources: []
+cover: https://puui.qpic.cn/vpic_cover/y0698etknbp/y0698etknbp_hz.jpg
 ---
 
 # 采药女传奇
+
+![cover](https://puui.qpic.cn/vpic_cover/y0698etknbp/y0698etknbp_hz.jpg)
+
 
 > 行当/题材：未知（疑为神怪或民间传说类）
 

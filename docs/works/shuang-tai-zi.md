@@ -9,9 +9,13 @@ era_setting: 不详
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/qKckPoMJfLY/hqdefault.jpg
 ---
 
 # 双太子
+
+![cover](https://i.ytimg.com/vi/qKckPoMJfLY/hqdefault.jpg)
+
 
 > 行当/题材：宫廷戏 / 公案戏
 

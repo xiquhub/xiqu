@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://image.fznews.com.cn/app/pic/2025-12/17/602174_7f96a654-d31f-4e38-96d5-80034c98631d.png
 ---
 
 # 义兄情妹
+
+![cover](https://image.fznews.com.cn/app/pic/2025-12/17/602174_7f96a654-d31f-4e38-96d5-80034c98631d.png)
+
 
 > 行当/题材：待考（据题名推测为义兄妹情感戏，可能含禁忌爱情或救助恩情题材）
 

@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://n.sinaimg.cn/sinakd20211226s/762/w1000h562/20211226/d9c6-956100749c1d3985eaa0202c25655ca1.png
 ---
 
 # 清官调任后
+
+![cover](http://n.sinaimg.cn/sinakd20211226s/762/w1000h562/20211226/d9c6-956100749c1d3985eaa0202c25655ca1.png)
+
 
 > 行当/题材：须生（清官）／公案官场
 

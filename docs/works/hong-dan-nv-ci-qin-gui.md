@@ -9,9 +9,13 @@ era_setting: 南宋
 adapted_from: 传统剧目，取材于南宋奸臣秦桧相关民间故事
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/3NpEvYvv3LY/hqdefault.jpg
 ---
 
 # 红丹女刺秦桧
+
+![cover](https://i.ytimg.com/vi/3NpEvYvv3LY/hqdefault.jpg)
+
 
 > 行当/题材：历史
 

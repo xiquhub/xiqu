@@ -10,9 +10,13 @@ adapted_from: 浙江余姚民间故事，越剧版《三篙恨》（后改名《
 needs_research: true
 sources:
   - { url: "https://baike.baidu.com/item/%E9%BE%99%E5%87%A4%E6%80%A8/1256923", type: baidu_baike, scope: 通用 }
+cover: https://i.ytimg.com/vi/cHVxjPvGJ58/maxresdefault.jpg
 ---
 
 # 龙凤怨
+
+![cover](https://i.ytimg.com/vi/cHVxjPvGJ58/maxresdefault.jpg)
+
 
 > 行当/题材：家庭
 

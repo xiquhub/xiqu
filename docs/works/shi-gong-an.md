@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%96%BD%E5%85%AC%E6%A1%88/10086", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E6%96%BD%E5%85%AC%E6%A1%88", type: wikipedia, scope: 通用 }
+cover: http://puui.qpic.cn/vpic_cover/h0033302ffi/h0033302ffi_hz.jpg
 ---
 
 # 施公案
+
+![cover](http://puui.qpic.cn/vpic_cover/h0033302ffi/h0033302ffi_hz.jpg)
+
 
 > 行当/题材：侠义公案戏
 

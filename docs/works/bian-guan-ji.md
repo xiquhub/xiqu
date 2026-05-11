@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://www.maigoo.com/citiao/977639.html", type: 其他, scope: 闽剧专属 }
   - { url: "https://www.bilibili.com/video/BV18x41127Qt/", type: 其他, scope: 闽剧专属 }
+cover: http://fj.people.com.cn/NMediaFile/2023/0921/LOCAL16952600836904ZZASX2Q7Y.jpg
 ---
 
 # 贬官记
+
+![cover](http://fj.people.com.cn/NMediaFile/2023/0921/LOCAL16952600836904ZZASX2Q7Y.jpg)
+
 
 > 行当/题材：公案·廉政
 

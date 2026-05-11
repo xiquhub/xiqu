@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E8%8D%94%E6%9E%9D%E6%8D%A2%E7%BB%9B%E6%A1%83/8590392", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://news.fznews.com.cn/dsxw/20211227/61c927d3e5341.shtml", type: 新闻报道, scope: 闽剧专属 }
+cover: http://www.fj.chinanews.com/cr/2021/1226/791154827.jpg
 ---
 
 # 荔枝换绛桃
+
+![cover](http://www.fj.chinanews.com/cr/2021/1226/791154827.jpg)
+
 
 > 行当/题材：才子佳人
 

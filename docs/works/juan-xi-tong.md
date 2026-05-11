@@ -10,9 +10,13 @@ adapted_from: 河南曲剧《卷席筒》（多剧种共有剧目，剧情核心
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%8D%B7%E5%B8%AD%E7%AD%92/3874105", type: baidu_baike, scope: 通用 }
+cover: https://www.fzmjtc.cn/__local/6/32/FC/7D1D87203D0B500FEF767CAEC65_D6DD8B37_1B1E2.jpg
 ---
 
 # 卷席筒
+
+![cover](https://www.fzmjtc.cn/__local/6/32/FC/7D1D87203D0B500FEF767CAEC65_D6DD8B37_1B1E2.jpg)
+
 
 > 行当/题材：家庭
 

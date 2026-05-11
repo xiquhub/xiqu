@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%A9%86%E6%A1%82%E8%8B%B1%E6%8C%82%E5%B8%85/7838712", type: baidu_baike, scope: 通用 }
   - { url: "https://baike.baidu.com/item/%E6%9D%A8%E5%AE%97%E4%BF%9D/1967037", type: baidu_baike, scope: 通用 }
+cover: http://www.fj.chinanews.com/2022/0213/U969P4DT20220213134053.jpg
 ---
 
 # 斩宗保
+
+![cover](http://www.fj.chinanews.com/2022/0213/U969P4DT20220213134053.jpg)
+
 
 > 行当/题材：历史/英雄/武戏
 

@@ -10,9 +10,13 @@ adapted_from: 朱元璋与陈友谅历史故事
 needs_research: false
 sources:
   - { url: "https://blog.sina.com.cn/s/blog_69f460ae0102x77a.html", type: 其他, scope: 通用 }
+cover: http://img.zgyww.cn/pic/0/10/20/96/10209603_214805.jpg
 ---
 
 # 闹九江
+
+![cover](http://img.zgyww.cn/pic/0/10/20/96/10209603_214805.jpg)
+
 
 > 行当/题材：武生、花脸／历史军事谋略
 

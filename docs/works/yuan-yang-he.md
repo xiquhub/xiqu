@@ -10,9 +10,13 @@ adapted_from:
 needs_research: true
 sources:
   - { url: "https://www.pingju.com.cn/lsh_detail.php?id=205&flag=1", type: other, scope: 闽剧专属 }
+cover: http://u1.iqiyipic.com/image/20201115/97/71/pv_5595608141747100_d_601_1248_720.jpg
 ---
 
 # 鸳鸯河
+
+![cover](http://u1.iqiyipic.com/image/20201115/97/71/pv_5595608141747100_d_601_1248_720.jpg)
+
 
 > 行当/题材：爱情/婚恋
 

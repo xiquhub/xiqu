@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/26384729/", type: douban, scope: 通用 }
   - { url: "https://blog.sina.com.cn/s/blog_5388904f0100qzsh.html", type: blog, scope: 通用 }
+cover: https://i.ytimg.com/vi/zYFa7Ri1Upk/hqdefault.jpg
 ---
 
 # 苏秦假不第
+
+![cover](https://i.ytimg.com/vi/zYFa7Ri1Upk/hqdefault.jpg)
+
 
 > 行当/题材：历史传奇剧 / 丑旦兼用
 

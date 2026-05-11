@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/F0TbEhjFLGY/hqdefault.jpg
 ---
 
 # 杨玉春告状
+
+![cover](https://i.ytimg.com/vi/F0TbEhjFLGY/hqdefault.jpg)
+
 
 > 行当/题材：待考（据题名推测为公案戏）
 

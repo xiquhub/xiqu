@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%8A%B6%E5%85%83%E4%B8%8E%E4%B9%9E%E4%B8%90/10749182", type: baidu_baike, scope: 通用 }
   - { url: "https://wiki66.com/%E7%8A%B6%E5%85%83%E4%B8%8E%E4%B9%9E%E4%B8%90%EF%BC%88%E8%8E%86%E4%BB%99%E6%88%8F%E5%89%A7%E7%9B%AE%EF%BC%89", type: other, scope: 通用 }
+cover: https://newbbs-fd.zol-img.com.cn/t_s800x2000/g5/M00/01/0C/ChMkJ1fOblyIT4aEAAxHt5yXoXUAAVEIwD73hgADEfP926.jpg
 ---
 
 # 状元与乞丐
+
+![cover](https://newbbs-fd.zol-img.com.cn/t_s800x2000/g5/M00/01/0C/ChMkJ1fOblyIT4aEAAxHt5yXoXUAAVEIwD73hgADEfP926.jpg)
+
 
 > 行当/题材：家庭伦理/劝善/反宿命
 

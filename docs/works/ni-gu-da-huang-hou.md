@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/SoQqw5rT2tY/hqdefault.jpg
 ---
 
 # 尼姑打皇后
+
+![cover](https://i.ytimg.com/vi/SoQqw5rT2tY/hqdefault.jpg)
+
 
 > 行当/题材：旦（或彩旦）／喜剧讽刺
 

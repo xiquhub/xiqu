@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知（与1961年同名电影题材相似，但无直接关联证据）
 needs_research: true
 sources: []
+cover: https://www.fzmjtc.cn/__local/5/C3/BA/2191D4A5932F54E9C80D6E834CF_51300FA9_1D0C1.jpg
 ---
 
 # 枯木逢春
+
+![cover](https://www.fzmjtc.cn/__local/5/C3/BA/2191D4A5932F54E9C80D6E834CF_51300FA9_1D0C1.jpg)
+
 
 > 行当/题材：未知
 

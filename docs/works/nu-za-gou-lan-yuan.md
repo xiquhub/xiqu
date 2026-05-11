@@ -10,9 +10,13 @@ adapted_from:
 needs_research: true
 sources:
   - { url: "http://www.fzmjtc.cn/mjzyk/info/1044/1311.htm", type: 其他, scope: 闽剧专属 }
+cover: https://www.fzmjtc.cn/__local/3/88/1F/0B80B45B4FF0C979B5236B8337C_8709864F_28F09.jpg
 ---
 
 # 怒砸勾栏院
+
+![cover](https://www.fzmjtc.cn/__local/3/88/1F/0B80B45B4FF0C979B5236B8337C_8709864F_28F09.jpg)
+
 
 > 行当/题材：武生或花脸／侠义救良
 

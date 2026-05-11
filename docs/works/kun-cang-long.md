@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169013958_1568549806226.jpg
 ---
 
 # 困苍龙
+
+![cover](https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169013958_1568549806226.jpg)
+
 
 > 行当/题材：未知
 

@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://zh.wikipedia.org/zh-hans/%E8%B4%BB%E9%A1%BA%E5%93%A5%E7%83%9B%E8%92%82", type: wikipedia, scope: 闽剧专属 }
   - { url: "https://www.chinanews.com.cn/cul/2014/03-14/5950731.shtml", type: news, scope: 闽剧专属 }
+cover: https://www.minduonline.net.cn/wp-content/uploads/2019/07/12.jpg
 ---
 
 # 贻顺哥烛蒂
+
+![cover](https://www.minduonline.net.cn/wp-content/uploads/2019/07/12.jpg)
+
 
 **国家级非物质文化遗产代表性项目**
 

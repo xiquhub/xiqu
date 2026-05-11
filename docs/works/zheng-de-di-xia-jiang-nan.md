@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%98%8E%E6%AD%A6%E5%AE%97%E5%8D%97%E5%B7%A1%E4%B9%8B%E4%BA%89/4982656", type: baidu_baike, scope: 通用 }
   - { url: "https://m.127127.cn/minju/236328/play01_youku1.html", type: other, scope: 闽剧专属 }
+cover: https://i.ytimg.com/vi/5-KtzDxDQPA/hqdefault.jpg
 ---
 
 # 正德帝下江南
+
+![cover](https://i.ytimg.com/vi/5-KtzDxDQPA/hqdefault.jpg)
+
 
 > 行当/题材：历史/喜剧/微服私访
 

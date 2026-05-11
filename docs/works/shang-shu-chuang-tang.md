@@ -10,9 +10,13 @@ adapted_from:
 needs_research: true
 sources:
   - { url: "http://9uud.com/v.php?m=vod-play-id-1523-src-1-num-35.html", type: 戏曲视频平台, scope: 闽剧专属 }
+cover: https://i.ytimg.com/vi/GPaKjMMeCfM/hqdefault.jpg
 ---
 
 # 尚书闯堂
+
+![cover](https://i.ytimg.com/vi/GPaKjMMeCfM/hqdefault.jpg)
+
 
 > 行当/题材：公案戏 / 家庭伦理戏
 

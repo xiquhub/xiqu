@@ -10,9 +10,13 @@ adapted_from: 闽剧传统剧目 (取材自传统武侠公案故事)
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 通用, confidence: high }
+cover: https://puui.qpic.cn/vpic_cover/i0698i0v0j7/i0698i0v0j7_hz.jpg
 ---
 
 # 八美楼
+
+![cover](https://puui.qpic.cn/vpic_cover/i0698i0v0j7/i0698i0v0j7_hz.jpg)
+
 
 > 行当/题材：公案/武打
 

@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/OVrDbLyIz_E/hqdefault.jpg
 ---
 
 # 鸭母跟凤去飞
+
+![cover](https://i.ytimg.com/vi/OVrDbLyIz_E/hqdefault.jpg)
+
 
 > 行当/题材：待考（据题名推测为民间喜剧，含阶层错配寓意）
 

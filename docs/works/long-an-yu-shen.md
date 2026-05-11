@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://www.mwnews.cn/uploaded/c20ad12/20191112/15735207605081.png
 ---
 
 # 龙案御审
+
+![cover](http://www.mwnews.cn/uploaded/c20ad12/20191112/15735207605081.png)
+
 
 > 行当/题材：公案
 

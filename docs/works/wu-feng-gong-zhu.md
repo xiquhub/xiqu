@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://china144-1257247002.file.myqcloud.com/2020/07/8-3.jpg
 ---
 
 # 乌凤公主
+
+![cover](https://china144-1257247002.file.myqcloud.com/2020/07/8-3.jpg)
+
 
 > 行当/题材：待考
 

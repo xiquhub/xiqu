@@ -10,9 +10,13 @@ adapted_from: 民间神话《沉香救母》/《宝莲灯》
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AE%9D%E8%8E%B2%E7%81%AF/44926", type: baidu_baike, scope: 通用 }
+cover: https://image.fznews.com.cn/app/pic/2022-05/30/364703_5d4dd8fe-02f3-4d04-905c-22b7d4b92f01.jpg
 ---
 
 # 沉香阁
+
+![cover](https://image.fznews.com.cn/app/pic/2022-05/30/364703_5d4dd8fe-02f3-4d04-905c-22b7d4b92f01.jpg)
+
 
 > 行当/题材：神怪
 

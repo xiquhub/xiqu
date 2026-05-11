@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocLfbwAf8AI1WeEyAMs898TeJQmwWHAxfJAQtg~tplv-dy-aweme-images:q75.webp
 ---
 
 # 五福临门
+
+![cover](https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocLfbwAf8AI1WeEyAMs898TeJQmwWHAxfJAQtg~tplv-dy-aweme-images:q75.webp)
+
 
 > 行当/题材：待考（据题名推测为喜庆吉祥题材）
 

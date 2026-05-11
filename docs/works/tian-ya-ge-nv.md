@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%A4%A9%E6%B6%AF%E6%AD%8C%E5%A5%B3/9819722", type: baidu_baike, scope: 通用 }
   - { url: "https://www.douban.com/location/drama/20283987/", type: douban, scope: 通用 }
+cover: https://so1.360tres.com/t01a3a8251612321949.jpg
 ---
 
 # 天涯歌女
+
+![cover](https://so1.360tres.com/t01a3a8251612321949.jpg)
+
 
 > 行当/题材：近现代悲情剧 / 旦行
 

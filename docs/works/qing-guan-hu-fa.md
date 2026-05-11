@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/yrdAI69RsEc/maxresdefault.jpg
 ---
 
 # 清官护法
+
+![cover](https://i.ytimg.com/vi/yrdAI69RsEc/maxresdefault.jpg)
+
 
 > 行当/题材：须生（清官）／公案清官
 

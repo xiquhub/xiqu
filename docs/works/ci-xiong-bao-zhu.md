@@ -10,9 +10,13 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 通用, confidence: high }
+cover: http://www.mwnews.cn/uploaded/c20ad12/20191112/15735206735336.png
 ---
 
 # 雌雄宝珠
+
+![cover](http://www.mwnews.cn/uploaded/c20ad12/20191112/15735206735336.png)
+
 
 > 行当/题材：公案/神怪
 

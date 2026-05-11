@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://puui.qpic.cn/vpic_cover/m33396xuavl/m33396xuavl_hz.jpg
 ---
 
 # 桃花缘
+
+![cover](https://puui.qpic.cn/vpic_cover/m33396xuavl/m33396xuavl_hz.jpg)
+
 
 > 行当/题材：爱情传奇剧
 

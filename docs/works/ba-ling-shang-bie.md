@@ -10,9 +10,13 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+cover: https://www.fzmjtc.cn/__local/E/7A/19/B54215BA32BE5A123E1680131D3_DF200361_1325F.jpg
 ---
 
 # 灞陵伤别
+
+![cover](https://www.fzmjtc.cn/__local/E/7A/19/B54215BA32BE5A123E1680131D3_DF200361_1325F.jpg)
+
 
 > 行当/题材：才子佳人
 

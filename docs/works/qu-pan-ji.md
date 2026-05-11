@@ -10,9 +10,13 @@ adapted_from: 新编创作
 needs_research: false
 sources:
   - { url: "https://www.bilibili.com/video/BV1RW411F7Ft/", type: bilibili, scope: 闽剧专属 }
+cover: https://n.sinaimg.cn/sinakd20211226s/762/w1000h562/20211226/d9c6-956100749c1d3985eaa0202c25655ca1.png
 ---
 
 # 曲判记
+
+![cover](https://n.sinaimg.cn/sinakd20211226s/762/w1000h562/20211226/d9c6-956100749c1d3985eaa0202c25655ca1.png)
+
 
 > 行当/题材：公案戏
 

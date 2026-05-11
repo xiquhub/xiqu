@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://zh.wikipedia.org/zh-hans/%E8%A5%BF%E6%B8%B8%E8%AE%B0", type: wikipedia, scope: 通用 }
   - { url: "https://baike.baidu.com/item/%E5%94%90%E5%83%A7/338052", type: baidu_baike, scope: 通用 }
+cover: https://www.fzmjtc.cn/__local/4/B1/F5/AA7A86C08D94ED8A6EE542FF735_407E029B_278FC.jpg
 ---
 
 # 唐僧出世
+
+![cover](https://www.fzmjtc.cn/__local/4/B1/F5/AA7A86C08D94ED8A6EE542FF735_407E029B_278FC.jpg)
+
 
 > 行当/题材：神话传奇剧 / 生、旦兼用
 

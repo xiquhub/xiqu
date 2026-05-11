@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: http://www.fj.xinhuanet.com/20240206/14e7edcf537d48e8820c79dcb3af79d0/2024020614e7edcf537d48e8820c79dcb3af79d0_20240206066018a2ef5540bfaf65628403159ac9.jpg
 ---
 
 # 开台锣鼓
+
+![cover](http://www.fj.xinhuanet.com/20240206/14e7edcf537d48e8820c79dcb3af79d0/2024020614e7edcf537d48e8820c79dcb3af79d0_20240206066018a2ef5540bfaf65628403159ac9.jpg)
+
 
 > 行当/题材：未知
 

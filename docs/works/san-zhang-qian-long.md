@@ -9,9 +9,13 @@ era_setting: 清代乾隆年间
 adapted_from:
 needs_research: true
 sources: []
+cover: https://image.fznews.com.cn/app/pic/2022-05/30/364703_865f8426-657c-49db-8c85-76bf9705576f.jpg
 ---
 
 # 三掌乾隆
+
+![cover](https://image.fznews.com.cn/app/pic/2022-05/30/364703_865f8426-657c-49db-8c85-76bf9705576f.jpg)
+
 
 > 行当/题材：宫廷戏 / 历史戏
 

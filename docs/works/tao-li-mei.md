@@ -12,9 +12,13 @@ sources:
   - { url: "https://baike.baidu.com/item/%E6%A1%83%E6%9D%8E%E6%A2%85/13764", type: baidu_baike, scope: 通用 }
   - { url: "https://www.ximiku.com/juqing/809.html", type: other, scope: 通用 }
   - { url: "https://finance.ifeng.com/a/20160703/14554795_0.shtml", type: news, scope: 闽剧专属 }
+cover: http://image2.sina.com.cn/ent/2004-12-19/1103428160_N2aabV.jpg
 ---
 
 # 桃李梅
+
+![cover](http://image2.sina.com.cn/ent/2004-12-19/1103428160_N2aabV.jpg)
+
 
 > 行当/题材：社会伦理喜剧 / 旦、生行
 

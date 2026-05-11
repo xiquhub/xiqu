@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%8D%81%E4%BA%94%E8%B4%AF/23137679", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E5%8D%81%E4%BA%94%E8%B4%AB", type: wikipedia, scope: 通用 }
+cover: https://picx.zhimg.com/v2-079d06a54809c8d06f6593bea32a7cf3_r.jpg
 ---
 
 # 十五贯
+
+![cover](https://picx.zhimg.com/v2-079d06a54809c8d06f6593bea32a7cf3_r.jpg)
+
 
 > 行当/题材：公案戏 / 冤案戏
 

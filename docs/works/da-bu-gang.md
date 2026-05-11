@@ -10,9 +10,13 @@ adapted_from: 传统剧目（取材自郑板桥故事）
 needs_research: false
 sources:
   - { url: "https://m.kanxiji.net/fujianxi/minju/2023-12-19/219583.html", type: baidu_baike, scope: 闽剧专属 }
+cover: http://www.chinawriter.com.cn/NMediaFile/2017/0804/MAIN201708040633000088271970062.jpg
 ---
 
 # 大补缸
+
+![cover](http://www.chinawriter.com.cn/NMediaFile/2017/0804/MAIN201708040633000088271970062.jpg)
+
 
 > 行当/题材：公案（喜剧折子戏）
 

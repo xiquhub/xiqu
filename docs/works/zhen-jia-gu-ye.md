@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/uv9Ug-Z3hYQ/hqdefault.jpg
 ---
 
 # 真假姑爷
+
+![cover](https://i.ytimg.com/vi/uv9Ug-Z3hYQ/hqdefault.jpg)
+
 
 > 行当/题材：喜剧/误会/婚恋
 

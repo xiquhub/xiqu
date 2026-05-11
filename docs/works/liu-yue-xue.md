@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%85%AD%E6%9C%88%E9%9B%AA/12023285", type: baidu_baike, scope: 通用 }
   - { url: "https://m.kanxiji.net/fujianxi/minju/2021-12-11/192675.html", type: other, scope: 闽剧专属 }
+cover: https://img.mala.cn/forum/201804/16/213249dfbqtp2k5nepjz92.jpg
 ---
 
 # 六月雪
+
+![cover](https://img.mala.cn/forum/201804/16/213249dfbqtp2k5nepjz92.jpg)
+
 
 > 行当/题材：公案
 

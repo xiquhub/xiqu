@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://puui.qpic.cn/vpic_cover/t3146nfqfwn/t3146nfqfwn_hz.jpg
 ---
 
 # 太子追花
+
+![cover](https://puui.qpic.cn/vpic_cover/t3146nfqfwn/t3146nfqfwn_hz.jpg)
+
 
 > 行当/题材：宫廷传奇剧
 

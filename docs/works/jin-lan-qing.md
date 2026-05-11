@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/MxWZYk3jSBE/hqdefault.jpg
 ---
 
 # 金兰情
+
+![cover](https://i.ytimg.com/vi/MxWZYk3jSBE/hqdefault.jpg)
+
 
 > 行当/题材：未知
 

@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/l5CGytCOa5w/hqdefault.jpg
 ---
 
 # 金指甲
+
+![cover](https://i.ytimg.com/vi/l5CGytCOa5w/hqdefault.jpg)
+
 
 > 行当/题材：未知
 

@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 传统剧目
 needs_research: true
 sources: []
+cover: http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781331014.jpg
 ---
 
 # 凤凰蛋
+
+![cover](http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781331014.jpg)
+
 
 > 行当/题材：未知
 

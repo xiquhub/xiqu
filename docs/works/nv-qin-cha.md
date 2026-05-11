@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: http://n.sinaimg.cn/sinacn/w640h427/20180302/c1f5-fwnpcnt2189679.png
 ---
 
 # 女钦差
+
+![cover](http://n.sinaimg.cn/sinacn/w640h427/20180302/c1f5-fwnpcnt2189679.png)
+
 
 > 行当/题材：旦（女扮男装）／喜剧
 

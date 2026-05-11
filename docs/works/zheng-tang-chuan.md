@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://pic.baike.soso.com/ugc/baikepic2/12469/cut-20190102160530-1884327576_jpg_1308_874_224993.jpg
 ---
 
 # 郑唐传
+
+![cover](https://pic.baike.soso.com/ugc/baikepic2/12469/cut-20190102160530-1884327576_jpg_1308_874_224993.jpg)
+
 
 > 行当/题材：待查
 

@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://p4.qhimg.com/t01017e75bcb1f73799.jpg
 ---
 
 # 乌犬偷吃白犬当罪
+
+![cover](https://p4.qhimg.com/t01017e75bcb1f73799.jpg)
+
 
 > 行当/题材：待考（据题名推测为民间笑话或公案题材）
 

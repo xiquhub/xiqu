@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://image.fznews.com.cn/app/pic/2024-10/14/515109_8c890dda-0f32-42a9-9ae8-586612845cd9.jpg
 ---
 
 # 萍水缘
+
+![cover](https://image.fznews.com.cn/app/pic/2024-10/14/515109_8c890dda-0f32-42a9-9ae8-586612845cd9.jpg)
+
 
 > 行当/题材：旦、生／才子佳人或离合
 

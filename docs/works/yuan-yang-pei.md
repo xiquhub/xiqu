@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://newbbs-fd.zol-img.com.cn/t_s1200x5000/g5/M00/01/0D/ChMkJlfbSUCIAQ9NABiOE4bPE1IAAWEaACmu5UAGI4r987.jpg
 ---
 
 # 鸳鸯配
+
+![cover](https://newbbs-fd.zol-img.com.cn/t_s1200x5000/g5/M00/01/0D/ChMkJlfbSUCIAQ9NABiOE4bPE1IAAWEaACmu5UAGI4r987.jpg)
+
 
 > 行当/题材：喜剧/婚恋
 

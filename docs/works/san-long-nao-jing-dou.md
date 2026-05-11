@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/V6jhZeUrPBk/hqdefault.jpg
 ---
 
 # 三龙闹京都
+
+![cover](https://i.ytimg.com/vi/V6jhZeUrPBk/hqdefault.jpg)
+
 
 > 行当/题材：待考
 

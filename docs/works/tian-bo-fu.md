@@ -10,9 +10,13 @@ adapted_from: 杨家将历史传说及小说
 needs_research: false
 sources:
   - { url: "https://zh.wikipedia.org/zh-hans/%E6%A5%8A%E9%96%80%E5%A5%B3%E5%B0%87_(2001%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)", type: wikipedia, scope: 通用 }
+cover: https://newbbs-fd.zol-img.com.cn/t_s800x2000/g6/M00/0A/06/ChMkKV9p7lyIM-8dAAJ7794slVYAACpTAPSHbIAAnwH994.jpg
 ---
 
 # 天波府
+
+![cover](https://newbbs-fd.zol-img.com.cn/t_s800x2000/g6/M00/0A/06/ChMkKV9p7lyIM-8dAAJ7794slVYAACpTAPSHbIAAnwH994.jpg)
+
 
 > 行当/题材：历史英雄剧 / 生、旦、净行
 

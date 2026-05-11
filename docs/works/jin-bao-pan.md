@@ -10,9 +10,13 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+cover: http://www.chinaweekly.cn/upload/image/20210225/6374984921627261247953540.jpg
 ---
 
 # 金宝盘
+
+![cover](http://www.chinaweekly.cn/upload/image/20210225/6374984921627261247953540.jpg)
+
 
 > 行当/题材：公案
 

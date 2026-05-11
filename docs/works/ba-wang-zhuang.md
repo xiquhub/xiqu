@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 传统剧目
 needs_research: true
 sources: []
+cover: https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169014027_1568549867014.jpg
 ---
 
 # 霸王庄
+
+![cover](https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169014027_1568549867014.jpg)
+
 
 > 行当/题材：未知
 

@@ -11,9 +11,13 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E4%B9%A6%E7%97%B4/9082317", type: baidu_baike, scope: 通用 }
   - { url: "https://liaozhai.5000yan.com/20351.html", type: 聊斋原文, scope: 通用 }
+cover: https://www.fzmjtc.cn/__local/C/DE/FF/8A64EA06B1C727ACD07B065AADA_4E1B52A4_23EAB.jpg
 ---
 
 # 书痴
+
+![cover](https://www.fzmjtc.cn/__local/C/DE/FF/8A64EA06B1C727ACD07B065AADA_4E1B52A4_23EAB.jpg)
+
 
 > 行当/题材：传奇 / 爱情戏
 

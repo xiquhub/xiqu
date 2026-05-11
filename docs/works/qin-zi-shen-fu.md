@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://i.ytimg.com/vi/fdMcg50j-Eo/hqdefault.jpg
 ---
 
 # 亲子审父
+
+![cover](https://i.ytimg.com/vi/fdMcg50j-Eo/hqdefault.jpg)
+
 
 > 行当/题材：生（子）、须生（父）／公案伦理
 

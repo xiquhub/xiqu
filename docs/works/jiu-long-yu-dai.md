@@ -9,9 +9,13 @@ era_setting: 未知
 adapted_from: 未知
 needs_research: true
 sources: []
+cover: https://img1.fjdaily.com/app/images/2024-10/22/5f96acd9-ac7c-4ae3-9ee9-13b10a591fec.png
 ---
 
 # 九龙玉带
+
+![cover](https://img1.fjdaily.com/app/images/2024-10/22/5f96acd9-ac7c-4ae3-9ee9-13b10a591fec.png)
+
 
 > 行当/题材：未知
 

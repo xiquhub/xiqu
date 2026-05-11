@@ -9,9 +9,13 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+cover: https://puui.qpic.cn/vpic_cover/u3229cqxxvg/u3229cqxxvg_hz.jpg
 ---
 
 # 七品报喜郎
+
+![cover](https://puui.qpic.cn/vpic_cover/u3229cqxxvg/u3229cqxxvg_hz.jpg)
+
 
 > 行当/题材：小生或丑／喜剧
 

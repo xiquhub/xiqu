@@ -10,9 +10,13 @@ adapted_from: 传统剧目《玉蜻蜓》
 needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/36310351/", type: 豆瓣戏曲, scope: 闽剧专属 }
+cover: https://i.ytimg.com/vi/lUG7lPmeCc8/maxresdefault.jpg
 ---
 
 # 三搜幻化庵
+
+![cover](https://i.ytimg.com/vi/lUG7lPmeCc8/maxresdefault.jpg)
+
 
 > 行当/题材：传奇 / 寻亲戏 / 爱情悲剧
 

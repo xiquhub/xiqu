@@ -10,9 +10,13 @@ adapted_from: 清代演义小说《反唐演义全传》（《西征说唐三传
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E8%96%9B%E5%88%9A%E5%8F%8D%E5%94%90/3705762", type: baidu_baike, scope: 通用 }
+cover: https://so1.360tres.com/t01a6f724f8d4b21deb.jpg
 ---
 
 # 薛刚反唐
+
+![cover](https://so1.360tres.com/t01a6f724f8d4b21deb.jpg)
+
 
 > 行当/题材：历史武打戏 / 武生、净行
 
