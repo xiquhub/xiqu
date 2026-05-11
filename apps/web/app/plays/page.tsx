@@ -26,23 +26,21 @@ export default async function PlaysPage({ searchParams }: Params) {
   const params = await searchParams;
   const sort = params.sort ?? "title";
 
-  // 选中标签集合
   const selectedTags = new Set(
     (params.tags ?? "")
       .split(",")
       .map((s) => s.trim())
       .filter(Boolean)
   );
+  const heritageOnly = params.heritage === "true";
 
-  // 基础排序
   let works: Work[];
   if (sort === "popular") works = getPopularWorks(999);
   else if (sort === "recent") works = getRecentWorks(999);
   else works = getAllWorks();
 
-  // 标签筛选（OR 语义）
   works = filterWorksByTags(works, selectedTags);
-  if (params.heritage === "true") works = works.filter((w) => w.heritage);
+  if (heritageOnly) works = works.filter((w) => w.heritage);
 
   const allTags = getAllTagCounts();
   const heritageCount = getAllWorks().filter((w) => w.heritage).length;
@@ -53,13 +51,13 @@ export default async function PlaysPage({ searchParams }: Params) {
     { key: "recent", label: "最近更新" },
   ];
 
-  // 构造 toggle 链接：当前所有筛选保留，仅切换某个 tag
-  const buildHref = (overrides: { tags?: string[]; heritage?: boolean }) => {
+  const buildHref = (overrides: { tags?: string[]; heritage?: boolean; sort?: string }) => {
     const next = new URLSearchParams();
-    if (sort && sort !== "title") next.set("sort", sort);
+    const finalSort = overrides.sort ?? sort;
+    if (finalSort && finalSort !== "title") next.set("sort", finalSort);
     const tags = overrides.tags ?? [...selectedTags];
     if (tags.length) next.set("tags", tags.join(","));
-    const heritage = overrides.heritage ?? params.heritage === "true";
+    const heritage = overrides.heritage ?? heritageOnly;
     if (heritage) next.set("heritage", "true");
     const qs = next.toString();
     return qs ? `/plays?${qs}` : "/plays";
@@ -71,18 +69,22 @@ export default async function PlaysPage({ searchParams }: Params) {
     return buildHref({ tags: [...next] });
   };
 
-  const hasFilter = selectedTags.size > 0 || params.heritage === "true";
+  const hasFilter = selectedTags.size > 0 || heritageOnly;
 
   return (
-    <div className="max-w-7xl mx-auto px-6 py-12">
-      <header className="mb-8 border-b border-[var(--color-border)] pb-4 flex items-end justify-between flex-wrap gap-4">
+    <div className="max-w-7xl mx-auto px-6 py-10 sm:py-12">
+      {/* 标题 + 排序 */}
+      <header className="mb-6 flex items-end justify-between flex-wrap gap-4">
         <div>
           <h1 className="font-serif text-3xl sm:text-4xl text-[var(--color-fg)]">全部剧目</h1>
           <p className="text-sm text-[var(--color-fg-muted)] mt-2">
             共 <strong className="text-[var(--color-fg)]">{works.length}</strong> 部
             {hasFilter && (
               <>
-                {" "}<span className="text-[var(--color-fg-muted)]/70">/ 共收录 {getAllWorks().length}</span>
+                {" "}
+                <span className="text-[var(--color-fg-muted)]/70">
+                  / 共收录 {getAllWorks().length}
+                </span>
               </>
             )}
           </p>
@@ -91,7 +93,7 @@ export default async function PlaysPage({ searchParams }: Params) {
           {sortOptions.map((o) => (
             <Link
               key={o.key}
-              href={`/plays${o.key === "title" ? "" : `?sort=${o.key}`}`}
+              href={buildHref({ sort: o.key })}
               className={
                 "px-3 h-9 inline-flex items-center rounded-md border " +
                 (sort === o.key
@@ -105,134 +107,131 @@ export default async function PlaysPage({ searchParams }: Params) {
         </div>
       </header>
 
-      {/* 当前筛选条 */}
+      {/* 横向标签筛选 */}
+      <div className="mb-2 -mx-6 px-6 sm:mx-0 sm:px-0">
+        <div className="flex sm:flex-wrap gap-2 overflow-x-auto sm:overflow-visible pb-2 sm:pb-0 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+          <TagChip
+            href={buildHref({ heritage: !heritageOnly })}
+            active={heritageOnly}
+            label="★ 非遗"
+            count={heritageCount}
+            tone="heritage"
+          />
+          {allTags.map((t) => (
+            <TagChip
+              key={t.tag}
+              href={toggleTag(t.tag)}
+              active={selectedTags.has(t.tag)}
+              label={t.tag}
+              count={t.count}
+            />
+          ))}
+        </div>
+      </div>
+
+      {/* 已选筛选条 */}
       {hasFilter && (
-        <div className="mb-6 flex flex-wrap items-center gap-2 text-sm">
-          <span className="text-[var(--color-fg-muted)]">筛选：</span>
+        <div className="mb-6 flex flex-wrap items-center gap-2 text-sm border-y border-[var(--color-border)] py-3">
+          <span className="text-[var(--color-fg-muted)]">已选：</span>
+          {heritageOnly && (
+            <Link
+              href={buildHref({ heritage: false })}
+              className="inline-flex items-center gap-1.5 pl-3 pr-2 h-7 rounded-full bg-[var(--color-heritage)] text-[#f5efe2] hover:opacity-90 text-xs"
+            >
+              ★ 非遗
+              <span className="opacity-70" aria-hidden>
+                ×
+              </span>
+            </Link>
+          )}
           {[...selectedTags].map((t) => (
             <Link
               key={t}
               href={toggleTag(t)}
-              className="inline-flex items-center gap-1.5 pl-3 pr-2 h-8 rounded-md bg-[var(--color-accent)] text-[#f5efe2] hover:opacity-90"
+              className="inline-flex items-center gap-1.5 pl-3 pr-2 h-7 rounded-full bg-[var(--color-accent)] text-[#f5efe2] hover:opacity-90 text-xs"
             >
               {t}
-              <span className="text-[#f5efe2]/70" aria-hidden>×</span>
+              <span className="opacity-70" aria-hidden>
+                ×
+              </span>
             </Link>
           ))}
-          {params.heritage === "true" && (
-            <Link
-              href={buildHref({ heritage: false })}
-              className="inline-flex items-center gap-1.5 pl-3 pr-2 h-8 rounded-md bg-[var(--color-heritage)] text-[#f5efe2] hover:opacity-90"
-            >
-              非遗
-              <span className="text-[#f5efe2]/70" aria-hidden>×</span>
-            </Link>
-          )}
-          <Link href="/plays" className="text-[var(--color-fg-muted)] hover:text-[var(--color-accent)] underline ml-1">
+          <Link
+            href="/plays"
+            className="text-[var(--color-fg-muted)] hover:text-[var(--color-accent)] underline ml-1 text-xs"
+          >
             清除全部
           </Link>
         </div>
       )}
 
-      <div className="grid lg:grid-cols-[220px_1fr] gap-10">
-        {/* 侧栏 */}
-        <aside className="space-y-7 text-sm">
-          <FilterBlock title="特殊">
-            <FilterChip
-              href={buildHref({ heritage: !(params.heritage === "true") })}
-              active={params.heritage === "true"}
-              label="国家级非遗"
-              count={heritageCount}
-            />
-          </FilterBlock>
-
-          <FilterBlock title={`题材${selectedTags.size > 0 ? `（已选 ${selectedTags.size}）` : ""}`}>
-            <p className="text-xs text-[var(--color-fg-muted)] mb-2 leading-relaxed">
-              点击切换；可同时选多个（满足任一即显示）
-            </p>
-            {allTags.map((t) => (
-              <FilterChip
-                key={t.tag}
-                href={toggleTag(t.tag)}
-                active={selectedTags.has(t.tag)}
-                label={t.tag}
-                count={t.count}
-              />
+      {/* 主网格（全宽） */}
+      <div className={hasFilter ? "mt-2" : "mt-6"}>
+        {works.length === 0 ? (
+          <div className="text-center text-[var(--color-fg-muted)] py-20">
+            没有匹配的剧目。
+            <Link href="/plays" className="text-[var(--color-accent)] hover:underline ml-1">
+              清除筛选
+            </Link>
+          </div>
+        ) : (
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-x-4 gap-y-8">
+            {works.map((w) => (
+              <PlayCard key={w.slug} work={w} />
             ))}
-          </FilterBlock>
-        </aside>
-
-        {/* 主网格 */}
-        <div>
-          {works.length === 0 ? (
-            <div className="text-center text-[var(--color-fg-muted)] py-20">
-              没有匹配的剧目。
-              <Link href="/plays" className="text-[var(--color-accent)] hover:underline ml-1">
-                清除筛选
-              </Link>
-            </div>
-          ) : (
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-x-5 gap-y-8">
-              {works.map((w) => (
-                <PlayCard key={w.slug} work={w} />
-              ))}
-            </div>
-          )}
-        </div>
+          </div>
+        )}
       </div>
     </div>
   );
 }
 
-function FilterBlock({ title, children }: { title: string; children: React.ReactNode }) {
-  return (
-    <div>
-      <div className="text-xs uppercase tracking-wider text-[var(--color-fg-muted)] font-semibold mb-2">
-        {title}
-      </div>
-      <ul className="space-y-1">{children}</ul>
-    </div>
-  );
-}
-
-function FilterChip({
+function TagChip({
   href,
   active,
   label,
   count,
+  tone = "default",
 }: {
   href: string;
   active?: boolean;
   label: string;
   count?: number;
+  tone?: "default" | "heritage";
 }) {
+  // 配色：默认/已选 / 非遗 / 已选非遗
+  let cls = "";
+  if (tone === "heritage" && active) {
+    cls = "bg-[var(--color-heritage)] text-[#f5efe2] border-[var(--color-heritage)]";
+  } else if (tone === "heritage") {
+    cls =
+      "border-[var(--color-heritage)] text-[var(--color-heritage)] hover:bg-[var(--color-heritage)] hover:text-[#f5efe2]";
+  } else if (active) {
+    cls = "bg-[var(--color-accent)] text-[#f5efe2] border-[var(--color-accent)]";
+  } else {
+    cls =
+      "border-[var(--color-border)] text-[var(--color-fg)] hover:border-[var(--color-accent)] hover:text-[var(--color-accent)]";
+  }
+
   return (
-    <li>
-      <Link
-        href={href}
-        className={
-          "flex items-center justify-between gap-2 px-2 py-1 -mx-2 rounded transition-colors " +
-          (active
-            ? "text-[var(--color-accent)] bg-[var(--color-surface)] font-medium"
-            : "text-[var(--color-fg-muted)] hover:text-[var(--color-fg)] hover:bg-[var(--color-surface)]")
-        }
-      >
-        <span className="flex items-center gap-1.5">
-          <span
-            className={
-              "inline-block w-3 h-3 rounded-sm border " +
-              (active
-                ? "bg-[var(--color-accent)] border-[var(--color-accent)]"
-                : "border-[var(--color-border)]")
-            }
-            aria-hidden
-          />
-          {label}
+    <Link
+      href={href}
+      className={
+        "inline-flex items-center gap-1.5 h-9 px-3.5 rounded-full border text-sm whitespace-nowrap transition-colors " +
+        cls
+      }
+    >
+      <span>{label}</span>
+      {count !== undefined && (
+        <span
+          className={
+            "text-xs " +
+            (active ? "text-[#f5efe2]/75" : "text-[var(--color-fg-muted)]/80")
+          }
+        >
+          {count}
         </span>
-        {count !== undefined && (
-          <span className="text-xs text-[var(--color-fg-muted)]/80">{count}</span>
-        )}
-      </Link>
-    </li>
+      )}
+    </Link>
   );
 }
