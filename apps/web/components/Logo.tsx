@@ -31,11 +31,11 @@ export function Logo({ size = 36 }: { size?: number }) {
       {/* 戲 字 */}
       <text
         x="18"
-        y="19"
+        y="21"
         textAnchor="middle"
         dominantBaseline="central"
         fill="#f5efe2"
-        fontSize="22"
+        fontSize="18"
         fontWeight="900"
         style={{ fontFamily: "var(--font-noto-serif-sc), serif" }}
       >
