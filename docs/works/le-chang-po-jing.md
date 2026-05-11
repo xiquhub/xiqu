@@ -6,7 +6,7 @@ genre: 闽剧
 heritage: false
 plot_type: 才子佳人
 era_setting: 南朝陈末至隋初
-adapted_from: "破镜重圆"历史典故（南朝陈公主乐昌与驸马徐德言故事）
+adapted_from: '"破镜重圆"历史典故（南朝陈公主乐昌与驸马徐德言故事）'
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86/68305", type: baidu_baike, scope: 通用 }

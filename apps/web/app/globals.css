@@ -1,26 +1,104 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* 米色档案 */
+  --color-bg: #f5efe2;
+  --color-bg-elev: #ece4d2;
+  --color-fg: #1d1916;
+  --color-fg-muted: #65574a;
+  --color-border: #d8ceba;
+  --color-accent: #a32522;     /* 朱砂红印泥 */
+  --color-accent-soft: #c8625e;
+  --color-heritage: #b8860b;   /* 非遗金 */
+  --color-link: #5b1e1d;
+}
+
+.dark {
+  /* 墨绿夜读 */
+  --color-bg: #14181a;
+  --color-bg-elev: #1d2326;
+  --color-fg: #ece4d2;
+  --color-fg-muted: #9a8e7a;
+  --color-border: #2a3236;
+  --color-accent: #d96966;
+  --color-accent-soft: #a32522;
+  --color-heritage: #d4a437;
+  --color-link: #f0a098;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-background: var(--color-bg);
+  --color-surface: var(--color-bg-elev);
+  --color-foreground: var(--color-fg);
+  --color-muted: var(--color-fg-muted);
+  --color-border: var(--color-border);
+  --color-accent: var(--color-accent);
+  --color-accent-soft: var(--color-accent-soft);
+  --color-heritage: var(--color-heritage);
+  --color-link: var(--color-link);
+  --font-serif: var(--font-noto-serif-sc), ui-serif, Georgia, "Songti SC", serif;
+  --font-sans: var(--font-noto-sans-sc), ui-sans-serif, system-ui, -apple-system, "PingFang SC", sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html, body {
+  background: var(--color-bg);
+  color: var(--color-fg);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+  font-feature-settings: "kern", "liga", "calt";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-serif);
+}
+
+a {
+  transition: color 0.15s ease;
+}
+
+img {
+  background: var(--color-bg-elev);
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border) transparent;
+}
+
+.heritage-stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.15em 0.6em;
+  border: 1px solid var(--color-heritage);
+  color: var(--color-heritage);
+  border-radius: 2px;
+  font-size: 0.75em;
+  letter-spacing: 0.1em;
+}
+
+.cover-frame {
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+  background: var(--color-bg-elev);
+  position: relative;
+}
+
+.cover-frame > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.prose-cn p {
+  line-height: 1.85;
+  text-indent: 2em;
+  margin-bottom: 0.5em;
 }
