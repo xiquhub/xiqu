@@ -12,6 +12,13 @@ sources:
   - { url: "https://www.douban.com/location/drama/26983151/", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://baike.baidu.com/item/%E5%A4%AB%E4%BA%BA%E5%9F%8E/64156714", type: baidu_baike, scope: 通用 }
 cover: http://news.cnhubei.com/a/10001/202305/8b575423438c30ac37c6b8e2d373a41d.jpeg
+productions:
+  - slug: "main"
+    label: "谢巧星/林颖/黄秀春等"
+    leads: ["谢巧星", "林颖", "黄秀春等"]
+    confidence: "high"
+    parts:
+      - { file: "003-福建地方戏曲闽剧《夫人城》全剧 谢巧星 林颖 黄秀春等主演.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 夫人城

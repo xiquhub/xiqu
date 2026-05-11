@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/qKckPoMJfLY/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "445-闽剧《双太子》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 双太子

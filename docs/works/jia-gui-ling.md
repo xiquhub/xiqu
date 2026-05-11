@@ -10,6 +10,14 @@ adapted_from: 传统剧目
 needs_research: true
 sources: []
 cover: http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781324259.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "121-闽剧 嘉桂岭 1.flv", label: "1", sort_order: 1 }
+      - { file: "122-闽剧 嘉桂岭 2.flv", label: "2", sort_order: 2 }
+      - { file: "123-闽剧 嘉桂岭 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 嘉桂岭

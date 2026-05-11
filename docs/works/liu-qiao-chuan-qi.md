@@ -9,6 +9,12 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "199-闽剧 柳桥传奇.flv", label: "", sort_order: 0 }
 ---
 
 # 柳桥传奇

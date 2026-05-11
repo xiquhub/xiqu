@@ -11,6 +11,15 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://i.ytimg.com/vi/23gjgeUCuZ0/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "309-闽剧 菱花双合镜.flv", label: "", sort_order: 0 }
+      - { file: "072-闽剧 凌花双合镜1.flv", label: "1", sort_order: 1 }
+      - { file: "073-闽剧 凌花双合镜2.flv", label: "2", sort_order: 2 }
+      - { file: "074-闽剧 凌花双合镜3.flv", label: "3", sort_order: 3 }
 ---
 
 # 菱花双合镜

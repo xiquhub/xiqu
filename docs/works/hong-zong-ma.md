@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%BA%A2%E9%AC%83%E7%83%88%E9%A9%AC/874147", type: baidu_baike, scope: 通用 }
 cover: https://image.fznews.com.cn/app/pic/2024-12/17/525933_12e8732a-fbe0-4188-a147-b8aa600daaf8.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "496-闽剧《红鬃马》1上.flv", label: "上", sort_order: 1 }
+      - { file: "497-闽剧《红鬃马》2中.flv", label: "中", sort_order: 2 }
+      - { file: "498-闽剧《红鬃马》3下.flv", label: "下", sort_order: 3 }
 ---
 
 # 红鬃马

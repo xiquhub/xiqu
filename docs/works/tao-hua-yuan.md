@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://puui.qpic.cn/vpic_cover/m33396xuavl/m33396xuavl_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "203-闽剧 桃花缘_1.flv", label: "1", sort_order: 1 }
+      - { file: "204-闽剧 桃花缘_2.flv", label: "2", sort_order: 2 }
+      - { file: "205-闽剧 桃花缘_3.flv", label: "3", sort_order: 3 }
 ---
 
 # 桃花缘

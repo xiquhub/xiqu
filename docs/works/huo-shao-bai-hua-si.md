@@ -11,6 +11,12 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 通用, confidence: high }
 cover: https://i.ytimg.com/vi/lYjAPATYXp8/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "007-福建地方戏曲闽剧《火烧百花寺》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 火烧百花寺

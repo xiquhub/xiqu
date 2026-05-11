@@ -10,6 +10,12 @@ adapted_from: 传统剧目（包公戏系列）
 needs_research: true
 sources: []
 cover: https://image.fznews.com.cn/app/pic/2023-09/28/450318_719aba6e-3cac-4fd8-b4f4-8e9a1ac383cd.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "092-闽剧 包公镇公主.flv", label: "", sort_order: 0 }
 ---
 
 # 包公镇公主

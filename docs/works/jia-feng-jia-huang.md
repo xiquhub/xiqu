@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://i2.kknews.cc/n29bu2f-0K06FOhqo0uhi88jJyrGEeGhDEuHFbs/0.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "054-闽剧 假凤假凰1.flv", label: "1", sort_order: 1 }
+      - { file: "055-闽剧 假凤假凰2.flv", label: "2", sort_order: 2 }
+      - { file: "056-闽剧 假凤假凰3.flv", label: "3", sort_order: 3 }
 ---
 
 # 假凤假凰

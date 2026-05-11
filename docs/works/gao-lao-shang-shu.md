@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://www.ximiku.com/juqing/", type: 戏曲大全网, scope: 通用 }
 cover: https://puui.qpic.cn/vpic_cover/f3232nth0vv/f3232nth0vv_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "112-闽剧 告老尚书 1.flv", label: "1", sort_order: 1 }
+      - { file: "113-闽剧 告老尚书 2.flv", label: "2", sort_order: 2 }
+      - { file: "114-闽剧 告老尚书 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 告老尚书

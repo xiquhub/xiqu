@@ -10,6 +10,12 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: http://www.fj.xinhuanet.com/20240206/14e7edcf537d48e8820c79dcb3af79d0/2024020614e7edcf537d48e8820c79dcb3af79d0_20240206066018a2ef5540bfaf65628403159ac9.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "165-闽剧 开台锣鼓.flv", label: "", sort_order: 0 }
 ---
 
 # 开台锣鼓

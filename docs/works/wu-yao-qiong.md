@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://fz.wenming.cn/fzjj/201705/W020170524586054408121.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "111-闽剧 吴瑶琼.flv", label: "", sort_order: 0 }
 ---
 
 # 吴瑶琼

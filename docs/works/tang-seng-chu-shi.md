@@ -12,6 +12,14 @@ sources:
   - { url: "https://zh.wikipedia.org/zh-hans/%E8%A5%BF%E6%B8%B8%E8%AE%B0", type: wikipedia, scope: 通用 }
   - { url: "https://baike.baidu.com/item/%E5%94%90%E5%83%A7/338052", type: baidu_baike, scope: 通用 }
 cover: https://www.fzmjtc.cn/__local/4/B1/F5/AA7A86C08D94ED8A6EE542FF735_407E029B_278FC.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "118-闽剧 唐僧出世1.flv", label: "1", sort_order: 1 }
+      - { file: "119-闽剧 唐僧出世2.flv", label: "2", sort_order: 2 }
+      - { file: "120-闽剧 唐僧出世3.flv", label: "3", sort_order: 3 }
 ---
 
 # 唐僧出世

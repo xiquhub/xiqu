@@ -10,6 +10,14 @@ adapted_from: 传统剧目
 needs_research: true
 sources: []
 cover: https://puui.qpic.cn/vpic_cover/y0698etknbp/y0698etknbp_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "320-闽剧 采药女传奇 1.flv", label: "1", sort_order: 1 }
+      - { file: "321-闽剧 采药女传奇 2.flv", label: "2", sort_order: 2 }
+      - { file: "322-闽剧 采药女传奇 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 采药女传奇

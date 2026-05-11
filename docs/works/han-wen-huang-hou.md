@@ -12,6 +12,13 @@ sources:
   - { url: "https://wenyi.gmw.cn/2024-01/08/content_37077226.htm", type: 通用网站, scope: 通用 }
   - { url: "https://www.china144.com/6115.html", type: 戏曲资源网, scope: 通用 }
 cover: https://pubmeizi.szttkk.cn/11865459480072.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "215-闽剧 汉文皇后 1.flv", label: "1", sort_order: 1 }
+      - { file: "216-闽剧 汉文皇后 2.flv", label: "2", sort_order: 2 }
 ---
 
 # 汉文皇后

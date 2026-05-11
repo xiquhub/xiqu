@@ -10,6 +10,14 @@ adapted_from: 传统剧目
 needs_research: true
 sources: []
 cover: https://img1.fjdaily.com/app/images/2023-09/20/40954673-ecc3-4e70-8e23-cf8a84ca4d22.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "212-闽剧 橄榄记 1.flv", label: "1", sort_order: 1 }
+      - { file: "213-闽剧 橄榄记 2.flv", label: "2", sort_order: 2 }
+      - { file: "214-闽剧 橄榄记 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 橄榄记

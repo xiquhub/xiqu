@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E5%AD%9F%E4%B8%BD%E5%90%9B/56061973", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://baike.baidu.com/item/%E5%86%8D%E7%94%9F%E7%BC%98/15647", type: baidu_baike, scope: 通用 }
 cover: https://img1.fjdaily.com/app/images/2023-01/20/7d8706a8-0dd0-4968-af37-896b2c96e518.jpg
+productions:
+  - slug: "main"
+    label: "全剧/福建/张建斌"
+    troupe: "福州闽剧院一团"
+    leads: ["全剧", "福建", "张建斌"]
+    confidence: "high"
+    parts:
+      - { file: "460-闽剧《孟丽君》全剧 福建福州闽剧院一团 张建斌主演.flv", label: "", sort_order: 0 }
 ---
 
 # 孟丽君

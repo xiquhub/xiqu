@@ -11,6 +11,12 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://i.ytimg.com/vi/Xx-0GwAQJHw/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "091-闽剧 包公审金钗.flv", label: "", sort_order: 0 }
 ---
 
 # 包公审金钗

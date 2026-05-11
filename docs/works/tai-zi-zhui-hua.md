@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://puui.qpic.cn/vpic_cover/t3146nfqfwn/t3146nfqfwn_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "457-闽剧《太子追花》1.flv", label: "1", sort_order: 1 }
+      - { file: "458-闽剧《太子追花》2.flv", label: "2", sort_order: 2 }
+      - { file: "459-闽剧《太子追花》3.flv", label: "3", sort_order: 3 }
 ---
 
 # 太子追花

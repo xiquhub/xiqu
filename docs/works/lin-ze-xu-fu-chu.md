@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://zx.fuzhou.gov.cn/zz/ywjx/ywjx/202512/t20251209_5255100.htm", type: other, scope: 闽剧专属 }
 cover: http://n.sinaimg.cn/ent/transform/20160113/1axZ-fxnkkuy8009142.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "192-闽剧 林则徐复出 1.flv", label: "1", sort_order: 1 }
+      - { file: "193-闽剧 林则徐复出 2.flv", label: "2", sort_order: 2 }
+      - { file: "194-闽剧 林则徐复出 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 林则徐复出

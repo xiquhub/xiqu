@@ -10,6 +10,13 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: https://china144-1257247002.file.myqcloud.com/2020/07/8-3-800x533.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "507-闽剧《金河遇》全剧(上集).mp4", label: "上", sort_order: 1 }
+      - { file: "508-闽剧《金河遇》全剧(下集).mp4", label: "下", sort_order: 3 }
 ---
 
 # 金河遇

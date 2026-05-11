@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: http://upload.mnw.cn/2025/1218/39C176602173264393.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "141-闽剧 姑侄情 1.flv", label: "1", sort_order: 1 }
+      - { file: "142-闽剧 姑侄情 2.flv", label: "2", sort_order: 2 }
+      - { file: "143-闽剧 姑侄情 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 姑侄情

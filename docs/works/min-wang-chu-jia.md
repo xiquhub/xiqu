@@ -10,6 +10,12 @@ adapted_from: 王审知历史传说
 needs_research: true
 sources:
   - { url: "https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/mdrj/202111/t20211115_4242653.htm", type: 其他, scope: 通用 }
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "359-闽剧 闽王出家.flv", label: "", sort_order: 0 }
 ---
 
 # 闽王出家

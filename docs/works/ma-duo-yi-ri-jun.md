@@ -12,6 +12,13 @@ sources:
   - { url: "https://www.clnews.com.cn/html/15/2012-12-10/0938102646.shtml", type: other, scope: 闽剧专属 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E9%A9%AC%E9%93%8E", type: other, scope: 通用 }
 cover: https://puui.qpic.cn/vpic_cover/v32214myshs/v32214myshs_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "061-闽剧 全集 马乐一日君.flv", label: "全", sort_order: 0 }
+      - { file: "374-闽剧 马铎一日君全集.flv", label: "全", sort_order: 0 }
 ---
 
 # 马铎一日君

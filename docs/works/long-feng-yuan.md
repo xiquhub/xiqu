@@ -11,6 +11,17 @@ needs_research: true
 sources:
   - { url: "https://baike.baidu.com/item/%E9%BE%99%E5%87%A4%E6%80%A8/1256923", type: baidu_baike, scope: 通用 }
 cover: https://i.ytimg.com/vi/cHVxjPvGJ58/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "391-闽剧 龙凤怨(上)1.flv", label: "上", sort_order: 1 }
+      - { file: "392-闽剧 龙凤怨(上)2.flv", label: "上", sort_order: 1 }
+      - { file: "393-闽剧 龙凤怨(上)3.flv", label: "上", sort_order: 1 }
+      - { file: "394-闽剧 龙凤怨(下)1.flv", label: "下", sort_order: 3 }
+      - { file: "395-闽剧 龙凤怨(下)2.flv", label: "下", sort_order: 3 }
+      - { file: "396-闽剧 龙凤怨(下)3.flv", label: "下", sort_order: 3 }
 ---
 
 # 龙凤怨

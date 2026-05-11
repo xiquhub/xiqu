@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://www.mwnews.cn/uploaded/c20ad12/20251107/25871762487412.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "082-闽剧 包公判女魂(上).flv", label: "上", sort_order: 1 }
+      - { file: "084-闽剧 包公判女魂(中).flv", label: "中", sort_order: 2 }
+      - { file: "083-闽剧 包公判女魂(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 包公判女魂

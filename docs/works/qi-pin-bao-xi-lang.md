@@ -10,6 +10,15 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://puui.qpic.cn/vpic_cover/u3229cqxxvg/u3229cqxxvg_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "017-闽剧 七品报喜郎 1.flv", label: "1", sort_order: 1 }
+      - { file: "018-闽剧 七品报喜郎 2.flv", label: "2", sort_order: 2 }
+      - { file: "019-闽剧 七品报喜郎 3.flv", label: "3", sort_order: 3 }
+      - { file: "020-闽剧 七品报喜郎 4.flv", label: "4", sort_order: 4 }
 ---
 
 # 七品报喜郎

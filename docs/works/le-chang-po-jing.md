@@ -10,6 +10,16 @@ adapted_from: '"破镜重圆"历史典故（南朝陈公主乐昌与驸马徐德
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86/68305", type: baidu_baike, scope: 通用 }
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "426-闽剧《乐昌破镜》01.flv", label: "1", sort_order: 1 }
+      - { file: "427-闽剧《乐昌破镜》02.flv", label: "2", sort_order: 2 }
+      - { file: "428-闽剧《乐昌破镜》03.flv", label: "3", sort_order: 3 }
+      - { file: "429-闽剧《乐昌破镜》04.flv", label: "4", sort_order: 4 }
+      - { file: "430-闽剧《乐昌破镜》05.flv", label: "5", sort_order: 5 }
 ---
 
 # 乐昌破镜

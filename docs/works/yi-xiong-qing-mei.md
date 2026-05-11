@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://image.fznews.com.cn/app/pic/2025-12/17/602174_7f96a654-d31f-4e38-96d5-80034c98631d.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "035-闽剧 义兄情妹.flv", label: "", sort_order: 0 }
 ---
 
 # 义兄情妹

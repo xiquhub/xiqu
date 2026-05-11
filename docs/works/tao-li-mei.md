@@ -13,6 +13,14 @@ sources:
   - { url: "https://www.ximiku.com/juqing/809.html", type: other, scope: 通用 }
   - { url: "https://finance.ifeng.com/a/20160703/14554795_0.shtml", type: news, scope: 闽剧专属 }
 cover: http://image2.sina.com.cn/ent/2004-12-19/1103428160_N2aabV.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "200-闽剧 桃李梅1.flv", label: "1", sort_order: 1 }
+      - { file: "201-闽剧 桃李梅2.flv", label: "2", sort_order: 2 }
+      - { file: "202-闽剧 桃李梅3.flv", label: "3", sort_order: 3 }
 ---
 
 # 桃李梅

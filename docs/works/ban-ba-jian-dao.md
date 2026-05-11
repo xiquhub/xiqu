@@ -11,6 +11,17 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%8D%8A%E6%8A%8A%E5%89%AA%E5%88%80/9596076", type: baidu_baike, scope: 通用 }
 cover: https://i.ytimg.com/vi/o5GrFoAn2Q4/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "094-闽剧 半把剪刀 1.flv", label: "1", sort_order: 1 }
+      - { file: "097-闽剧 半把剪刀(上).flv", label: "上", sort_order: 1 }
+      - { file: "095-闽剧 半把剪刀 2.flv", label: "2", sort_order: 2 }
+      - { file: "099-闽剧 半把剪刀(中).flv", label: "中", sort_order: 2 }
+      - { file: "096-闽剧 半把剪刀 3.flv", label: "3", sort_order: 3 }
+      - { file: "098-闽剧 半把剪刀(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 半把剪刀

@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://blog.sina.com.cn/s/blog_4892368f0102w7wa.html", type: 其他, scope: 通用 }
 cover: https://i.ytimg.com/vi/v3rmaSBCEbc/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "238-闽剧 牧羊城 1.flv", label: "1", sort_order: 1 }
+      - { file: "239-闽剧 牧羊城 2.flv", label: "2", sort_order: 2 }
+      - { file: "240-闽剧 牧羊城 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 牧羊城

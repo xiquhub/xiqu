@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/SoQqw5rT2tY/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "156-闽剧 尼姑打皇后1.flv", label: "1", sort_order: 1 }
+      - { file: "157-闽剧 尼姑打皇后2.flv", label: "2", sort_order: 2 }
+      - { file: "158-闽剧 尼姑打皇后3.flv", label: "3", sort_order: 3 }
 ---
 
 # 尼姑打皇后

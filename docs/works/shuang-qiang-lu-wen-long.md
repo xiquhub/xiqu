@@ -12,6 +12,13 @@ sources:
   - { url: "https://baike.baidu.com/item/%E5%8F%8C%E6%9E%AA%E9%99%86%E6%96%87%E9%BE%99/16831657", type: baidu_baike, scope: 通用 }
   - { url: "https://ys.httpcn.com/html/jumu/201921/CQPWPWAZCQ.shtml", type: 汉程艺术, scope: 通用 }
 cover: https://i.ytimg.com/vi/NVVLmTdv940/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "106-闽剧 双枪陆文龙 1.flv", label: "1", sort_order: 1 }
+      - { file: "107-闽剧 双枪陆文龙 2.flv", label: "2", sort_order: 2 }
 ---
 
 # 双枪陆文龙

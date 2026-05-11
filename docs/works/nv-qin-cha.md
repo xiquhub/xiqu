@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://n.sinaimg.cn/sinacn/w640h427/20180302/c1f5-fwnpcnt2189679.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "138-闽剧 女钦差1.flv", label: "1", sort_order: 1 }
+      - { file: "139-闽剧 女钦差2.flv", label: "2", sort_order: 2 }
+      - { file: "140-闽剧 女钦差3.flv", label: "3", sort_order: 3 }
 ---
 
 # 女钦差

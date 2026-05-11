@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/F0TbEhjFLGY/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "189-闽剧 杨玉春告状 1.flv", label: "1", sort_order: 1 }
+      - { file: "190-闽剧 杨玉春告状 2.flv", label: "2", sort_order: 2 }
+      - { file: "191-闽剧 杨玉春告状 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 杨玉春告状

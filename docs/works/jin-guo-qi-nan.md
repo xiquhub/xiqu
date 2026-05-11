@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: medium }
 cover: http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169013958_1568549806226.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "162-闽剧 巾帼奇男 1.flv", label: "1", sort_order: 1 }
+      - { file: "163-闽剧 巾帼奇男 2.flv", label: "2", sort_order: 2 }
+      - { file: "164-闽剧 巾帼奇男 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 巾帼奇男

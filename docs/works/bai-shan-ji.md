@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://movie.douban.com/subject/33393411/", type: 其他, scope: 通用 }
 cover: https://puui.qpic.cn/vpic_cover/z0824z4kas6/z0824z4kas6_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "269-闽剧 白扇记(上).flv", label: "上", sort_order: 1 }
+      - { file: "271-闽剧 白扇记(中).flv", label: "中", sort_order: 2 }
+      - { file: "270-闽剧 白扇记(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 白扇记

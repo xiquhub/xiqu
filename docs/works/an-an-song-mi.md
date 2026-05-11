@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AE%89%E5%AE%89%E9%80%81%E7%B1%B3/8777226", type: baidu_baike, scope: 通用 }
 cover: https://i.ytimg.com/vi/E44NcJ5nM-Q/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "147-闽剧 安安送米 1.flv", label: "1", sort_order: 1 }
+      - { file: "148-闽剧 安安送米 2.flv", label: "2", sort_order: 2 }
+      - { file: "149-闽剧 安安送米 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 安安送米

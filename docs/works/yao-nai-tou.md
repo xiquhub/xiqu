@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/WyIEHECC06g/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "001-福建地方戏曲闽剧《咬奶头》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 咬奶头

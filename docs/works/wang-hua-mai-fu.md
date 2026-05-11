@@ -12,6 +12,12 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%8E%8B%E5%8D%8E%E4%B9%B0%E7%88%B6/7404568", type: baidu_baike, scope: 通用 }
   - { url: "https://m.xiquwenhua.net/xiqudaquan/mingpian/works/1103.html", type: other, scope: 通用 }
 cover: https://i.ytimg.com/vi/RP74TeqyhO0/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "009-福建地方戏曲闽剧《王华买父》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 王华买父

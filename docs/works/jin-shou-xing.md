@@ -10,6 +10,13 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: https://img1.fjdaily.com/app/images/2024-04/15/1b11dbfd-9797-4a6d-ad52-613fe0f952fc.JPEG
+productions:
+  - slug: "main"
+    label: "标清版"
+    media_type: "标清"
+    confidence: "medium"
+    parts:
+      - { file: "506-闽剧《金寿星》标清.flv", label: "", sort_order: 0 }
 ---
 
 # 金寿星

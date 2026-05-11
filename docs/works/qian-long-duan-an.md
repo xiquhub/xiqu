@@ -10,6 +10,14 @@ adapted_from: 乾隆民间故事
 needs_research: true
 sources: []
 cover: https://puui.qpic.cn/vpic_cover/u07585dclzp/u07585dclzp_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "044-闽剧 乾隆断案 1.flv", label: "1", sort_order: 1 }
+      - { file: "045-闽剧 乾隆断案 2.flv", label: "2", sort_order: 2 }
+      - { file: "046-闽剧 乾隆断案 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 乾隆断案

@@ -10,6 +10,15 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://img1.fjdaily.com/app/images/2023-12/08/874b215f-9680-4b86-b669-854c5554a678.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "441-闽剧《南归梦》一.flv", label: "一", sort_order: 1 }
+      - { file: "443-闽剧《南归梦》二.flv", label: "二", sort_order: 2 }
+      - { file: "442-闽剧《南归梦》三.flv", label: "三", sort_order: 3 }
+      - { file: "444-闽剧《南归梦》四.flv", label: "四", sort_order: 4 }
 ---
 
 # 南归梦

@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/ocLfbwAf8AI1WeEyAMs898TeJQmwWHAxfJAQtg~tplv-dy-aweme-images:q75.webp
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "047-闽剧 五福临门.flv", label: "", sort_order: 0 }
 ---
 
 # 五福临门

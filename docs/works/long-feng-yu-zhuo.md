@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://u6.iqiyipic.com/image/20250122/0c/c5/pv_3089642035541200_d_601_1248_720.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "397-闽剧 龙凤玉镯1(上集).flv", label: "上", sort_order: 1 }
+      - { file: "398-闽剧 龙凤玉镯2(中集).flv", label: "中", sort_order: 2 }
+      - { file: "399-闽剧 龙凤玉镯3(下集).flv", label: "下", sort_order: 3 }
 ---
 
 # 龙凤玉镯

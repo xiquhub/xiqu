@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://i1.hdslb.com/bfs/archive/d862e2d05ec9c1a24e84d9a0ca4fcb1f82e1153f.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "400-闽剧 龙凤金耳扒1.flv", label: "1", sort_order: 1 }
+      - { file: "401-闽剧 龙凤金耳扒2.flv", label: "2", sort_order: 2 }
+      - { file: "402-闽剧 龙凤金耳扒3.flv", label: "3", sort_order: 3 }
 ---
 
 # 龙凤金耳扒

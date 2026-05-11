@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://newbbs-fd.zol-img.com.cn/t_s1200x5000/g5/M00/01/0D/ChMkJlfbSUCIAQ9NABiOE4bPE1IAAWEaACmu5UAGI4r987.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "382-闽剧 鸳鸯配 1.flv", label: "1", sort_order: 1 }
+      - { file: "383-闽剧 鸳鸯配 2.flv", label: "2", sort_order: 2 }
+      - { file: "384-闽剧 鸳鸯配 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 鸳鸯配

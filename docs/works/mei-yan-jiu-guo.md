@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: medium }
 cover: http://static.miyia.com/uploadfile/kindimages/image/20161127/20161127185229_362.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "477-闽剧《梅燕救国》A.flv", label: "A", sort_order: 1 }
+      - { file: "478-闽剧《梅燕救国》B.flv", label: "B", sort_order: 2 }
+      - { file: "479-闽剧《梅燕救国》C.flv", label: "C", sort_order: 3 }
 ---
 
 # 梅燕救国

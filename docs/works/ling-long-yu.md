@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i2.kknews.cc/0JpJHHyOfFQtnUCafyJKv14lkbbJrnYmaJq3-nE/0.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "268-闽剧 玲珑玉.flv", label: "", sort_order: 0 }
 ---
 
 # 玲珑玉

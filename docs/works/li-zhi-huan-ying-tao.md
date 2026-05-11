@@ -10,6 +10,12 @@ adapted_from: 未知（疑与《荔枝换绛桃》同源或为其异本）
 needs_research: true
 sources: []
 cover: https://k.sinaimg.cn/n/sinakd20211228s/107/w1024h683/20211228/ac44-5c93a2644ac4ea5eb30eb1fdb5e20814.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "308-闽剧 荔枝换樱桃.flv", label: "", sort_order: 0 }
 ---
 
 # 荔枝换樱桃

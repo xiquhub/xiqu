@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://aliimg.changba.com/cache/photo/284d6c3a-1896-4711-893e-1571decdd54c_640_640.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "347-闽剧 金钿玉锁仔 1.flv", label: "1", sort_order: 1 }
+      - { file: "348-闽剧 金钿玉锁仔 2.flv", label: "2", sort_order: 2 }
+      - { file: "349-闽剧 金钿玉锁仔 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 金钿玉锁仔

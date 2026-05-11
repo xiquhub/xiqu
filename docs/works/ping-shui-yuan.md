@@ -10,6 +10,13 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://image.fznews.com.cn/app/pic/2024-10/14/515109_8c890dda-0f32-42a9-9ae8-586612845cd9.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "310-闽剧 萍水缘 1.flv", label: "1", sort_order: 1 }
+      - { file: "311-闽剧 萍水缘 2.flv", label: "2", sort_order: 2 }
 ---
 
 # 萍水缘

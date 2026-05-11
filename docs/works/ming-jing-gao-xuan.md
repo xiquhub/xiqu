@@ -11,6 +11,12 @@ needs_research: false
 sources:
   - { url: "https://www.bilibili.com/video/BV1FW411v7U4/", type: 其他, scope: 闽剧专属 }
   - { url: "https://baike.baidu.com/item/%E5%8C%85%E5%85%AC%E5%87%BA%E5%B7%A1/442133", type: baidu_baike, scope: 通用 }
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "179-闽剧 明镜高悬.flv", label: "", sort_order: 0 }
 ---
 
 # 明镜高悬

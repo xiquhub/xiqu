@@ -11,6 +11,12 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://www.fzmjtc.cn/__local/5/E4/CE/70FCECBBFFE2DC477A2B3145E28_7CDFCDE5_249A3.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "424-闽剧《丞相拒皇姑》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 丞相拒皇姑

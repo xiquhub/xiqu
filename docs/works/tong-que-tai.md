@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/37200142/", type: douban, scope: 闽剧专属 }
 cover: https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/ea98bce0gy1h12fowgwixj21hc0xc116.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "350-闽剧 铜雀台 1.flv", label: "1", sort_order: 1 }
+      - { file: "351-闽剧 铜雀台 2.flv", label: "2", sort_order: 2 }
+      - { file: "352-闽剧 铜雀台 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 铜雀台

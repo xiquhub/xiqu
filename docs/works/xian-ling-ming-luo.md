@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://ndwm.fjsen.com/images/2023-01/31/31ee75d2-81ff-4014-a006-a94d001216a4.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "103-闽剧 县令鸣锣1.flv", label: "1", sort_order: 1 }
+      - { file: "104-闽剧 县令鸣锣2.flv", label: "2", sort_order: 2 }
+      - { file: "105-闽剧 县令鸣锣3.flv", label: "3", sort_order: 3 }
 ---
 
 # 县令鸣锣

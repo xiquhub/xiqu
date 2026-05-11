@@ -12,6 +12,13 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%82%BC%E5%8D%B0/3546497", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://www.ximiku.com/juqing/1505.html", type: other, scope: 闽剧专属 }
 cover: https://www.fdzcxy.edu.cn/_upload/article/images/33/cd/9442b81144e58c729c6c60049b05/ca29ee05-b44c-4baf-9e2d-78c34165287d.jpg
+productions:
+  - slug: "film"
+    label: "电影版"
+    media_type: "电影"
+    confidence: "medium"
+    parts:
+      - { file: "488-闽剧《炼印》电影版.flv", label: "", sort_order: 0 }
 ---
 
 # 炼印

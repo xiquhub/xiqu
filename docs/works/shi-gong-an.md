@@ -12,6 +12,13 @@ sources:
   - { url: "https://baike.baidu.com/item/%E6%96%BD%E5%85%AC%E6%A1%88/10086", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E6%96%BD%E5%85%AC%E6%A1%88", type: wikipedia, scope: 通用 }
 cover: http://puui.qpic.cn/vpic_cover/h0033302ffi/h0033302ffi_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "462-闽剧《施公案》2.1.flv", label: "1", sort_order: 1 }
+      - { file: "463-闽剧《施公案》2.2.flv", label: "2", sort_order: 2 }
 ---
 
 # 施公案

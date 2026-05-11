@@ -11,6 +11,12 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 通用, confidence: high }
 cover: https://i.ytimg.com/vi/bVXrHaCVXOg/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "440-闽剧《包公误》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 包公误

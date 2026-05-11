@@ -12,6 +12,12 @@ sources:
   - { url: "https://www.maigoo.com/citiao/977639.html", type: 其他, scope: 闽剧专属 }
   - { url: "https://www.bilibili.com/video/BV18x41127Qt/", type: 其他, scope: 闽剧专属 }
 cover: http://fj.people.com.cn/NMediaFile/2023/0921/LOCAL16952600836904ZZASX2Q7Y.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "015-福建地方戏曲闽剧《贬官记》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 贬官记

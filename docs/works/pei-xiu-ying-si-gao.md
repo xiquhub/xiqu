@@ -12,6 +12,12 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%9A%AE%E7%A7%80%E8%8B%B1%E5%9B%9B%E5%91%8A/4060327", type: baidu_baike, scope: 通用 }
   - { url: "https://jres2023.xhby.net/js/wh/202306/t20230615_7976768.shtml", type: 其他, scope: 通用 }
 cover: https://jcdn.xhby.net/JHD/publish/20230618/1687083915650046064.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "313-闽剧 裴秀英四告.flv", label: "", sort_order: 0 }
 ---
 
 # 裴秀英四告

@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%9E%97%E7%91%9B/5744942", type: baidu_baike, scope: 闽剧专属 }
 cover: https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781337347.jpg
+productions:
+  - slug: "main"
+    label: "林瑛"
+    troupe: "福建省实验闽剧团"
+    leads: ["林瑛"]
+    confidence: "high"
+    parts:
+      - { file: "010-福建地方戏曲闽剧《王莲莲拜香》福建省实验闽剧团 林瑛主演.flv", label: "", sort_order: 0 }
 ---
 
 # 王莲莲拜香

@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%8F%8D%E7%8F%A0%E5%A1%94/2459116", type: baidu_baike, scope: 通用 }
   - { url: "https://m.ximalaya.com/ask/q13161584", type: other, scope: 闽剧专属 }
 cover: https://puui.qpic.cn/vpic_cover/l3073s5o9xy/l3073s5o9xy_hz.jpg
+productions:
+  - slug: "main"
+    label: "全剧/胡奇明/张品生"
+    troupe: "福州闽剧一团"
+    leads: ["全剧", "胡奇明", "张品生"]
+    confidence: "high"
+    parts:
+      - { file: "011-福建地方戏曲闽剧《珍珠塔》全剧 福州闽剧一团 胡奇明 张品生.flv", label: "", sort_order: 0 }
 ---
 
 # 珍珠塔

@@ -12,6 +12,13 @@ sources:
   - { url: "https://zh.wikipedia.org/zh-hans/%E8%B4%BB%E9%A1%BA%E5%93%A5%E7%83%9B%E8%92%82", type: wikipedia, scope: 闽剧专属 }
   - { url: "https://www.chinanews.com.cn/cul/2014/03-14/5950731.shtml", type: news, scope: 闽剧专属 }
 cover: https://www.minduonline.net.cn/wp-content/uploads/2019/07/12.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "016-福建地方戏曲闽剧《贻顺哥烛蒂》全剧 国家非物质文化遗产项目.flv", label: "全剧", sort_order: 0 }
+      - { file: "060-闽剧 全集 贻春哥烛蒂.flv", label: "全", sort_order: 0 }
 ---
 
 # 贻顺哥烛蒂

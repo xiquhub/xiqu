@@ -10,6 +10,14 @@ adapted_from: 传统剧目
 needs_research: false
 sources: []
 cover: https://img1.fjdaily.com/app/images/2023-03/22/0b183242-c2f8-4521-8f83-0c273e10efb9.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "172-闽剧 换子恩仇记(上).flv", label: "上", sort_order: 1 }
+      - { file: "174-闽剧 换子恩仇记(中).flv", label: "中", sort_order: 2 }
+      - { file: "173-闽剧 换子恩仇记(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 换子恩仇记

@@ -11,6 +11,15 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 通用, confidence: high }
 cover: https://puui.qpic.cn/vpic_cover/i0698i0v0j7/i0698i0v0j7_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "062-闽剧 八美楼 1.flv", label: "1", sort_order: 1 }
+      - { file: "063-闽剧 八美楼 2.flv", label: "2", sort_order: 2 }
+      - { file: "064-闽剧 八美楼 3.flv", label: "3", sort_order: 3 }
+      - { file: "065-闽剧 八美楼 4.flv", label: "4", sort_order: 4 }
 ---
 
 # 八美楼

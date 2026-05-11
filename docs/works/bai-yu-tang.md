@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%99%BD%E7%8E%89%E5%A0%82/10224", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E4%B8%89%E4%BE%A0%E4%BA%94%E4%B9%89", type: 其他, scope: 通用 }
 cover: https://p2.cri.cn/M00/34/84/rBABCmEDW9qAKbR-AAAAAAAAAAA285.650x450.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "272-闽剧 白玉堂 1.flv", label: "1", sort_order: 1 }
+      - { file: "273-闽剧 白玉堂 2.flv", label: "2", sort_order: 2 }
+      - { file: "274-闽剧 白玉堂 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 白玉堂

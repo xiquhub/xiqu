@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/36310351/", type: 豆瓣戏曲, scope: 闽剧专属 }
 cover: https://i.ytimg.com/vi/lUG7lPmeCc8/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "413-闽剧《三搜幻化庵》上(1).flv", label: "1", sort_order: 1 }
+      - { file: "414-闽剧《三搜幻化庵》上(2).flv", label: "2", sort_order: 2 }
+      - { file: "415-闽剧《三搜幻化庵》上(3).flv", label: "3", sort_order: 3 }
 ---
 
 # 三搜幻化庵

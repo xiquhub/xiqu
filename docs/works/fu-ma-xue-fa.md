@@ -12,6 +12,12 @@ sources:
   - { url: "https://baike.baidu.com/item/%E5%BC%A0%E6%98%A5%E9%83%8E%E5%89%8A%E5%8F%91/7130286", type: baidu_baike, scope: 通用 }
   - { url: "https://www.douban.com/location/drama/27662414/", type: baidu_baike, scope: 闽剧专属 }
 cover: http://upload.mnw.cn/2018/1205/1543979985514.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "509-闽剧《驸马削发》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 驸马削发

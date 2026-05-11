@@ -10,6 +10,12 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: https://wenhui.whb.cn/u/cms/www/202112/11113501osbl.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "480-闽剧《梨园春》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 梨园春

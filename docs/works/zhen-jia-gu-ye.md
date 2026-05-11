@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/uv9Ug-Z3hYQ/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "280-闽剧 真假姑爷1(上).flv", label: "上", sort_order: 1 }
+      - { file: "281-闽剧 真假姑爷2(中).flv", label: "中", sort_order: 2 }
+      - { file: "282-闽剧 真假姑爷3(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 真假姑爷

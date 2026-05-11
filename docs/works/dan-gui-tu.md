@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: http://img.mp.sohu.com/q_mini,c_zoom,w_640/upload/20170808/ea65b6ced5be47e39208b7b9f7849f58_th.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "032-闽剧 丹桂图 1.flv", label: "1", sort_order: 1 }
+      - { file: "033-闽剧 丹桂图 2.flv", label: "2", sort_order: 2 }
+      - { file: "034-闽剧 丹桂图 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 丹桂图

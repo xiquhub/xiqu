@@ -10,6 +10,14 @@ adapted_from: 传统剧目
 needs_research: true
 sources: []
 cover: http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781331014.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "078-闽剧 凤凰蛋 1.flv", label: "1", sort_order: 1 }
+      - { file: "079-闽剧 凤凰蛋 2.flv", label: "2", sort_order: 2 }
+      - { file: "080-闽剧 凤凰蛋 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 凤凰蛋

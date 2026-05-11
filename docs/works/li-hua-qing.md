@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%A2%A8%E8%8A%B1%E6%83%85/2781008", type: baidu_baike, scope: 通用 }
 cover: http://www.yuejuopera.net/uploads/allimg/160818/1-160QQ10U2V8.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "209-闽剧 梨花情(1).flv", label: "1", sort_order: 1 }
+      - { file: "210-闽剧 梨花情(2).flv", label: "2", sort_order: 2 }
+      - { file: "211-闽剧 梨花情(3).flv", label: "3", sort_order: 3 }
 ---
 
 # 梨花情

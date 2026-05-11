@@ -10,6 +10,12 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/l5CGytCOa5w/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "346-闽剧 金指甲.flv", label: "", sort_order: 0 }
 ---
 
 # 金指甲

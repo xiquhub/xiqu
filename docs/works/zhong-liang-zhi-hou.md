@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/1avqRrvKf98/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "166-闽剧 忠良之后.flv", label: "", sort_order: 0 }
 ---
 
 # 忠良之后

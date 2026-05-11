@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://china144-1257247002.file.myqcloud.com/2024/07/ef554707b86b129.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "131-闽剧 天仙阁1(上).flv", label: "上", sort_order: 1 }
+      - { file: "132-闽剧 天仙阁2(中).flv", label: "中", sort_order: 2 }
+      - { file: "133-闽剧 天仙阁3(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 天仙阁

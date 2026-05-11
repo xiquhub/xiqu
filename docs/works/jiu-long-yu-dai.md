@@ -10,6 +10,14 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: https://img1.fjdaily.com/app/images/2024-10/22/5f96acd9-ac7c-4ae3-9ee9-13b10a591fec.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "037-闽剧 九龙玉带1(上集).flv", label: "上", sort_order: 1 }
+      - { file: "038-闽剧 九龙玉带2(中集).flv", label: "中", sort_order: 2 }
+      - { file: "039-闽剧 九龙玉带3(下集).flv", label: "下", sort_order: 3 }
 ---
 
 # 九龙玉带

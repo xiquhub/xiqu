@@ -10,6 +10,15 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://www.mwnews.cn/uploaded/c20ad12/20191112/15735207605081.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "403-闽剧 龙案御审1.flv", label: "1", sort_order: 1 }
+      - { file: "404-闽剧 龙案御审2.flv", label: "2", sort_order: 2 }
+      - { file: "405-闽剧 龙案御审3.flv", label: "3", sort_order: 3 }
+      - { file: "406-闽剧 龙案御审5.flv", label: "5", sort_order: 5 }
 ---
 
 # 龙案御审

@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E5%A4%A9%E6%B6%AF%E6%AD%8C%E5%A5%B3/9819722", type: baidu_baike, scope: 通用 }
   - { url: "https://www.douban.com/location/drama/20283987/", type: douban, scope: 通用 }
 cover: https://so1.360tres.com/t01a3a8251612321949.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "134-闽剧 天涯歌女1.flv", label: "1", sort_order: 1 }
+      - { file: "135-闽剧 天涯歌女2.flv", label: "2", sort_order: 2 }
+      - { file: "136-闽剧 天涯歌女3.flv", label: "3", sort_order: 3 }
 ---
 
 # 天涯歌女

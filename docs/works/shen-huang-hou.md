@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://p2.cri.cn/M00/B9/20/CqgNOlte66WAN7qFAAAAAAAAAAA377.950x1221.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "150-闽剧 审皇后 1.flv", label: "1", sort_order: 1 }
+      - { file: "151-闽剧 审皇后 2.flv", label: "2", sort_order: 2 }
+      - { file: "152-闽剧 审皇后 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 审皇后

@@ -11,6 +11,12 @@ needs_research: true
 sources:
   - { url: "https://www.kanxiji.net/fujianxi/minju/2016-09-02/55668.html", type: 戏曲资源网, scope: 闽剧专属 }
 cover: https://i.ytimg.com/vi/wOxu1fxKxW8/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "410-闽剧《三关明月》.flv", label: "", sort_order: 0 }
 ---
 
 # 三关明月

@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://p4.qhimg.com/t01017e75bcb1f73799.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "036-闽剧 乌犬偷吃白犬当罪.flv", label: "", sort_order: 0 }
 ---
 
 # 乌犬偷吃白犬当罪

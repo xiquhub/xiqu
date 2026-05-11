@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/3GmicoR64DY/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "289-闽剧 移花接木.flv", label: "", sort_order: 0 }
 ---
 
 # 移花接木

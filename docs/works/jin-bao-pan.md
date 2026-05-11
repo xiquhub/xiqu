@@ -11,6 +11,13 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: http://www.chinaweekly.cn/upload/image/20210225/6374984921627261247953540.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "504-闽剧《金宝盘》全剧(上集).flv", label: "上", sort_order: 1 }
+      - { file: "505-闽剧《金宝盘》全剧(下集).flv", label: "下", sort_order: 3 }
 ---
 
 # 金宝盘

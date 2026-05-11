@@ -12,6 +12,13 @@ sources:
   - { url: "https://www.douban.com/location/drama/26384729/", type: douban, scope: 通用 }
   - { url: "https://blog.sina.com.cn/s/blog_5388904f0100qzsh.html", type: blog, scope: 通用 }
 cover: https://i.ytimg.com/vi/zYFa7Ri1Upk/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "499-闽剧《苏秦假不第》1.flv", label: "1", sort_order: 1 }
+      - { file: "500-闽剧《苏秦假不第》2.flv", label: "2", sort_order: 2 }
 ---
 
 # 苏秦假不第

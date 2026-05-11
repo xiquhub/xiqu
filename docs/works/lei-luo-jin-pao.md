@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://www.kanxiji.net/fujianxi/minju/2016-08-31/55012.html", type: 戏曲资源站, scope: 闽剧专属 }
 cover: https://i.ytimg.com/vi/_srGLtOhv9Q/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "220-闽剧 泪落锦袍1.flv", label: "1", sort_order: 1 }
+      - { file: "221-闽剧 泪落锦袍2.flv", label: "2", sort_order: 2 }
+      - { file: "222-闽剧 泪落锦袍3.flv", label: "3", sort_order: 3 }
 ---
 
 # 泪落锦袍

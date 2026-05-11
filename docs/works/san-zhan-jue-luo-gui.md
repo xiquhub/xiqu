@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/d6WNrlaOlbI/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "028-闽剧 三斩觉罗桂 1.flv", label: "1", sort_order: 1 }
+      - { file: "029-闽剧 三斩觉罗桂 2.flv", label: "2", sort_order: 2 }
+      - { file: "030-闽剧 三斩觉罗桂 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 三斩觉罗桂

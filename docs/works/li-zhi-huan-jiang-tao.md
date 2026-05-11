@@ -12,6 +12,12 @@ sources:
   - { url: "https://baike.baidu.com/item/%E8%8D%94%E6%9E%9D%E6%8D%A2%E7%BB%9B%E6%A1%83/8590392", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://news.fznews.com.cn/dsxw/20211227/61c927d3e5341.shtml", type: 新闻报道, scope: 闽剧专属 }
 cover: http://www.fj.chinanews.com/cr/2021/1226/791154827.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "014-福建地方戏曲闽剧《荔枝换绛桃》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 荔枝换绛桃

@@ -12,6 +12,12 @@ sources:
   - { url: "https://baike.baidu.com/item/%E5%A4%A9%E8%B1%B9%E5%9B%BE/7647723", type: baidu_baike, scope: 通用 }
   - { url: "https://m.douban.com/book/subject/3815236/", type: douban, scope: 通用 }
 cover: http://5b0988e595225.cdn.sohucs.com/images/20190821/3426c03f9d6c47d7a78a589324c3af0a.jpeg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "137-闽剧 天豹图.flv", label: "", sort_order: 0 }
 ---
 
 # 天豹图

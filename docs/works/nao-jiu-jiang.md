@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://blog.sina.com.cn/s/blog_69f460ae0102x77a.html", type: 其他, scope: 通用 }
 cover: http://img.zgyww.cn/pic/0/10/20/96/10209603_214805.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "356-闽剧 闹九江 1.flv", label: "1", sort_order: 1 }
+      - { file: "357-闽剧 闹九江 2.flv", label: "2", sort_order: 2 }
+      - { file: "358-闽剧 闹九江 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 闹九江

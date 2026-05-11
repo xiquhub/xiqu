@@ -11,6 +11,14 @@ needs_research: true
 sources:
   - { url: "https://www.pingju.com.cn/lsh_detail.php?id=205&flag=1", type: other, scope: 闽剧专属 }
 cover: http://u1.iqiyipic.com/image/20201115/97/71/pv_5595608141747100_d_601_1248_720.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "379-闽剧 鸳鸯河 1.flv", label: "1", sort_order: 1 }
+      - { file: "380-闽剧 鸳鸯河 2.flv", label: "2", sort_order: 2 }
+      - { file: "381-闽剧 鸳鸯河 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 鸳鸯河

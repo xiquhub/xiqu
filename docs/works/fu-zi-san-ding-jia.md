@@ -11,6 +11,12 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://www.fzmjtc.cn/__local/9/61/E4/4E54B0353591702DB8F061825DA_F70B10AE_239C7.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "489-闽剧《父子三鼎甲》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 父子三鼎甲

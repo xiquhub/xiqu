@@ -11,6 +11,12 @@ needs_research: true
 sources:
   - { url: "http://9uud.com/v.php?m=vod-play-id-1523-src-1-num-35.html", type: 戏曲视频平台, scope: 闽剧专属 }
 cover: https://i.ytimg.com/vi/GPaKjMMeCfM/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "004-福建地方戏曲闽剧《尚书闯堂》全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 尚书闯堂

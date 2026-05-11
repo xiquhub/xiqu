@@ -11,6 +11,17 @@ needs_research: true
 sources:
   - { url: "https://baike.baidu.com/item/%E6%98%A5%E6%B1%9F%E6%9C%88/1256719", type: baidu_baike, scope: 通用 }
 cover: https://fjrb.fjdaily.com/pc/pic/202411/19/d2ada984-5818-4957-b93b-1f0185861f0d.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "180-闽剧 春江月 1.flv", label: "1", sort_order: 1 }
+      - { file: "183-闽剧 春江月(上).flv", label: "上", sort_order: 1 }
+      - { file: "181-闽剧 春江月 2.flv", label: "2", sort_order: 2 }
+      - { file: "185-闽剧 春江月(中).flv", label: "中", sort_order: 2 }
+      - { file: "182-闽剧 春江月 3.flv", label: "3", sort_order: 3 }
+      - { file: "184-闽剧 春江月(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 春江月

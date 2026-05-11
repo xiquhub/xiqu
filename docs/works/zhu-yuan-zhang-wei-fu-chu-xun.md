@@ -12,6 +12,13 @@ sources:
   - { url: "https://m.127127.cn/minju/236328/play01_youku1.html", type: other, scope: 闽剧专属 }
   - { url: "https://baike.baidu.com/item/%E6%9C%B1%E5%85%83%E7%92%8B/4255676", type: baidu_baike, scope: 通用 }
 cover: https://i.ytimg.com/vi/JRii7EuRGGo/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "187-闽剧 朱元璋微服出巡 1.flv", label: "1", sort_order: 1 }
+      - { file: "188-闽剧 朱元璋微服出巡 2.flv", label: "2", sort_order: 2 }
 ---
 
 # 朱元璋微服出巡

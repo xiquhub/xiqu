@@ -9,6 +9,14 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "368-闽剧 雨过天晴 1.flv", label: "1", sort_order: 1 }
+      - { file: "369-闽剧 雨过天晴 2.flv", label: "2", sort_order: 2 }
+      - { file: "370-闽剧 雨过天晴 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 雨过天晴

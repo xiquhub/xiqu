@@ -11,6 +11,12 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%98%A5%E8%8D%89%E9%97%AF%E5%A0%82/4237342", type: baidu_baike, scope: 通用 }
 cover: https://img-rs.huanqiucdn.cn/dp/api/files/imageDir/da966f9ae27fba3332738215e518b9ef.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "186-闽剧 春草闯堂.flv", label: "", sort_order: 0 }
 ---
 
 # 春草闯堂

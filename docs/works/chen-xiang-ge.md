@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AE%9D%E8%8E%B2%E7%81%AF/44926", type: baidu_baike, scope: 通用 }
 cover: https://image.fznews.com.cn/app/pic/2022-05/30/364703_5d4dd8fe-02f3-4d04-905c-22b7d4b92f01.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "217-闽剧 沉香阁 1.flv", label: "1", sort_order: 1 }
+      - { file: "218-闽剧 沉香阁 2.flv", label: "2", sort_order: 2 }
+      - { file: "219-闽剧 沉香阁 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 沉香阁

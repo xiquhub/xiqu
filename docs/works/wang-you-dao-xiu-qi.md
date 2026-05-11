@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/nBi61nhgA9Y/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "264-闽剧 王有道休妻(上).flv", label: "上", sort_order: 1 }
+      - { file: "266-闽剧 王有道休妻(中).flv", label: "中", sort_order: 2 }
+      - { file: "265-闽剧 王有道休妻(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 王有道休妻

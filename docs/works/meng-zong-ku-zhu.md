@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AD%9F%E5%AE%97%E5%93%AD%E7%AB%B9/6335352", type: baidu_baike, scope: 通用 }
 cover: https://i.ytimg.com/vi/flxGANTHkzc/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "144-闽剧 孟宗哭竹1.flv", label: "1", sort_order: 1 }
+      - { file: "145-闽剧 孟宗哭竹2.flv", label: "2", sort_order: 2 }
+      - { file: "146-闽剧 孟宗哭竹3.flv", label: "3", sort_order: 3 }
 ---
 
 # 孟宗哭竹

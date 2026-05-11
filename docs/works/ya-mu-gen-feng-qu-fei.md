@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/OVrDbLyIz_E/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "378-闽剧 鸭母跟凤去飞.flv", label: "", sort_order: 0 }
 ---
 
 # 鸭母跟凤去飞

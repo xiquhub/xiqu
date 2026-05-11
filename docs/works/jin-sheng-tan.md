@@ -12,6 +12,18 @@ sources:
   - { url: "https://baike.baidu.com/item/%E9%87%91%E5%9C%A3%E5%8F%B9/1097241", type: baidu_baike, scope: 通用 }
   - { url: "https://www.youtube.com/watch?v=JbXn9djf-WQ", type: 视频平台, scope: 闽剧专属 }
 cover: https://pic.app.fqlook.com/forum/20230223173653front1_0_155891_Fu2xdKfd3lJ5CxGG2FZDaQXfMgPL.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "339-闽剧 金圣叹1.flv", label: "1", sort_order: 1 }
+      - { file: "340-闽剧 金圣叹2.flv", label: "2", sort_order: 2 }
+      - { file: "341-闽剧 金圣叹3.flv", label: "3", sort_order: 3 }
+      - { file: "342-闽剧 金圣叹4.flv", label: "4", sort_order: 4 }
+      - { file: "343-闽剧 金圣叹5.flv", label: "5", sort_order: 5 }
+      - { file: "344-闽剧 金圣叹6.flv", label: "6", sort_order: 6 }
+      - { file: "345-闽剧 金圣叹7.flv", label: "7", sort_order: 7 }
 ---
 
 # 金圣叹

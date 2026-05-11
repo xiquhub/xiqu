@@ -11,6 +11,12 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%A9%86%E6%A1%82%E8%8B%B1/720499", type: baidu_baike, scope: 通用 }
 cover: http://u2.iqiyipic.com/image/20231029/94/a2/pv_3150606639504200_d_601_1248_720.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "290-闽剧 穆桂英招亲.flv", label: "", sort_order: 0 }
 ---
 
 # 穆桂英招亲

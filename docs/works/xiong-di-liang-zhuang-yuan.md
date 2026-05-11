@@ -10,6 +10,17 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/KheTlnFwlC8/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "057-闽剧 兄弟俩状元1.flv", label: "1", sort_order: 1 }
+      - { file: "434-闽剧《兄弟两状元》1.flv", label: "1", sort_order: 1 }
+      - { file: "058-闽剧 兄弟俩状元2.flv", label: "2", sort_order: 2 }
+      - { file: "435-闽剧《兄弟两状元》2.flv", label: "2", sort_order: 2 }
+      - { file: "059-闽剧 兄弟俩状元3.flv", label: "3", sort_order: 3 }
+      - { file: "436-闽剧《兄弟两状元》3.flv", label: "3", sort_order: 3 }
 ---
 
 # 兄弟两状元

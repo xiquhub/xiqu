@@ -10,6 +10,14 @@ adapted_from: 未知
 needs_research: true
 sources: []
 cover: https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169013958_1568549806226.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "124-闽剧 困苍龙 1.flv", label: "1", sort_order: 1 }
+      - { file: "125-闽剧 困苍龙 2.flv", label: "2", sort_order: 2 }
+      - { file: "126-闽剧 困苍龙 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 困苍龙

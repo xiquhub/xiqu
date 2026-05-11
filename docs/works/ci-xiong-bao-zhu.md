@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 通用, confidence: high }
 cover: http://www.mwnews.cn/uploaded/c20ad12/20191112/15735206735336.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "365-闽剧 雌雄宝珠 1.flv", label: "1", sort_order: 1 }
+      - { file: "366-闽剧 雌雄宝珠 2.flv", label: "2", sort_order: 2 }
+      - { file: "367-闽剧 雌雄宝珠 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 雌雄宝珠

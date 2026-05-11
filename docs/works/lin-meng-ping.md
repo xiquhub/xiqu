@@ -11,6 +11,12 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://img1.fjdaily.com/app/images/2021-05/17/8b061660-839f-4a39-84c2-5334302c10bb.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "195-闽剧 林梦萍 自掏岭.flv", label: "自掏岭", sort_order: 0 }
 ---
 
 # 林梦萍

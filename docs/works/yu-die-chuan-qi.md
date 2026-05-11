@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources:
   - { url: "http://www.xiqu.me/minju/wz/1481016531394.html", type: other, scope: 通用 }
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "258-闽剧 玉蝶传奇 1.flv", label: "1", sort_order: 1 }
+      - { file: "259-闽剧 玉蝶传奇 2.flv", label: "2", sort_order: 2 }
+      - { file: "260-闽剧 玉蝶传奇 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 玉蝶传奇

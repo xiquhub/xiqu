@@ -10,6 +10,14 @@ adapted_from: 传统剧目
 needs_research: true
 sources: []
 cover: https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1909/15/c4/169014027_1568549867014.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "371-闽剧 霸王庄 1.flv", label: "1", sort_order: 1 }
+      - { file: "372-闽剧 霸王庄 2.flv", label: "2", sort_order: 2 }
+      - { file: "373-闽剧 霸王庄 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 霸王庄

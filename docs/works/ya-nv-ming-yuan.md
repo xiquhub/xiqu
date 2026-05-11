@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%93%91%E5%A5%B3%E5%91%8A%E7%8A%B6/9613564", type: baidu_baike, scope: 通用 }
 cover: http://www.fzmjtc.cn/__local/A/FC/D0/A00B8F933AB868DF3B5AA39C807_40F6DDCC_1E1E2.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "115-闽剧 哑女鸣冤 1.flv", label: "1", sort_order: 1 }
+      - { file: "116-闽剧 哑女鸣冤 2.flv", label: "2", sort_order: 2 }
+      - { file: "117-闽剧 哑女鸣冤 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 哑女鸣冤

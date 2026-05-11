@@ -11,6 +11,13 @@ needs_research: false
 sources:
   - { url: "https://www.bilibili.com/video/BV1RW411F7Ft/", type: bilibili, scope: 闽剧专属 }
 cover: https://n.sinaimg.cn/sinakd20211226s/762/w1000h562/20211226/d9c6-956100749c1d3985eaa0202c25655ca1.png
+productions:
+  - slug: "main"
+    label: "黄愿亭/林聪中/李少华"
+    leads: ["黄愿亭", "林聪中", "李少华"]
+    confidence: "high"
+    parts:
+      - { file: "464-闽剧《曲判记》全剧 黄愿亭 林聪中 李少华主演.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 曲判记

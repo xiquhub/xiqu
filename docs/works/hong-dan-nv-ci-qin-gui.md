@@ -10,6 +10,14 @@ adapted_from: 传统剧目，取材于南宋奸臣秦桧相关民间故事
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/3NpEvYvv3LY/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "297-闽剧 红丹女刺秦桧1.flv", label: "1", sort_order: 1 }
+      - { file: "298-闽剧 红丹女刺秦桧2.flv", label: "2", sort_order: 2 }
+      - { file: "299-闽剧 红丹女刺秦桧3.flv", label: "3", sort_order: 3 }
 ---
 
 # 红丹女刺秦桧

@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://zh.wikipedia.org/zh-hans/%E6%A5%8A%E9%96%80%E5%A5%B3%E5%B0%87_(2001%E5%B9%B4%E9%9B%BB%E8%A6%96%E5%8A%87)", type: wikipedia, scope: 通用 }
 cover: https://newbbs-fd.zol-img.com.cn/t_s800x2000/g6/M00/0A/06/ChMkKV9p7lyIM-8dAAJ7794slVYAACpTAPSHbIAAnwH994.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "294-闽剧 天波府(1).flv", label: "1", sort_order: 1 }
+      - { file: "295-闽剧 天波府(2).flv", label: "2", sort_order: 2 }
+      - { file: "296-闽剧 天波府(3).flv", label: "3", sort_order: 3 }
 ---
 
 # 天波府

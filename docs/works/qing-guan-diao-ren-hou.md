@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://n.sinaimg.cn/sinakd20211226s/762/w1000h562/20211226/d9c6-956100749c1d3985eaa0202c25655ca1.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "234-闽剧 清官调任后 修正.flv", label: "修正", sort_order: 0 }
 ---
 
 # 清官调任后

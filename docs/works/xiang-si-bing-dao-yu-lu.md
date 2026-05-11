@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://imagecloud.thepaper.cn/thepaper/image/264/629/306.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "279-闽剧 相思病倒芋陆.flv", label: "", sort_order: 0 }
 ---
 
 # 相思病倒芋陆

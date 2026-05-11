@@ -11,6 +11,16 @@ needs_research: true
 sources:
   - { url: "https://www.iqiyi.com/v_19rxvm7ehg.html", type: 视频平台, scope: 闽剧专属 }
 cover: https://n.sinaimg.cn/sinakd20120/553/w1800h1153/20230305/8b63-c8774834e800ca758df10637e3de9eb8.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "226-闽剧 深宫风流梦 1.flv", label: "1", sort_order: 1 }
+      - { file: "227-闽剧 深宫风流梦 2.flv", label: "2", sort_order: 2 }
+      - { file: "228-闽剧 深宫风流梦 3.flv", label: "3", sort_order: 3 }
+      - { file: "229-闽剧 深宫风流梦 4.flv", label: "4", sort_order: 4 }
+      - { file: "230-闽剧 深宫风流梦 5.flv", label: "5", sort_order: 5 }
 ---
 
 # 深宫风流梦

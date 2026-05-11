@@ -12,6 +12,22 @@ sources:
   - { url: "https://baike.baidu.com/item/%E5%85%AD%E6%9C%88%E9%9B%AA/12023285", type: baidu_baike, scope: 通用 }
   - { url: "https://m.kanxiji.net/fujianxi/minju/2021-12-11/192675.html", type: other, scope: 闽剧专属 }
 cover: https://img.mala.cn/forum/201804/16/213249dfbqtp2k5nepjz92.jpg
+productions:
+  - slug: "1985-recording"
+    label: "1985 年 录音版 · 黄愿亭/林锦芳"
+    year: 1985
+    media_type: "录音"
+    leads: ["黄愿亭", "林锦芳"]
+    confidence: "high"
+    parts:
+      - { file: "002-福建地方戏曲闽剧《六月雪》全剧 1985年录音 黄愿亭 林锦芳.flv", label: "全剧 年", sort_order: 0 }
+  - slug: "v2"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "066-闽剧 六月雪1.flv", label: "1", sort_order: 1 }
+      - { file: "067-闽剧 六月雪2.flv", label: "2", sort_order: 2 }
+      - { file: "068-闽剧 六月雪3.flv", label: "3", sort_order: 3 }
 ---
 
 # 六月雪

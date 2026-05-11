@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/bYqPOASo9cc/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "159-闽剧 巧断家务事1.flv", label: "1", sort_order: 1 }
+      - { file: "160-闽剧 巧断家务事2.flv", label: "2", sort_order: 2 }
+      - { file: "161-闽剧 巧断家务事3.flv", label: "3", sort_order: 3 }
 ---
 
 # 巧断家务事

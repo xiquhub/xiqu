@@ -10,6 +10,16 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/F4kOs7QMHsE/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "510-闽剧《龙凤风波》(1).flv", label: "1", sort_order: 1 }
+      - { file: "511-闽剧《龙凤风波》(2).flv", label: "2", sort_order: 2 }
+      - { file: "512-闽剧《龙凤风波》(3).flv", label: "3", sort_order: 3 }
+      - { file: "513-闽剧《龙凤风波》(4).flv", label: "4", sort_order: 4 }
+      - { file: "514-闽剧《龙凤风波》(5).flv", label: "5", sort_order: 5 }
 ---
 
 # 龙凤风波

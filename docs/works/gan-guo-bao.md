@@ -12,6 +12,13 @@ sources:
   - { url: "https://www.douban.com/location/drama/27069296/", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E7%94%98%E5%9C%8B%E5%AF%B6", type: baidu_baike, scope: 通用 }
 cover: https://wmf.fjsen.com/images/attachement/jpg/site103/20090818/xin_410806181527875190742.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "012-福建地方戏曲闽剧《甘国宝》上部 闽剧优秀传统剧目.flv", label: "上部 闽剧优秀传统剧目", sort_order: 0 }
+      - { file: "013-福建地方戏曲闽剧《甘国宝》下部 闽剧优秀传统剧目.flv", label: "下部 闽剧优秀传统剧目", sort_order: 0 }
 ---
 
 # 甘国宝

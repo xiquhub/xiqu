@@ -11,6 +11,12 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E8%96%9B%E5%88%9A%E5%8F%8D%E5%94%90/3705762", type: baidu_baike, scope: 通用 }
 cover: https://so1.360tres.com/t01a6f724f8d4b21deb.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "312-闽剧 薛刚反唐.flv", label: "", sort_order: 0 }
 ---
 
 # 薛刚反唐

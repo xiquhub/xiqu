@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://puui.qpic.cn/vpic_cover/c3045fedlw9/c3045fedlw9_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "241-闽剧 状元扫街1.flv", label: "1", sort_order: 1 }
+      - { file: "242-闽剧 状元扫街2.flv", label: "2", sort_order: 2 }
+      - { file: "243-闽剧 状元扫街3.flv", label: "3", sort_order: 3 }
 ---
 
 # 状元扫街

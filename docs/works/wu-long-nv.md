@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://pic.vjshi.com/2023-07-12/90b0ce0b2fe34d4b910df73b2bf76be7/online/puzzle.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "304-闽剧 舞龙女.flv", label: "", sort_order: 0 }
 ---
 
 # 舞龙女

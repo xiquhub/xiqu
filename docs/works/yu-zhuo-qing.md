@@ -11,6 +11,14 @@ needs_research: true
 sources:
   - { url: "https://baike.baidu.com/item/%E6%8B%BE%E7%8E%89%E9%95%AF/23774194", type: baidu_baike, scope: 通用 }
 cover: https://i.ytimg.com/vi/rtrjdk3VO5w/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "261-闽剧 玉镯情 1.flv", label: "1", sort_order: 1 }
+      - { file: "262-闽剧 玉镯情 2.flv", label: "2", sort_order: 2 }
+      - { file: "263-闽剧 玉镯情 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 玉镯情

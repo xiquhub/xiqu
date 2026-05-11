@@ -10,6 +10,13 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/QOFiq53I9QM/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    troupe: "福安市实验闽剧团"
+    confidence: "high"
+    parts:
+      - { file: "005-福建地方戏曲闽剧《施三德》（义叔贤婶）福安市实验闽剧团演出.flv", label: "义叔贤婶）演出", sort_order: 0 }
 ---
 
 # 施三德

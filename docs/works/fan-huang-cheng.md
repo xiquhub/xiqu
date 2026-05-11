@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: medium }
 cover: https://pic.rmb.bdstatic.com/3812f1fcbbedba6581d830692d9bae6a.jpeg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "108-闽剧 反皇城 1.flv", label: "1", sort_order: 1 }
+      - { file: "109-闽剧 反皇城 2.flv", label: "2", sort_order: 2 }
+      - { file: "110-闽剧 反皇城 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 反皇城

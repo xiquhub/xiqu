@@ -11,6 +11,12 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E4%B8%89%E7%9C%8B%E5%BE%A1%E5%A6%B9/9125", type: baidu_baike, scope: 通用 }
 cover: https://img3.doubanio.com/pview/drama_subject_poster/m/public/f7b307689b609ea.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "031-闽剧 三看御妹全剧.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 三看御妹

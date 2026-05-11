@@ -10,6 +10,19 @@ adapted_from: 未知（以唐太宗李世民纳妃史事或民间传说为素材
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/Atdywh_HE84/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "465-闽剧《李世民选妃》01.flv", label: "1", sort_order: 1 }
+      - { file: "466-闽剧《李世民选妃》02.flv", label: "2", sort_order: 2 }
+      - { file: "467-闽剧《李世民选妃》03.flv", label: "3", sort_order: 3 }
+      - { file: "468-闽剧《李世民选妃》04.flv", label: "4", sort_order: 4 }
+      - { file: "469-闽剧《李世民选妃》05.flv", label: "5", sort_order: 5 }
+      - { file: "470-闽剧《李世民选妃》06.flv", label: "6", sort_order: 6 }
+      - { file: "471-闽剧《李世民选妃》07.flv", label: "7", sort_order: 7 }
+      - { file: "472-闽剧《李世民选妃》08.flv", label: "8", sort_order: 8 }
 ---
 
 # 李世民选妃

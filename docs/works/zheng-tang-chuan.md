@@ -10,6 +10,13 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://pic.baike.soso.com/ugc/baikepic2/12469/cut-20190102160530-1884327576_jpg_1308_874_224993.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "318-闽剧 郑唐传1.flv", label: "1", sort_order: 1 }
+      - { file: "319-闽剧 郑唐传2.flv", label: "2", sort_order: 2 }
 ---
 
 # 郑唐传

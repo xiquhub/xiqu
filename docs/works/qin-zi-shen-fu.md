@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/fdMcg50j-Eo/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "048-闽剧 亲子审父 1.flv", label: "1", sort_order: 1 }
+      - { file: "049-闽剧 亲子审父 2.flv", label: "2", sort_order: 2 }
+      - { file: "050-闽剧 亲子审父 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 亲子审父

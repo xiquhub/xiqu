@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://puui.qpic.cn/vpic_cover/q0953sjznj5/q0953sjznj5_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "407-闽剧《一审钦差》上.flv", label: "上", sort_order: 1 }
+      - { file: "409-闽剧《一审钦差》中.flv", label: "中", sort_order: 2 }
+      - { file: "408-闽剧《一审钦差》下.flv", label: "下", sort_order: 3 }
 ---
 
 # 一审钦差

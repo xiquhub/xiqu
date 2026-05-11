@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://xi-qu.com/uploads/120106/1-12010614300XL.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "446-闽剧《四品门第》1.flv", label: "1", sort_order: 1 }
+      - { file: "447-闽剧《四品门第》2.flv", label: "2", sort_order: 2 }
+      - { file: "448-闽剧《四品门第》3.flv", label: "3", sort_order: 3 }
 ---
 
 # 四品门第

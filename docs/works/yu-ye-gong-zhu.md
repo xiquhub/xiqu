@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://img1.fjdaily.com/app/images/2023-11/06/5a62be8c-aa74-458d-808d-57c43705de24.JPEG
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "250-闽剧 玉叶公主 1.flv", label: "1", sort_order: 1 }
+      - { file: "251-闽剧 玉叶公主 2.flv", label: "2", sort_order: 2 }
+      - { file: "252-闽剧 玉叶公主 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 玉叶公主

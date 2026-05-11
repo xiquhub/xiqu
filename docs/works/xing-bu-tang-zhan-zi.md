@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/MGE0ow1FB68/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "437-闽剧《刑部堂斩子》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 刑部堂斩子

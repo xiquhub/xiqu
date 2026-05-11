@@ -11,6 +11,17 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%8B%B8%E7%8C%AB%E6%8D%A2%E5%A4%AA%E5%AD%90/13851642", type: baidu_baike, scope: 通用 }
 cover: https://p1.itc.cn/q_70/images03/20220210/bef1e5a98dfa469e9aefb0e722a826c7.jpeg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "244-闽剧 狸猫换太子 1.flv", label: "1", sort_order: 1 }
+      - { file: "245-闽剧 狸猫换太子 2.flv", label: "2", sort_order: 2 }
+      - { file: "246-闽剧 狸猫换太子 3.flv", label: "3", sort_order: 3 }
+      - { file: "247-闽剧 狸猫换太子 4.flv", label: "4", sort_order: 4 }
+      - { file: "248-闽剧 狸猫换太子 5.flv", label: "5", sort_order: 5 }
+      - { file: "249-闽剧 狸猫换太子 6.flv", label: "6", sort_order: 6 }
 ---
 
 # 狸猫换太子

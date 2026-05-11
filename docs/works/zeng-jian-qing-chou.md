@@ -10,6 +10,14 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://www.nacta.edu.cn/images/2023-11/gp_th_c2f2f40d571b42ab823e0c387728e368.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "315-闽剧 赠剑情仇1.flv", label: "1", sort_order: 1 }
+      - { file: "316-闽剧 赠剑情仇2.flv", label: "2", sort_order: 2 }
+      - { file: "317-闽剧 赠剑情仇3.flv", label: "3", sort_order: 3 }
 ---
 
 # 赠剑情仇

@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://www.ihchina.cn/project_details/27374.html", type: baidu_baike, scope: 闽剧专属 }
 cover: https://www.fzmjtc.cn/__local/C/CB/71/9B9BBCA12CF9078B0EC01950AB6_410E8CB3_28FEC.jpg
+productions:
+  - slug: "main"
+    label: "陈乃春/林梦萍/何挺芒"
+    troupe: "福州市闽剧一团"
+    leads: ["陈乃春", "林梦萍", "何挺芒"]
+    confidence: "high"
+    parts:
+      - { file: "503-闽剧《达官弟卖饼》全剧 福州市闽剧一团 陈乃春 林梦萍 何挺芒.flv", label: "全剧", sort_order: 0 }
 ---
 
 # 达官弟卖饼

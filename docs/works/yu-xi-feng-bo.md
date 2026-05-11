@@ -10,6 +10,16 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/jBj8men6cPI/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "253-闽剧 玉玺风波1.flv", label: "1", sort_order: 1 }
+      - { file: "254-闽剧 玉玺风波2.flv", label: "2", sort_order: 2 }
+      - { file: "255-闽剧 玉玺风波3.flv", label: "3", sort_order: 3 }
+      - { file: "256-闽剧 玉玺风波4.flv", label: "4", sort_order: 4 }
+      - { file: "257-闽剧 玉玺风波5.flv", label: "5", sort_order: 5 }
 ---
 
 # 玉玺风波

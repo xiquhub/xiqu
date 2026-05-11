@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://i.ytimg.com/vi/2IZiKPH0iJM/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "300-闽剧 红梅傲雪(上).flv", label: "上", sort_order: 1 }
+      - { file: "302-闽剧 红梅傲雪(中).flv", label: "中", sort_order: 2 }
+      - { file: "301-闽剧 红梅傲雪(下).flv", label: "下", sort_order: 3 }
 ---
 
 # 红梅傲雪

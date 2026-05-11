@@ -10,6 +10,18 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://c-ssl.dtstatic.com/uploads/item/201807/28/20180728180856_tpoun.thumb.1000_0.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "450-闽剧《太后出嫁》01.flv", label: "1", sort_order: 1 }
+      - { file: "451-闽剧《太后出嫁》02.flv", label: "2", sort_order: 2 }
+      - { file: "452-闽剧《太后出嫁》03.flv", label: "3", sort_order: 3 }
+      - { file: "453-闽剧《太后出嫁》04.flv", label: "4", sort_order: 4 }
+      - { file: "454-闽剧《太后出嫁》06.flv", label: "6", sort_order: 6 }
+      - { file: "455-闽剧《太后出嫁》07.flv", label: "7", sort_order: 7 }
+      - { file: "456-闽剧《太后出嫁》08.flv", label: "8", sort_order: 8 }
 ---
 
 # 太后出嫁

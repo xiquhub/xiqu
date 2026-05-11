@@ -12,6 +12,16 @@ sources:
   - { url: "https://www.douban.com/location/drama/26983148/", type: 其他, scope: 闽剧专属 }
   - { url: "http://blog.sina.com.cn/s/blog_4ac1a50801017owb.html", type: 其他, scope: 通用 }
 cover: http://n.sinaimg.cn/sinakd20211218s/739/w1080h459/20211218/19e0-9feccd0fde0ea7fae011620e1efe9cbc.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "360-闽剧 陈若霖斩皇子 1.flv", label: "1", sort_order: 1 }
+      - { file: "363-闽剧 陈若霖斬皇子1.flv", label: "1", sort_order: 1 }
+      - { file: "361-闽剧 陈若霖斩皇子 2.flv", label: "2", sort_order: 2 }
+      - { file: "364-闽剧 陈若霖斬皇子2.flv", label: "2", sort_order: 2 }
+      - { file: "362-闽剧 陈若霖斩皇子 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 陈若霖斩皇子

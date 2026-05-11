@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/7uEWGKa1IX0/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "449-闽剧《天下财主》全.flv", label: "全", sort_order: 0 }
 ---
 
 # 天下财主

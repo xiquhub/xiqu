@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E6%98%8E%E6%AD%A6%E5%AE%97%E5%8D%97%E5%B7%A1%E4%B9%8B%E4%BA%89/4982656", type: baidu_baike, scope: 通用 }
   - { url: "https://m.127127.cn/minju/236328/play01_youku1.html", type: other, scope: 闽剧专属 }
 cover: https://i.ytimg.com/vi/5-KtzDxDQPA/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "481-闽剧《正德帝下江南》1上.flv", label: "上", sort_order: 1 }
+      - { file: "482-闽剧《正德帝下江南》2中.flv", label: "中", sort_order: 2 }
+      - { file: "483-闽剧《正德帝下江南》3下.flv", label: "下", sort_order: 3 }
 ---
 
 # 正德帝下江南

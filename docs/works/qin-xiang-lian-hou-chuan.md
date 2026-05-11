@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%A7%A6%E9%A6%99%E8%8E%B2/24606", type: baidu_baike, scope: 通用 }
   - { url: "https://baike.baidu.com/item/%E9%93%A1%E7%BE%8E%E6%A1%88/9554343", type: baidu_baike, scope: 通用 }
 cover: http://puui.qpic.cn/vpic_cover/b0398rcn93l/b0398rcn93l_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "286-闽剧 秦香莲后传1.flv", label: "1", sort_order: 1 }
+      - { file: "287-闽剧 秦香莲后传2.flv", label: "2", sort_order: 2 }
+      - { file: "288-闽剧 秦香莲后传3.flv", label: "3", sort_order: 3 }
 ---
 
 # 秦香莲后传

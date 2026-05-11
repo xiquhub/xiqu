@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/av7tc2vsPVY/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "081-闽剧 刑部教子.flv", label: "", sort_order: 0 }
 ---
 
 # 刑部教子

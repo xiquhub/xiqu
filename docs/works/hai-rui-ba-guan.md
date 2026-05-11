@@ -12,6 +12,14 @@ sources:
   - { url: "https://baike.baidu.com/item/%E6%B5%B7%E7%91%9E%E7%BD%A2%E5%AE%98/624606", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E6%B5%B7%E7%91%9E%E7%BD%A2%E5%AE%98", type: wikipedia, scope: 通用 }
 cover: https://p1.ssl.qhmsg.com/t0107ab1b9913fe516a.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "223-闽剧 海瑞罢官1.flv", label: "1", sort_order: 1 }
+      - { file: "224-闽剧 海瑞罢官2.flv", label: "2", sort_order: 2 }
+      - { file: "225-闽剧 海瑞罢官3.flv", label: "3", sort_order: 3 }
 ---
 
 # 海瑞罢官

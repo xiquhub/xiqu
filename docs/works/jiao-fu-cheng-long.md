@@ -11,6 +11,14 @@ needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 cover: https://i.ytimg.com/vi/f30tdYUo-5Q/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "175-闽剧 教夫成龙1.flv", label: "1", sort_order: 1 }
+      - { file: "176-闽剧 教夫成龙2.flv", label: "2", sort_order: 2 }
+      - { file: "177-闽剧 教夫成龙3.flv", label: "3", sort_order: 3 }
 ---
 
 # 教夫成龙

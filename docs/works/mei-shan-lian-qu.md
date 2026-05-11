@@ -10,6 +10,13 @@ adapted_from:
 needs_research: true
 sources: []
 cover: https://i.ytimg.com/vi/JNDvE55h2xo/hqdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "206-闽剧 梅山恋曲1.flv", label: "1", sort_order: 1 }
+      - { file: "207-闽剧 梅山恋曲2.flv", label: "2", sort_order: 2 }
 ---
 
 # 梅山恋曲

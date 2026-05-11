@@ -12,6 +12,15 @@ sources:
   - { url: "https://baike.baidu.com/item/%E4%B9%A6%E7%97%B4/9082317", type: baidu_baike, scope: 通用 }
   - { url: "https://liaozhai.5000yan.com/20351.html", type: 聊斋原文, scope: 通用 }
 cover: https://www.fzmjtc.cn/__local/C/DE/FF/8A64EA06B1C727ACD07B065AADA_4E1B52A4_23EAB.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "040-闽剧 书痴1.flv", label: "1", sort_order: 1 }
+      - { file: "041-闽剧 书痴2.flv", label: "2", sort_order: 2 }
+      - { file: "042-闽剧 书痴3.flv", label: "3", sort_order: 3 }
+      - { file: "043-闽剧 书痴4.flv", label: "4", sort_order: 4 }
 ---
 
 # 书痴

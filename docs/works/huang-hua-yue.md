@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://m.kanximi.com/mp3/149-176479-0.html", type: 戏曲资源网, scope: 闽剧专属 }
 cover: https://i.ytimg.com/vi/fO6OFfcu7dI/maxresdefault.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "388-闽剧 黄花约1.flv", label: "1", sort_order: 1 }
+      - { file: "389-闽剧 黄花约2.flv", label: "2", sort_order: 2 }
+      - { file: "390-闽剧 黄花约3.flv", label: "3", sort_order: 3 }
 ---
 
 # 黄花约

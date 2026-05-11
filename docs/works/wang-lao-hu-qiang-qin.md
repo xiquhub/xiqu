@@ -12,6 +12,12 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%8E%8B%E8%80%81%E8%99%8E%E6%8A%A2%E4%BA%B2/605276", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E7%8E%8B%E8%80%81%E8%99%8E%E6%8A%A2%E4%BA%B2_(%E8%B6%8A%E5%89%A7)", type: wikipedia, scope: 通用 }
 cover: https://so1.360tres.com/t013b177e10f2abcb45.png
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "267-闽剧 王老虎抢亲.flv", label: "", sort_order: 0 }
 ---
 
 # 王老虎抢亲

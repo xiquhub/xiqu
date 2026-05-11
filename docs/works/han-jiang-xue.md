@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AF%92%E6%B1%9F%E9%9B%AA/3950800", type: baidu_baike, scope: 通用 }
 cover: https://so1.360tres.com/t01e85f81655eff2f37.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "153-闽剧 寒江雪 1.flv", label: "1", sort_order: 1 }
+      - { file: "154-闽剧 寒江雪 2.flv", label: "2", sort_order: 2 }
+      - { file: "155-闽剧 寒江雪 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 寒江雪

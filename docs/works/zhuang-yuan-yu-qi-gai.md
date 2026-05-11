@@ -12,6 +12,15 @@ sources:
   - { url: "https://baike.baidu.com/item/%E7%8A%B6%E5%85%83%E4%B8%8E%E4%B9%9E%E4%B8%90/10749182", type: baidu_baike, scope: 通用 }
   - { url: "https://wiki66.com/%E7%8A%B6%E5%85%83%E4%B8%8E%E4%B9%9E%E4%B8%90%EF%BC%88%E8%8E%86%E4%BB%99%E6%88%8F%E5%89%A7%E7%9B%AE%EF%BC%89", type: other, scope: 通用 }
 cover: https://newbbs-fd.zol-img.com.cn/t_s800x2000/g5/M00/01/0C/ChMkJ1fOblyIT4aEAAxHt5yXoXUAAVEIwD73hgADEfP926.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "127-闽剧 壮元与乞丐.flv", label: "", sort_order: 0 }
+      - { file: "490-闽剧《状元与乞丐》全剧(上集).flv", label: "上", sort_order: 1 }
+      - { file: "492-闽剧《状元与乞丐》全剧(中集).flv", label: "中", sort_order: 2 }
+      - { file: "491-闽剧《状元与乞丐》全剧(下集).flv", label: "下", sort_order: 3 }
 ---
 
 # 状元与乞丐

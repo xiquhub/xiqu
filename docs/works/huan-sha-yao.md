@@ -11,6 +11,14 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%B5%A3%E7%BA%B1%E8%AE%B0/1401127", type: baidu_baike, scope: 通用 }
 cover: http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781328799.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "484-闽剧《浣纱谣》1.flv", label: "1", sort_order: 1 }
+      - { file: "485-闽剧《浣纱谣》2.flv", label: "2", sort_order: 2 }
+      - { file: "486-闽剧《浣纱谣》3.flv", label: "3", sort_order: 3 }
 ---
 
 # 浣纱谣

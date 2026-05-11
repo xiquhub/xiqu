@@ -10,6 +10,12 @@ adapted_from:
 needs_research: true
 sources: []
 cover: http://www.qhnews.com/pic/0/02/17/88/2178850_014100.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "208-闽剧 梅玉配.flv", label: "", sort_order: 0 }
 ---
 
 # 梅玉配

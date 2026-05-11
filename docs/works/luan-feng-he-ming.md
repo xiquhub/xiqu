@@ -9,6 +9,14 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "385-闽剧 鸾凤和鸣 1.flv", label: "1", sort_order: 1 }
+      - { file: "386-闽剧 鸾凤和鸣 2.flv", label: "2", sort_order: 2 }
+      - { file: "387-闽剧 鸾凤和鸣 3.flv", label: "3", sort_order: 3 }
 ---
 
 # 鸾凤和鸣

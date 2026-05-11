@@ -11,6 +11,12 @@ needs_research: false
 sources:
   - { url: "http://www.fzmjtc.cn/mjzyk/info/1048/1133.htm", type: other, scope: 闽剧专属 }
 cover: https://puui.qpic.cn/vpic_cover/m3367zd4wlw/m3367zd4wlw_1671766709_hz.jpg
+productions:
+  - slug: "main"
+    label: "主版"
+    confidence: "medium"
+    parts:
+      - { file: "314-闽剧 误闯白虎堂.flv", label: "", sort_order: 0 }
 ---
 
 # 误闯白虎堂
