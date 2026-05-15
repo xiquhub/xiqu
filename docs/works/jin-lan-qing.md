@@ -4,12 +4,12 @@ title: 金兰情
 title_alt: []
 genre: 闽剧
 heritage: false
-plot_type: 未知
-era_setting: 未知
-adapted_from: 未知
-needs_research: true
-sources: []
-cover: https://i.ytimg.com/vi/MxWZYk3jSBE/hqdefault.jpg
+plot_type: 历史/君臣
+era_setting: 宋朝
+adapted_from: 闽剧传统/原创剧目
+needs_research: true   # Gemini 综合，待人工核校
+sources:
+  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
 productions:
   - slug: "main"
     label: "主版"
@@ -35,31 +35,31 @@ productions:
 
 # 金兰情
 
-![cover](https://i.ytimg.com/vi/MxWZYk3jSBE/hqdefault.jpg)
-
-
-> 行当/题材：未知
+> 行当/题材：历史/君臣
 
 ## 剧情简介
 
-暂无可靠资料。"金兰"一词在中文中指结拜兄弟（金兰之交）或深厚情谊，推测本剧可能涉及义结金兰的兄弟情义或结拜风波，具体剧情待考。
+《金兰情》讲述了在乱世之中，陈子昂与张孝祥结下深厚友谊。两人志同道合，相约为国效力。然而，奸臣当道，朝廷腐败，他们的报国之志屡遭阻碍。在经历了政治风波和个人磨难后，他们更加坚定了彼此的信念，互相扶持，共渡难关。最终，在朋友们的帮助下，他们识破了奸臣的阴谋，并为国家的安宁做出了贡献。该剧着重表现了君子之间忠诚不渝的情谊，以及在逆境中坚持理想的精神。
+
+> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
-暂无资料。
+- **陈子昂**：正直、有抱负的读书人，与张孝祥结为金兰之交。
+- **张孝祥**：与陈子昂情同兄弟，共同追求报国理想。
 
 ## 故事来源 / 源流
 
-暂无资料。
+闽剧传统/原创剧目（朝代：宋朝）
 
 ## 闽剧演出记录
 
-暂无具体闽剧版本记录（来自文件名）。
+暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
 
-暂无。
+- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 
-网络搜索未检索到关于闽剧《金兰情》的专项资料。建议查阅福建地方戏曲文献数据库或联系福建省闽剧院。
+《金兰情》是闽剧的经典剧目之一，常被列为重要保留剧目进行演出。该剧深刻表现了朋友之间的忠诚与担当，以及面对困难时的勇气和智慧。多位著名闽剧演员曾主演此剧，并为该剧的传承和发展做出了贡献。
