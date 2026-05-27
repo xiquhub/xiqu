@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { FeedbackLink } from "./FeedbackWidget";
 
 export function Footer() {
   return (
@@ -26,7 +27,7 @@ export function Footer() {
           <div className="text-[var(--color-fg)] font-semibold mb-3">关于</div>
           <ul className="space-y-1.5">
             <li><Link href="/about" className="hover:text-[var(--color-accent)]">项目说明</Link></li>
-            <li><a href="mailto:" className="hover:text-[var(--color-accent)]">提交资料 / 勘误</a></li>
+            <li><FeedbackLink /></li>
           </ul>
           <p className="mt-4 text-xs text-[var(--color-fg-muted)]/80">
             内容来自民间整理，仅供学习研究。
