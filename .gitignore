@@ -31,3 +31,4 @@ Thumbs.db
 # Compiled Go binaries
 pipelines/ingest/ingest
 apps/server/server
+.idea/
