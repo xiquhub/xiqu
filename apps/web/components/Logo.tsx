@@ -1,8 +1,8 @@
 /**
- * 站点 Logo——朱砂印章 + 繁体"戲"字。
+ * 站点 Logo——朱砂印章底 + 抽象折扇。
  *
- * 用繁体而不是简体"戏"是出于美学：戲笔画密度更接近真实的篆/隶印章；
- * 用"戲"通名而不是"闽"，是为了未来扩展（粤剧/京剧/越剧等同站可用）。
+ * 折扇是戏曲（不论生旦）通用道具，剧种中立；
+ * 印章底沿用档案站基调。
  */
 export function Logo({ size = 36 }: { size?: number }) {
   return (
@@ -28,19 +28,31 @@ export function Logo({ size = 36 }: { size?: number }) {
         strokeOpacity="0.25"
         strokeWidth="0.55"
       />
-      {/* 戲 字 */}
-      <text
-        x="14"
-        y="14"
-        textAnchor="middle"
-        dominantBaseline="central"
-        fill="#f5efe2"
-        fontSize="14"
-        fontWeight="900"
-        style={{ fontFamily: "var(--font-noto-serif-sc), serif" }}
+
+      {/* 折扇 —— 5 根扇骨 + 顶部弧形扇面 */}
+      <g
+        stroke="#f5efe2"
+        strokeWidth="1.2"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        fill="none"
       >
-        戲
-      </text>
+        {/* 中骨 */}
+        <line x1="14" y1="20" x2="14" y2="7" />
+        {/* 中左 / 中右 */}
+        <line x1="14" y1="20" x2="9.5" y2="8" />
+        <line x1="14" y1="20" x2="18.5" y2="8" />
+        {/* 外左 / 外右 */}
+        <line x1="14" y1="20" x2="6" y2="11" />
+        <line x1="14" y1="20" x2="22" y2="11" />
+        {/* 扇面外弧（连接扇骨顶端） */}
+        <path d="M 6 11 Q 14 4 22 11" />
+        {/* 扇面内弧（淡，呈现层次） */}
+        <path d="M 8.5 13 Q 14 7 19.5 13" strokeOpacity="0.55" />
+      </g>
+
+      {/* 扇钉 */}
+      <circle cx="14" cy="20" r="1.2" fill="#f5efe2" />
     </svg>
   );
 }
