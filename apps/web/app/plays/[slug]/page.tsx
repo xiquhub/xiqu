@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CoverImage } from "@/components/CoverImage";
+import { PlayDetailPlayer } from "@/components/PlayDetailPlayer";
 import { getAllWorks, getWork } from "@/lib/works";
 import type { Metadata } from "next";
 
@@ -71,45 +72,17 @@ export default async function PlayDetailPage({ params }: Params) {
         </div>
       </div>
 
-      {/* 录制版本列表 */}
+      {/* 观看 — 多版本以 tab 切换，单版本直接渲染播放器 */}
       <section className="mb-14">
         <h2 className="font-serif text-2xl text-[var(--color-fg)] mb-5 border-b border-[var(--color-border)] pb-2">
-          录制版本 <span className="text-sm text-[var(--color-fg-muted)] ml-2">{work.productions.length} 个</span>
+          观看
+          {work.productions.length > 1 && (
+            <span className="text-sm text-[var(--color-fg-muted)] ml-2">
+              {work.productions.length} 个版本
+            </span>
+          )}
         </h2>
-
-        {work.productions.length === 0 ? (
-          <p className="text-[var(--color-fg-muted)]">暂无版本记录。</p>
-        ) : (
-          <ul className="grid sm:grid-cols-2 gap-4">
-            {work.productions.map((p) => (
-              <li key={p.slug}>
-                <Link
-                  href={`/plays/${work.slug}/${p.slug}`}
-                  className="block p-5 border border-[var(--color-border)] rounded-md hover:border-[var(--color-accent)] hover:shadow-sm transition"
-                >
-                  <div className="flex items-baseline justify-between gap-2 mb-2">
-                    <h3 className="font-serif text-lg text-[var(--color-fg)]">{p.label}</h3>
-                    <span className="text-xs text-[var(--color-fg-muted)]">{p.parts.length} 卷</span>
-                  </div>
-                  <div className="text-sm text-[var(--color-fg-muted)] space-y-1">
-                    {p.troupe && <div><span className="text-[var(--color-fg)]">剧团 · </span>{p.troupe}</div>}
-                    {p.leads.length > 0 && (
-                      <div>
-                        <span className="text-[var(--color-fg)]">主演 · </span>
-                        {p.leads.join("、")}
-                      </div>
-                    )}
-                    {p.year && <div><span className="text-[var(--color-fg)]">年份 · </span>{p.year}</div>}
-                    {p.media_type && <div><span className="text-[var(--color-fg)]">媒介 · </span>{p.media_type}</div>}
-                    {!p.troupe && !p.leads.length && !p.year && !p.media_type && (
-                      <div className="italic">仅有文件名信息</div>
-                    )}
-                  </div>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        )}
+        <PlayDetailPlayer workSlug={work.slug} productions={work.productions} />
       </section>
 
       {/* 资料来源 — 仅展示外部 URL 来源，不展示 LLM/内部追踪条目 */}
