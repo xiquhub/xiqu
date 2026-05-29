@@ -95,27 +95,21 @@ export function VideoPlayer({
         <video
           ref={videoRef}
           controls
+          controlsList="nodownload noremoteplayback noplaybackrate"
+          disablePictureInPicture
+          onContextMenu={(e) => e.preventDefault()}
           playsInline
           preload="metadata"
           className="w-full h-full"
         />
       </div>
 
-      {/* 当前文件信息 + 下载链接 */}
-      <div className="mt-3 flex items-center justify-between gap-4 text-sm">
-        <div className="text-[var(--color-fg-muted)]">
-          当前：
-          <span className="text-[var(--color-fg)] font-medium">
-            {current.label || `第 ${currentIdx + 1} 段`}
-          </span>
-        </div>
-        <a
-          href={url}
-          download
-          className="text-[var(--color-link)] hover:underline text-xs"
-        >
-          下载原文件
-        </a>
+      {/* 当前文件标识 */}
+      <div className="mt-3 text-sm text-[var(--color-fg-muted)]">
+        当前：
+        <span className="text-[var(--color-fg)] font-medium">
+          {current.label || `第 ${currentIdx + 1} 段`}
+        </span>
       </div>
 
       {/* 分卷选择 */}
@@ -147,7 +141,7 @@ export function VideoPlayer({
       {/* FLV 提示 */}
       {ext === "flv" && (
         <p className="mt-3 text-xs text-[var(--color-fg-muted)]/80">
-          FLV 格式由浏览器内 mpegts.js 解码播放。如卡顿可点"下载原文件"用本地播放器（VLC、PotPlayer）。
+          FLV 格式由浏览器内 mpegts.js 解码播放，如卡顿请刷新页面重试。
         </p>
       )}
     </div>
