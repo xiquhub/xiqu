@@ -4,7 +4,6 @@ import { Logo } from "./Logo";
 
 const NAV = [
   { href: "/plays", label: "剧目" },
-  { href: "/about", label: "关于" },
 ];
 
 export function Header() {
