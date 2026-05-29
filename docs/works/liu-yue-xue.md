@@ -13,7 +13,7 @@ sources:
   - { url: "https://m.kanxiji.net/fujianxi/minju/2021-12-11/192675.html", type: other, scope: 闽剧专属 }
 productions:
   - slug: "1985-recording"
-    label: "1985 年 录音版 · 黄愿亭/林锦芳"
+    label: "林锦芳"
     year: 1985
     media_type: "录音"
     leads: ["黄愿亭", "林锦芳"]

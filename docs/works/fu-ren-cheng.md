@@ -14,8 +14,8 @@ sources:
 cover: /covers/fu-ren-cheng.jpg
 productions:
   - slug: "main"
-    label: "谢巧星/林颖/黄秀春等"
-    leads: ["谢巧星", "林颖", "黄秀春等"]
+    label: "谢巧星/林颖/黄秀春"
+    leads: ["谢巧星", "林颖", "黄秀春"]
     parts:
       - { file: "003-福建地方戏曲闽剧《夫人城》全剧 谢巧星 林颖 黄秀春等主演.flv", label: "全剧", sort_order: 0, file_en: "fu-ren-cheng-main-full.mp4" }
 ---

@@ -14,9 +14,9 @@ sources:
 cover: /covers/zhen-zhu-ta.jpg
 productions:
   - slug: "main"
-    label: "全剧/胡奇明/张品生"
+    label: "胡奇明/张品生"
     troupe: "福州闽剧一团"
-    leads: ["全剧", "胡奇明", "张品生"]
+    leads: ["胡奇明", "张品生"]
     parts:
       - { file: "011-福建地方戏曲闽剧《珍珠塔》全剧 福州闽剧一团 胡奇明 张品生.flv", label: "", sort_order: 0, file_en: "zhen-zhu-ta-main-full.mp4" }
 ---

@@ -13,7 +13,7 @@ cover: /covers/yun-niang-jiao-zi.jpg
 productions:
   - slug: "main"
     label: "由李敏"
-    leads: ["由李敏"]
+    leads: ["李敏"]
     parts:
       - { file: "431-闽剧《云娘教子》1上 由李敏领衔主演.flv", label: "上", sort_order: 1, file_en: "yun-niang-jiao-zi-main-p1.mp4" }
       - { file: "432-闽剧《云娘教子》2中 由李敏领衔主演.flv", label: "中", sort_order: 2, file_en: "yun-niang-jiao-zi-main-p2.mp4" }

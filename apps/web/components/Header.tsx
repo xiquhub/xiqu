@@ -4,8 +4,6 @@ import { Logo } from "./Logo";
 
 const NAV = [
   { href: "/plays", label: "剧目" },
-  { href: "/actors", label: "演员" },
-  { href: "/troupes", label: "剧团" },
   { href: "/about", label: "关于" },
 ];
 
