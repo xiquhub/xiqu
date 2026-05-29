@@ -51,7 +51,10 @@ jobs:
           if-no-files-found: error
           retention-days: 7
 
+  # CF Pages 部署暂未启用（需要 CLOUDFLARE_API_TOKEN secret）
+  # 启用时把下面 if 条件改回去
   deploy-cf-pages:
+    if: false
     needs: build
     runs-on: ubuntu-latest
     environment:
@@ -62,11 +65,9 @@ jobs:
         with:
           name: web-out
           path: out
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
       - name: Deploy to Cloudflare Pages
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
