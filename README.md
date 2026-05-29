@@ -4,8 +4,8 @@
 
 🌐 **在线访问**
 
-- 主站：<https://xiquhub.com>
-- 镜像：<https://xiquhub.github.io/xiqu/>（GH Pages，国内访问偶尔较稳）
+- 主站：<https://xiquhub.com>（Cloudflare Pages）
+- 二级入口：<https://archive.xiquhub.com>（GitHub Pages）
 - Pages.dev：<https://xiqu-archive.pages.dev>
 
 📊 **当前规模**
@@ -85,7 +85,7 @@ git push origin v1.0.0
 部署目标：
 
 1. **Cloudflare Pages** → https://xiquhub.com（主站）
-2. **GitHub Pages** → https://xiquhub.github.io/xiqu/（镜像）
+2. **GitHub Pages** → https://archive.xiquhub.com（二级入口，通过 `apps/web/public/CNAME` 绑定自定义域名）
 
 需要的 GitHub Secrets（在 repo Settings → Secrets and variables → Actions 添加）：
 
