@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "165-闽剧 开台锣鼓.flv", label: "", sort_order: 0 }
+      - { file: "165-闽剧 开台锣鼓.flv", label: "", sort_order: 0, file_en: "kai-tai-luo-gu-main-full.flv" }
 ---
 
 # 开台锣鼓

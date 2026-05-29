@@ -14,9 +14,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "283-闽剧 秦淮冤情 1.flv", label: "1", sort_order: 1 }
-      - { file: "284-闽剧 秦淮冤情 2.flv", label: "2", sort_order: 2 }
-      - { file: "285-闽剧 秦淮冤情 3.flv", label: "3", sort_order: 3 }
+      - { file: "283-闽剧 秦淮冤情 1.flv", label: "1", sort_order: 1, file_en: "qin-huai-yuan-qing-main-p1.flv" }
+      - { file: "284-闽剧 秦淮冤情 2.flv", label: "2", sort_order: 2, file_en: "qin-huai-yuan-qing-main-p2.flv" }
+      - { file: "285-闽剧 秦淮冤情 3.flv", label: "3", sort_order: 3, file_en: "qin-huai-yuan-qing-main-p3.flv" }
 ---
 
 # 秦淮冤情

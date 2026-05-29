@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "196-闽剧 柏玉霜 1.flv", label: "1", sort_order: 1 }
-      - { file: "197-闽剧 柏玉霜 2.flv", label: "2", sort_order: 2 }
-      - { file: "198-闽剧 柏玉霜 3.flv", label: "3", sort_order: 3 }
+      - { file: "196-闽剧 柏玉霜 1.flv", label: "1", sort_order: 1, file_en: "bai-yu-shuang-main-p1.flv" }
+      - { file: "197-闽剧 柏玉霜 2.flv", label: "2", sort_order: 2, file_en: "bai-yu-shuang-main-p2.flv" }
+      - { file: "198-闽剧 柏玉霜 3.flv", label: "3", sort_order: 3, file_en: "bai-yu-shuang-main-p3.flv" }
 ---
 
 # 柏玉霜

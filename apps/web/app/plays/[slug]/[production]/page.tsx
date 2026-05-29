@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { CoverImage } from "@/components/CoverImage";
-import { VideoPlaceholder } from "@/components/VideoPlaceholder";
+import { VideoPlayer } from "@/components/VideoPlayer";
 import { getAllWorks, getProduction } from "@/lib/works";
 import type { Metadata } from "next";
 
@@ -89,7 +89,7 @@ export default async function ProductionPage({ params }: Params) {
 
       <section className="mb-10">
         <h2 className="font-serif text-xl text-[var(--color-fg)] mb-4 border-b border-[var(--color-border)] pb-2">观看</h2>
-        <VideoPlaceholder production={prod} />
+        <VideoPlayer workSlug={work.slug} productionSlug={prod.slug} parts={prod.parts} />
       </section>
 
       {/* 其他版本 */}

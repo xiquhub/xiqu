@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "047-闽剧 五福临门.flv", label: "", sort_order: 0 }
+      - { file: "047-闽剧 五福临门.flv", label: "", sort_order: 0, file_en: "wu-fu-lin-men-main-full.flv" }
 ---
 
 # 五福临门

@@ -15,8 +15,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "206-闽剧 梅山恋曲1.flv", label: "1", sort_order: 1 }
-      - { file: "207-闽剧 梅山恋曲2.flv", label: "2", sort_order: 2 }
+      - { file: "206-闽剧 梅山恋曲1.flv", label: "1", sort_order: 1, file_en: "mei-shan-lian-qu-main-p1.flv" }
+      - { file: "207-闽剧 梅山恋曲2.flv", label: "2", sort_order: 2, file_en: "mei-shan-lian-qu-main-p2.flv" }
 ---
 
 # 梅山恋曲

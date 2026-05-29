@@ -15,10 +15,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "403-闽剧 龙案御审1.flv", label: "1", sort_order: 1 }
-      - { file: "404-闽剧 龙案御审2.flv", label: "2", sort_order: 2 }
-      - { file: "405-闽剧 龙案御审3.flv", label: "3", sort_order: 3 }
-      - { file: "406-闽剧 龙案御审5.flv", label: "5", sort_order: 5 }
+      - { file: "403-闽剧 龙案御审1.flv", label: "1", sort_order: 1, file_en: "long-an-yu-shen-main-p1.flv" }
+      - { file: "404-闽剧 龙案御审2.flv", label: "2", sort_order: 2, file_en: "long-an-yu-shen-main-p2.flv" }
+      - { file: "405-闽剧 龙案御审3.flv", label: "3", sort_order: 3, file_en: "long-an-yu-shen-main-p3.flv" }
+      - { file: "406-闽剧 龙案御审5.flv", label: "5", sort_order: 5, file_en: "long-an-yu-shen-main-p5.flv" }
 ---
 
 # 龙案御审

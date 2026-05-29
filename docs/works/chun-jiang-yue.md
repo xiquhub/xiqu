@@ -16,12 +16,12 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "180-闽剧 春江月 1.flv", label: "1", sort_order: 1 }
-      - { file: "183-闽剧 春江月(上).flv", label: "上", sort_order: 1 }
-      - { file: "181-闽剧 春江月 2.flv", label: "2", sort_order: 2 }
-      - { file: "185-闽剧 春江月(中).flv", label: "中", sort_order: 2 }
-      - { file: "182-闽剧 春江月 3.flv", label: "3", sort_order: 3 }
-      - { file: "184-闽剧 春江月(下).flv", label: "下", sort_order: 3 }
+      - { file: "180-闽剧 春江月 1.flv", label: "1", sort_order: 1, file_en: "chun-jiang-yue-main-p1.flv" }
+      - { file: "183-闽剧 春江月(上).flv", label: "上", sort_order: 1, file_en: "chun-jiang-yue-main-p1-b2.flv" }
+      - { file: "181-闽剧 春江月 2.flv", label: "2", sort_order: 2, file_en: "chun-jiang-yue-main-p2.flv" }
+      - { file: "185-闽剧 春江月(中).flv", label: "中", sort_order: 2, file_en: "chun-jiang-yue-main-p2-b2.flv" }
+      - { file: "182-闽剧 春江月 3.flv", label: "3", sort_order: 3, file_en: "chun-jiang-yue-main-p3.flv" }
+      - { file: "184-闽剧 春江月(下).flv", label: "下", sort_order: 3, file_en: "chun-jiang-yue-main-p3-b2.flv" }
 ---
 
 # 春江月

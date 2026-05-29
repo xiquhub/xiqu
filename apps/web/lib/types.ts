@@ -18,6 +18,8 @@ export type Production = {
 
 export type PartFile = {
   file: string;
+  /** 远端服务器上的英文文件名（如 liu-yue-xue-v2-p1.flv）；缺失时按规则现算 */
+  file_en?: string;
   label?: string;
   sort_order: number;
 };

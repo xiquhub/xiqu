@@ -17,8 +17,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "012-福建地方戏曲闽剧《甘国宝》上部 闽剧优秀传统剧目.flv", label: "上部 闽剧优秀传统剧目", sort_order: 0 }
-      - { file: "013-福建地方戏曲闽剧《甘国宝》下部 闽剧优秀传统剧目.flv", label: "下部 闽剧优秀传统剧目", sort_order: 0 }
+      - { file: "012-福建地方戏曲闽剧《甘国宝》上部 闽剧优秀传统剧目.flv", label: "上部 闽剧优秀传统剧目", sort_order: 0, file_en: "gan-guo-bao-main-full.flv" }
+      - { file: "013-福建地方戏曲闽剧《甘国宝》下部 闽剧优秀传统剧目.flv", label: "下部 闽剧优秀传统剧目", sort_order: 0, file_en: "gan-guo-bao-main-full-b2.flv" }
 ---
 
 # 甘国宝

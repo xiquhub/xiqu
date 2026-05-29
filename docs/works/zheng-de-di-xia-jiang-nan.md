@@ -17,9 +17,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "481-闽剧《正德帝下江南》1上.flv", label: "上", sort_order: 1 }
-      - { file: "482-闽剧《正德帝下江南》2中.flv", label: "中", sort_order: 2 }
-      - { file: "483-闽剧《正德帝下江南》3下.flv", label: "下", sort_order: 3 }
+      - { file: "481-闽剧《正德帝下江南》1上.flv", label: "上", sort_order: 1, file_en: "zheng-de-di-xia-jiang-nan-main-p1.flv" }
+      - { file: "482-闽剧《正德帝下江南》2中.flv", label: "中", sort_order: 2, file_en: "zheng-de-di-xia-jiang-nan-main-p2.flv" }
+      - { file: "483-闽剧《正德帝下江南》3下.flv", label: "下", sort_order: 3, file_en: "zheng-de-di-xia-jiang-nan-main-p3.flv" }
 ---
 
 # 正德帝下江南

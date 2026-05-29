@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "440-闽剧《包公误》全.flv", label: "全", sort_order: 0 }
+      - { file: "440-闽剧《包公误》全.flv", label: "全", sort_order: 0, file_en: "bao-gong-wu-main-full.flv" }
 ---
 
 # 包公误

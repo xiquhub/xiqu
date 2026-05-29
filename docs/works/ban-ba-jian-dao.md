@@ -16,12 +16,12 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "094-闽剧 半把剪刀 1.flv", label: "1", sort_order: 1 }
-      - { file: "097-闽剧 半把剪刀(上).flv", label: "上", sort_order: 1 }
-      - { file: "095-闽剧 半把剪刀 2.flv", label: "2", sort_order: 2 }
-      - { file: "099-闽剧 半把剪刀(中).flv", label: "中", sort_order: 2 }
-      - { file: "096-闽剧 半把剪刀 3.flv", label: "3", sort_order: 3 }
-      - { file: "098-闽剧 半把剪刀(下).flv", label: "下", sort_order: 3 }
+      - { file: "094-闽剧 半把剪刀 1.flv", label: "1", sort_order: 1, file_en: "ban-ba-jian-dao-main-p1.flv" }
+      - { file: "097-闽剧 半把剪刀(上).flv", label: "上", sort_order: 1, file_en: "ban-ba-jian-dao-main-p1-b2.flv" }
+      - { file: "095-闽剧 半把剪刀 2.flv", label: "2", sort_order: 2, file_en: "ban-ba-jian-dao-main-p2.flv" }
+      - { file: "099-闽剧 半把剪刀(中).flv", label: "中", sort_order: 2, file_en: "ban-ba-jian-dao-main-p2-b2.flv" }
+      - { file: "096-闽剧 半把剪刀 3.flv", label: "3", sort_order: 3, file_en: "ban-ba-jian-dao-main-p3.flv" }
+      - { file: "098-闽剧 半把剪刀(下).flv", label: "下", sort_order: 3, file_en: "ban-ba-jian-dao-main-p3-b2.flv" }
 ---
 
 # 半把剪刀

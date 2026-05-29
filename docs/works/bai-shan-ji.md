@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "269-闽剧 白扇记(上).flv", label: "上", sort_order: 1 }
-      - { file: "271-闽剧 白扇记(中).flv", label: "中", sort_order: 2 }
-      - { file: "270-闽剧 白扇记(下).flv", label: "下", sort_order: 3 }
+      - { file: "269-闽剧 白扇记(上).flv", label: "上", sort_order: 1, file_en: "bai-shan-ji-main-p1.flv" }
+      - { file: "271-闽剧 白扇记(中).flv", label: "中", sort_order: 2, file_en: "bai-shan-ji-main-p2.flv" }
+      - { file: "270-闽剧 白扇记(下).flv", label: "下", sort_order: 3, file_en: "bai-shan-ji-main-p3.flv" }
 ---
 
 # 白扇记

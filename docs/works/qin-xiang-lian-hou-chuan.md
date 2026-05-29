@@ -17,9 +17,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "286-闽剧 秦香莲后传1.flv", label: "1", sort_order: 1 }
-      - { file: "287-闽剧 秦香莲后传2.flv", label: "2", sort_order: 2 }
-      - { file: "288-闽剧 秦香莲后传3.flv", label: "3", sort_order: 3 }
+      - { file: "286-闽剧 秦香莲后传1.flv", label: "1", sort_order: 1, file_en: "qin-xiang-lian-hou-chuan-main-p1.flv" }
+      - { file: "287-闽剧 秦香莲后传2.flv", label: "2", sort_order: 2, file_en: "qin-xiang-lian-hou-chuan-main-p2.flv" }
+      - { file: "288-闽剧 秦香莲后传3.flv", label: "3", sort_order: 3, file_en: "qin-xiang-lian-hou-chuan-main-p3.flv" }
 ---
 
 # 秦香莲后传

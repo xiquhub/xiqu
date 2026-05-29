@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "495-闽剧《红花公主》全剧.flv", label: "全剧", sort_order: 0 }
+      - { file: "495-闽剧《红花公主》全剧.flv", label: "全剧", sort_order: 0, file_en: "hong-hua-gong-zhu-main-full.flv" }
 ---
 
 # 红花公主

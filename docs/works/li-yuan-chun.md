@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "480-闽剧《梨园春》全.flv", label: "全", sort_order: 0 }
+      - { file: "480-闽剧《梨园春》全.flv", label: "全", sort_order: 0, file_en: "li-yuan-chun-main-full.flv" }
 ---
 
 # 梨园春

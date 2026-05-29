@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "347-闽剧 金钿玉锁仔 1.flv", label: "1", sort_order: 1 }
-      - { file: "348-闽剧 金钿玉锁仔 2.flv", label: "2", sort_order: 2 }
-      - { file: "349-闽剧 金钿玉锁仔 3.flv", label: "3", sort_order: 3 }
+      - { file: "347-闽剧 金钿玉锁仔 1.flv", label: "1", sort_order: 1, file_en: "jin-dian-yu-suo-zai-main-p1.flv" }
+      - { file: "348-闽剧 金钿玉锁仔 2.flv", label: "2", sort_order: 2, file_en: "jin-dian-yu-suo-zai-main-p2.flv" }
+      - { file: "349-闽剧 金钿玉锁仔 3.flv", label: "3", sort_order: 3, file_en: "jin-dian-yu-suo-zai-main-p3.flv" }
 ---
 
 # 金钿玉锁仔

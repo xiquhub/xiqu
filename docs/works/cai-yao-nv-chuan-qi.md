@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "320-闽剧 采药女传奇 1.flv", label: "1", sort_order: 1 }
-      - { file: "321-闽剧 采药女传奇 2.flv", label: "2", sort_order: 2 }
-      - { file: "322-闽剧 采药女传奇 3.flv", label: "3", sort_order: 3 }
+      - { file: "320-闽剧 采药女传奇 1.flv", label: "1", sort_order: 1, file_en: "cai-yao-nv-chuan-qi-main-p1.flv" }
+      - { file: "321-闽剧 采药女传奇 2.flv", label: "2", sort_order: 2, file_en: "cai-yao-nv-chuan-qi-main-p2.flv" }
+      - { file: "322-闽剧 采药女传奇 3.flv", label: "3", sort_order: 3, file_en: "cai-yao-nv-chuan-qi-main-p3.flv" }
 ---
 
 # 采药女传奇

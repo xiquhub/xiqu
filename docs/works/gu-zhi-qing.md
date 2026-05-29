@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "141-闽剧 姑侄情 1.flv", label: "1", sort_order: 1 }
-      - { file: "142-闽剧 姑侄情 2.flv", label: "2", sort_order: 2 }
-      - { file: "143-闽剧 姑侄情 3.flv", label: "3", sort_order: 3 }
+      - { file: "141-闽剧 姑侄情 1.flv", label: "1", sort_order: 1, file_en: "gu-zhi-qing-main-p1.flv" }
+      - { file: "142-闽剧 姑侄情 2.flv", label: "2", sort_order: 2, file_en: "gu-zhi-qing-main-p2.flv" }
+      - { file: "143-闽剧 姑侄情 3.flv", label: "3", sort_order: 3, file_en: "gu-zhi-qing-main-p3.flv" }
 ---
 
 # 姑侄情

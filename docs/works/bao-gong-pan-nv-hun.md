@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "082-闽剧 包公判女魂(上).flv", label: "上", sort_order: 1 }
-      - { file: "084-闽剧 包公判女魂(中).flv", label: "中", sort_order: 2 }
-      - { file: "083-闽剧 包公判女魂(下).flv", label: "下", sort_order: 3 }
+      - { file: "082-闽剧 包公判女魂(上).flv", label: "上", sort_order: 1, file_en: "bao-gong-pan-nv-hun-main-p1.flv" }
+      - { file: "084-闽剧 包公判女魂(中).flv", label: "中", sort_order: 2, file_en: "bao-gong-pan-nv-hun-main-p2.flv" }
+      - { file: "083-闽剧 包公判女魂(下).flv", label: "下", sort_order: 3, file_en: "bao-gong-pan-nv-hun-main-p3.flv" }
 ---
 
 # 包公判女魂

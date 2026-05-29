@@ -17,10 +17,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "040-闽剧 书痴1.flv", label: "1", sort_order: 1 }
-      - { file: "041-闽剧 书痴2.flv", label: "2", sort_order: 2 }
-      - { file: "042-闽剧 书痴3.flv", label: "3", sort_order: 3 }
-      - { file: "043-闽剧 书痴4.flv", label: "4", sort_order: 4 }
+      - { file: "040-闽剧 书痴1.flv", label: "1", sort_order: 1, file_en: "shu-chi-main-p1.flv" }
+      - { file: "041-闽剧 书痴2.flv", label: "2", sort_order: 2, file_en: "shu-chi-main-p2.flv" }
+      - { file: "042-闽剧 书痴3.flv", label: "3", sort_order: 3, file_en: "shu-chi-main-p3.flv" }
+      - { file: "043-闽剧 书痴4.flv", label: "4", sort_order: 4, file_en: "shu-chi-main-p4.flv" }
 ---
 
 # 书痴

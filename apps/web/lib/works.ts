@@ -34,6 +34,7 @@ export function getAllWorks(): Work[] {
       parts: Array.isArray(p?.parts)
         ? p.parts.map((pt: any) => ({
             file: String(pt?.file ?? ""),
+            file_en: pt?.file_en ? String(pt.file_en) : undefined,
             label: pt?.label || undefined,
             sort_order: typeof pt?.sort_order === "number" ? pt.sort_order : 0,
           }))

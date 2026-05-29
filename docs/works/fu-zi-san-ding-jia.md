@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "489-闽剧《父子三鼎甲》全.flv", label: "全", sort_order: 0 }
+      - { file: "489-闽剧《父子三鼎甲》全.flv", label: "全", sort_order: 0, file_en: "fu-zi-san-ding-jia-main-full.flv" }
 ---
 
 # 父子三鼎甲

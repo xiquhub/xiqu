@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "425-闽剧《乌凤公主》全.flv", label: "全", sort_order: 0 }
+      - { file: "425-闽剧《乌凤公主》全.flv", label: "全", sort_order: 0, file_en: "wu-feng-gong-zhu-main-full.flv" }
 ---
 
 # 乌凤公主

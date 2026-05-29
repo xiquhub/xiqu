@@ -16,10 +16,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "062-闽剧 八美楼 1.flv", label: "1", sort_order: 1 }
-      - { file: "063-闽剧 八美楼 2.flv", label: "2", sort_order: 2 }
-      - { file: "064-闽剧 八美楼 3.flv", label: "3", sort_order: 3 }
-      - { file: "065-闽剧 八美楼 4.flv", label: "4", sort_order: 4 }
+      - { file: "062-闽剧 八美楼 1.flv", label: "1", sort_order: 1, file_en: "ba-mei-lou-main-p1.flv" }
+      - { file: "063-闽剧 八美楼 2.flv", label: "2", sort_order: 2, file_en: "ba-mei-lou-main-p2.flv" }
+      - { file: "064-闽剧 八美楼 3.flv", label: "3", sort_order: 3, file_en: "ba-mei-lou-main-p3.flv" }
+      - { file: "065-闽剧 八美楼 4.flv", label: "4", sort_order: 4, file_en: "ba-mei-lou-main-p4.flv" }
 ---
 
 # 八美楼

@@ -17,9 +17,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "223-闽剧 海瑞罢官1.flv", label: "1", sort_order: 1 }
-      - { file: "224-闽剧 海瑞罢官2.flv", label: "2", sort_order: 2 }
-      - { file: "225-闽剧 海瑞罢官3.flv", label: "3", sort_order: 3 }
+      - { file: "223-闽剧 海瑞罢官1.flv", label: "1", sort_order: 1, file_en: "hai-rui-ba-guan-main-p1.flv" }
+      - { file: "224-闽剧 海瑞罢官2.flv", label: "2", sort_order: 2, file_en: "hai-rui-ba-guan-main-p2.flv" }
+      - { file: "225-闽剧 海瑞罢官3.flv", label: "3", sort_order: 3, file_en: "hai-rui-ba-guan-main-p3.flv" }
 ---
 
 # 海瑞罢官

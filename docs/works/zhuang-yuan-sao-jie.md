@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "241-闽剧 状元扫街1.flv", label: "1", sort_order: 1 }
-      - { file: "242-闽剧 状元扫街2.flv", label: "2", sort_order: 2 }
-      - { file: "243-闽剧 状元扫街3.flv", label: "3", sort_order: 3 }
+      - { file: "241-闽剧 状元扫街1.flv", label: "1", sort_order: 1, file_en: "zhuang-yuan-sao-jie-main-p1.flv" }
+      - { file: "242-闽剧 状元扫街2.flv", label: "2", sort_order: 2, file_en: "zhuang-yuan-sao-jie-main-p2.flv" }
+      - { file: "243-闽剧 状元扫街3.flv", label: "3", sort_order: 3, file_en: "zhuang-yuan-sao-jie-main-p3.flv" }
 ---
 
 # 状元扫街

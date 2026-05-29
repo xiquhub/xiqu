@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "162-闽剧 巾帼奇男 1.flv", label: "1", sort_order: 1 }
-      - { file: "163-闽剧 巾帼奇男 2.flv", label: "2", sort_order: 2 }
-      - { file: "164-闽剧 巾帼奇男 3.flv", label: "3", sort_order: 3 }
+      - { file: "162-闽剧 巾帼奇男 1.flv", label: "1", sort_order: 1, file_en: "jin-guo-qi-nan-main-p1.flv" }
+      - { file: "163-闽剧 巾帼奇男 2.flv", label: "2", sort_order: 2, file_en: "jin-guo-qi-nan-main-p2.flv" }
+      - { file: "164-闽剧 巾帼奇男 3.flv", label: "3", sort_order: 3, file_en: "jin-guo-qi-nan-main-p3.flv" }
 ---
 
 # 巾帼奇男

@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "496-闽剧《红鬃马》1上.flv", label: "上", sort_order: 1 }
-      - { file: "497-闽剧《红鬃马》2中.flv", label: "中", sort_order: 2 }
-      - { file: "498-闽剧《红鬃马》3下.flv", label: "下", sort_order: 3 }
+      - { file: "496-闽剧《红鬃马》1上.flv", label: "上", sort_order: 1, file_en: "hong-zong-ma-main-p1.flv" }
+      - { file: "497-闽剧《红鬃马》2中.flv", label: "中", sort_order: 2, file_en: "hong-zong-ma-main-p2.flv" }
+      - { file: "498-闽剧《红鬃马》3下.flv", label: "下", sort_order: 3, file_en: "hong-zong-ma-main-p3.flv" }
 ---
 
 # 红鬃马

@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "300-闽剧 红梅傲雪(上).flv", label: "上", sort_order: 1 }
-      - { file: "302-闽剧 红梅傲雪(中).flv", label: "中", sort_order: 2 }
-      - { file: "301-闽剧 红梅傲雪(下).flv", label: "下", sort_order: 3 }
+      - { file: "300-闽剧 红梅傲雪(上).flv", label: "上", sort_order: 1, file_en: "hong-mei-ao-xue-main-p1.flv" }
+      - { file: "302-闽剧 红梅傲雪(中).flv", label: "中", sort_order: 2, file_en: "hong-mei-ao-xue-main-p2.flv" }
+      - { file: "301-闽剧 红梅傲雪(下).flv", label: "下", sort_order: 3, file_en: "hong-mei-ao-xue-main-p3.flv" }
 ---
 
 # 红梅傲雪

@@ -14,14 +14,14 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "416-闽剧《三美图》1.flv", label: "1", sort_order: 1 }
-      - { file: "417-闽剧《三美图》2.flv", label: "2", sort_order: 2 }
-      - { file: "418-闽剧《三美图》3.flv", label: "3", sort_order: 3 }
-      - { file: "419-闽剧《三美图》4.flv", label: "4", sort_order: 4 }
-      - { file: "420-闽剧《三美图》5.flv", label: "5", sort_order: 5 }
-      - { file: "421-闽剧《三美图》6.flv", label: "6", sort_order: 6 }
-      - { file: "422-闽剧《三美图》7.flv", label: "7", sort_order: 7 }
-      - { file: "423-闽剧《三美图》8.flv", label: "8", sort_order: 8 }
+      - { file: "416-闽剧《三美图》1.flv", label: "1", sort_order: 1, file_en: "san-mei-tu-main-p1.flv" }
+      - { file: "417-闽剧《三美图》2.flv", label: "2", sort_order: 2, file_en: "san-mei-tu-main-p2.flv" }
+      - { file: "418-闽剧《三美图》3.flv", label: "3", sort_order: 3, file_en: "san-mei-tu-main-p3.flv" }
+      - { file: "419-闽剧《三美图》4.flv", label: "4", sort_order: 4, file_en: "san-mei-tu-main-p4.flv" }
+      - { file: "420-闽剧《三美图》5.flv", label: "5", sort_order: 5, file_en: "san-mei-tu-main-p5.flv" }
+      - { file: "421-闽剧《三美图》6.flv", label: "6", sort_order: 6, file_en: "san-mei-tu-main-p6.flv" }
+      - { file: "422-闽剧《三美图》7.flv", label: "7", sort_order: 7, file_en: "san-mei-tu-main-p7.flv" }
+      - { file: "423-闽剧《三美图》8.flv", label: "8", sort_order: 8, file_en: "san-mei-tu-main-p8.flv" }
 ---
 
 # 三美图

@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "305-闽剧 节孝传 1.flv", label: "1", sort_order: 1 }
-      - { file: "306-闽剧 节孝传 2.flv", label: "2", sort_order: 2 }
-      - { file: "307-闽剧 节孝传 3.flv", label: "3", sort_order: 3 }
+      - { file: "305-闽剧 节孝传 1.flv", label: "1", sort_order: 1, file_en: "jie-xiao-chuan-main-p1.flv" }
+      - { file: "306-闽剧 节孝传 2.flv", label: "2", sort_order: 2, file_en: "jie-xiao-chuan-main-p2.flv" }
+      - { file: "307-闽剧 节孝传 3.flv", label: "3", sort_order: 3, file_en: "jie-xiao-chuan-main-p3.flv" }
 ---
 
 # 节孝传

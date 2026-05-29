@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "159-闽剧 巧断家务事1.flv", label: "1", sort_order: 1 }
-      - { file: "160-闽剧 巧断家务事2.flv", label: "2", sort_order: 2 }
-      - { file: "161-闽剧 巧断家务事3.flv", label: "3", sort_order: 3 }
+      - { file: "159-闽剧 巧断家务事1.flv", label: "1", sort_order: 1, file_en: "qiao-duan-jia-wu-shi-main-p1.flv" }
+      - { file: "160-闽剧 巧断家务事2.flv", label: "2", sort_order: 2, file_en: "qiao-duan-jia-wu-shi-main-p2.flv" }
+      - { file: "161-闽剧 巧断家务事3.flv", label: "3", sort_order: 3, file_en: "qiao-duan-jia-wu-shi-main-p3.flv" }
 ---
 
 # 巧断家务事

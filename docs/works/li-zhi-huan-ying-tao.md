@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "308-闽剧 荔枝换樱桃.flv", label: "", sort_order: 0 }
+      - { file: "308-闽剧 荔枝换樱桃.flv", label: "", sort_order: 0, file_en: "li-zhi-huan-ying-tao-main-full.flv" }
 ---
 
 # 荔枝换樱桃

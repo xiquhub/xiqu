@@ -18,7 +18,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "493-闽剧《王茂生进酒》全.flv", label: "全", sort_order: 0 }
+      - { file: "493-闽剧《王茂生进酒》全.flv", label: "全", sort_order: 0, file_en: "wang-mao-sheng-jin-jiu-main-full.flv" }
 ---
 
 # 王茂生进酒

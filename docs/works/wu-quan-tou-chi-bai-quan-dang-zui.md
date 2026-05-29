@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "036-闽剧 乌犬偷吃白犬当罪.flv", label: "", sort_order: 0 }
+      - { file: "036-闽剧 乌犬偷吃白犬当罪.flv", label: "", sort_order: 0, file_en: "wu-quan-tou-chi-bai-quan-dang-zui-main-full.flv" }
 ---
 
 # 乌犬偷吃白犬当罪

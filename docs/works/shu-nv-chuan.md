@@ -14,7 +14,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "006-福建地方戏曲闽剧《淑女传》全剧.flv", label: "全剧", sort_order: 0 }
+      - { file: "006-福建地方戏曲闽剧《淑女传》全剧.flv", label: "全剧", sort_order: 0, file_en: "shu-nv-chuan-main-full.flv" }
 ---
 
 # 淑女传

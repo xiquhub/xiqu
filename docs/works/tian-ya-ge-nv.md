@@ -17,9 +17,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "134-闽剧 天涯歌女1.flv", label: "1", sort_order: 1 }
-      - { file: "135-闽剧 天涯歌女2.flv", label: "2", sort_order: 2 }
-      - { file: "136-闽剧 天涯歌女3.flv", label: "3", sort_order: 3 }
+      - { file: "134-闽剧 天涯歌女1.flv", label: "1", sort_order: 1, file_en: "tian-ya-ge-nv-main-p1.flv" }
+      - { file: "135-闽剧 天涯歌女2.flv", label: "2", sort_order: 2, file_en: "tian-ya-ge-nv-main-p2.flv" }
+      - { file: "136-闽剧 天涯歌女3.flv", label: "3", sort_order: 3, file_en: "tian-ya-ge-nv-main-p3.flv" }
 ---
 
 # 天涯歌女

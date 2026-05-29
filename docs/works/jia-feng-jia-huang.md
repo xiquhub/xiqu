@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "054-闽剧 假凤假凰1.flv", label: "1", sort_order: 1 }
-      - { file: "055-闽剧 假凤假凰2.flv", label: "2", sort_order: 2 }
-      - { file: "056-闽剧 假凤假凰3.flv", label: "3", sort_order: 3 }
+      - { file: "054-闽剧 假凤假凰1.flv", label: "1", sort_order: 1, file_en: "jia-feng-jia-huang-main-p1.flv" }
+      - { file: "055-闽剧 假凤假凰2.flv", label: "2", sort_order: 2, file_en: "jia-feng-jia-huang-main-p2.flv" }
+      - { file: "056-闽剧 假凤假凰3.flv", label: "3", sort_order: 3, file_en: "jia-feng-jia-huang-main-p3.flv" }
 ---
 
 # 假凤假凰

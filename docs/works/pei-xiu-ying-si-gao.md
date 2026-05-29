@@ -17,7 +17,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "313-闽剧 裴秀英四告.flv", label: "", sort_order: 0 }
+      - { file: "313-闽剧 裴秀英四告.flv", label: "", sort_order: 0, file_en: "pei-xiu-ying-si-gao-main-full.flv" }
 ---
 
 # 裴秀英四告

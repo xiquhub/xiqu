@@ -17,8 +17,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "061-闽剧 全集 马乐一日君.flv", label: "全", sort_order: 0 }
-      - { file: "374-闽剧 马铎一日君全集.flv", label: "全", sort_order: 0 }
+      - { file: "061-闽剧 全集 马乐一日君.flv", label: "全", sort_order: 0, file_en: "ma-duo-yi-ri-jun-main-full.flv" }
+      - { file: "374-闽剧 马铎一日君全集.flv", label: "全", sort_order: 0, file_en: "ma-duo-yi-ri-jun-main-full-b2.flv" }
 ---
 
 # 马铎一日君

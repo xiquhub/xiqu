@@ -16,8 +16,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "501-闽剧《赤胆布衣》上.flv", label: "上", sort_order: 1 }
-      - { file: "502-闽剧《赤胆布衣》下.flv", label: "下", sort_order: 3 }
+      - { file: "501-闽剧《赤胆布衣》上.flv", label: "上", sort_order: 1, file_en: "chi-dan-bu-yi-main-p1.flv" }
+      - { file: "502-闽剧《赤胆布衣》下.flv", label: "下", sort_order: 3, file_en: "chi-dan-bu-yi-main-p3.flv" }
 ---
 
 # 赤胆布衣

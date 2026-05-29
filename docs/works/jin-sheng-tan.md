@@ -17,13 +17,13 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "339-闽剧 金圣叹1.flv", label: "1", sort_order: 1 }
-      - { file: "340-闽剧 金圣叹2.flv", label: "2", sort_order: 2 }
-      - { file: "341-闽剧 金圣叹3.flv", label: "3", sort_order: 3 }
-      - { file: "342-闽剧 金圣叹4.flv", label: "4", sort_order: 4 }
-      - { file: "343-闽剧 金圣叹5.flv", label: "5", sort_order: 5 }
-      - { file: "344-闽剧 金圣叹6.flv", label: "6", sort_order: 6 }
-      - { file: "345-闽剧 金圣叹7.flv", label: "7", sort_order: 7 }
+      - { file: "339-闽剧 金圣叹1.flv", label: "1", sort_order: 1, file_en: "jin-sheng-tan-main-p1.flv" }
+      - { file: "340-闽剧 金圣叹2.flv", label: "2", sort_order: 2, file_en: "jin-sheng-tan-main-p2.flv" }
+      - { file: "341-闽剧 金圣叹3.flv", label: "3", sort_order: 3, file_en: "jin-sheng-tan-main-p3.flv" }
+      - { file: "342-闽剧 金圣叹4.flv", label: "4", sort_order: 4, file_en: "jin-sheng-tan-main-p4.flv" }
+      - { file: "343-闽剧 金圣叹5.flv", label: "5", sort_order: 5, file_en: "jin-sheng-tan-main-p5.flv" }
+      - { file: "344-闽剧 金圣叹6.flv", label: "6", sort_order: 6, file_en: "jin-sheng-tan-main-p6.flv" }
+      - { file: "345-闽剧 金圣叹7.flv", label: "7", sort_order: 7, file_en: "jin-sheng-tan-main-p7.flv" }
 ---
 
 # 金圣叹

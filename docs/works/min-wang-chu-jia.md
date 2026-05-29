@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "359-闽剧 闽王出家.flv", label: "", sort_order: 0 }
+      - { file: "359-闽剧 闽王出家.flv", label: "", sort_order: 0, file_en: "min-wang-chu-jia-main-full.flv" }
 ---
 
 # 闽王出家

@@ -16,9 +16,9 @@ productions:
     leads: ["由李敏"]
     confidence: "high"
     parts:
-      - { file: "431-闽剧《云娘教子》1上 由李敏领衔主演.flv", label: "上", sort_order: 1 }
-      - { file: "432-闽剧《云娘教子》2中 由李敏领衔主演.flv", label: "中", sort_order: 2 }
-      - { file: "433-闽剧《云娘教子》3下 由李敏领衔主演.flv", label: "下", sort_order: 3 }
+      - { file: "431-闽剧《云娘教子》1上 由李敏领衔主演.flv", label: "上", sort_order: 1, file_en: "yun-niang-jiao-zi-main-p1.flv" }
+      - { file: "432-闽剧《云娘教子》2中 由李敏领衔主演.flv", label: "中", sort_order: 2, file_en: "yun-niang-jiao-zi-main-p2.flv" }
+      - { file: "433-闽剧《云娘教子》3下 由李敏领衔主演.flv", label: "下", sort_order: 3, file_en: "yun-niang-jiao-zi-main-p3.flv" }
 ---
 
 # 云娘教子

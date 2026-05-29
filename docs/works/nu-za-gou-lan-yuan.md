@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "167-闽剧 怒砸勾栏院.flv", label: "", sort_order: 0 }
+      - { file: "167-闽剧 怒砸勾栏院.flv", label: "", sort_order: 0, file_en: "nu-za-gou-lan-yuan-main-full.flv" }
 ---
 
 # 怒砸勾栏院

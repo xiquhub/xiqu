@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "208-闽剧 梅玉配.flv", label: "", sort_order: 0 }
+      - { file: "208-闽剧 梅玉配.flv", label: "", sort_order: 0, file_en: "mei-yu-pei-main-full.flv" }
 ---
 
 # 梅玉配

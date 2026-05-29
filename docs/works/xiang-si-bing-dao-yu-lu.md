@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "279-闽剧 相思病倒芋陆.flv", label: "", sort_order: 0 }
+      - { file: "279-闽剧 相思病倒芋陆.flv", label: "", sort_order: 0, file_en: "xiang-si-bing-dao-yu-lu-main-full.flv" }
 ---
 
 # 相思病倒芋陆

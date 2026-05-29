@@ -15,13 +15,13 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "450-闽剧《太后出嫁》01.flv", label: "1", sort_order: 1 }
-      - { file: "451-闽剧《太后出嫁》02.flv", label: "2", sort_order: 2 }
-      - { file: "452-闽剧《太后出嫁》03.flv", label: "3", sort_order: 3 }
-      - { file: "453-闽剧《太后出嫁》04.flv", label: "4", sort_order: 4 }
-      - { file: "454-闽剧《太后出嫁》06.flv", label: "6", sort_order: 6 }
-      - { file: "455-闽剧《太后出嫁》07.flv", label: "7", sort_order: 7 }
-      - { file: "456-闽剧《太后出嫁》08.flv", label: "8", sort_order: 8 }
+      - { file: "450-闽剧《太后出嫁》01.flv", label: "1", sort_order: 1, file_en: "tai-hou-chu-jia-main-p1.flv" }
+      - { file: "451-闽剧《太后出嫁》02.flv", label: "2", sort_order: 2, file_en: "tai-hou-chu-jia-main-p2.flv" }
+      - { file: "452-闽剧《太后出嫁》03.flv", label: "3", sort_order: 3, file_en: "tai-hou-chu-jia-main-p3.flv" }
+      - { file: "453-闽剧《太后出嫁》04.flv", label: "4", sort_order: 4, file_en: "tai-hou-chu-jia-main-p4.flv" }
+      - { file: "454-闽剧《太后出嫁》06.flv", label: "6", sort_order: 6, file_en: "tai-hou-chu-jia-main-p6.flv" }
+      - { file: "455-闽剧《太后出嫁》07.flv", label: "7", sort_order: 7, file_en: "tai-hou-chu-jia-main-p7.flv" }
+      - { file: "456-闽剧《太后出嫁》08.flv", label: "8", sort_order: 8, file_en: "tai-hou-chu-jia-main-p8.flv" }
 ---
 
 # 太后出嫁

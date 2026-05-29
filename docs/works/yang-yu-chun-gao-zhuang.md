@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "189-闽剧 杨玉春告状 1.flv", label: "1", sort_order: 1 }
-      - { file: "190-闽剧 杨玉春告状 2.flv", label: "2", sort_order: 2 }
-      - { file: "191-闽剧 杨玉春告状 3.flv", label: "3", sort_order: 3 }
+      - { file: "189-闽剧 杨玉春告状 1.flv", label: "1", sort_order: 1, file_en: "yang-yu-chun-gao-zhuang-main-p1.flv" }
+      - { file: "190-闽剧 杨玉春告状 2.flv", label: "2", sort_order: 2, file_en: "yang-yu-chun-gao-zhuang-main-p2.flv" }
+      - { file: "191-闽剧 杨玉春告状 3.flv", label: "3", sort_order: 3, file_en: "yang-yu-chun-gao-zhuang-main-p3.flv" }
 ---
 
 # 杨玉春告状

@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "217-闽剧 沉香阁 1.flv", label: "1", sort_order: 1 }
-      - { file: "218-闽剧 沉香阁 2.flv", label: "2", sort_order: 2 }
-      - { file: "219-闽剧 沉香阁 3.flv", label: "3", sort_order: 3 }
+      - { file: "217-闽剧 沉香阁 1.flv", label: "1", sort_order: 1, file_en: "chen-xiang-ge-main-p1.flv" }
+      - { file: "218-闽剧 沉香阁 2.flv", label: "2", sort_order: 2, file_en: "chen-xiang-ge-main-p2.flv" }
+      - { file: "219-闽剧 沉香阁 3.flv", label: "3", sort_order: 3, file_en: "chen-xiang-ge-main-p3.flv" }
 ---
 
 # 沉香阁

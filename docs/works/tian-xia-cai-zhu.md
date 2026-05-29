@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "449-闽剧《天下财主》全.flv", label: "全", sort_order: 0 }
+      - { file: "449-闽剧《天下财主》全.flv", label: "全", sort_order: 0, file_en: "tian-xia-cai-zhu-main-full.flv" }
 ---
 
 # 天下财主

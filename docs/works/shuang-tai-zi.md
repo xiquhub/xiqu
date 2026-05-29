@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "445-闽剧《双太子》全.flv", label: "全", sort_order: 0 }
+      - { file: "445-闽剧《双太子》全.flv", label: "全", sort_order: 0, file_en: "shuang-tai-zi-main-full.flv" }
 ---
 
 # 双太子

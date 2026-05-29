@@ -17,8 +17,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "215-闽剧 汉文皇后 1.flv", label: "1", sort_order: 1 }
-      - { file: "216-闽剧 汉文皇后 2.flv", label: "2", sort_order: 2 }
+      - { file: "215-闽剧 汉文皇后 1.flv", label: "1", sort_order: 1, file_en: "han-wen-huang-hou-main-p1.flv" }
+      - { file: "216-闽剧 汉文皇后 2.flv", label: "2", sort_order: 2, file_en: "han-wen-huang-hou-main-p2.flv" }
 ---
 
 # 汉文皇后

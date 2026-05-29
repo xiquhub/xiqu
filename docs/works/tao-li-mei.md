@@ -18,9 +18,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "200-闽剧 桃李梅1.flv", label: "1", sort_order: 1 }
-      - { file: "201-闽剧 桃李梅2.flv", label: "2", sort_order: 2 }
-      - { file: "202-闽剧 桃李梅3.flv", label: "3", sort_order: 3 }
+      - { file: "200-闽剧 桃李梅1.flv", label: "1", sort_order: 1, file_en: "tao-li-mei-main-p1.flv" }
+      - { file: "201-闽剧 桃李梅2.flv", label: "2", sort_order: 2, file_en: "tao-li-mei-main-p2.flv" }
+      - { file: "202-闽剧 桃李梅3.flv", label: "3", sort_order: 3, file_en: "tao-li-mei-main-p3.flv" }
 ---
 
 # 桃李梅

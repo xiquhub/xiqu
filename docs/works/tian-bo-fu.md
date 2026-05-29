@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "294-闽剧 天波府(1).flv", label: "1", sort_order: 1 }
-      - { file: "295-闽剧 天波府(2).flv", label: "2", sort_order: 2 }
-      - { file: "296-闽剧 天波府(3).flv", label: "3", sort_order: 3 }
+      - { file: "294-闽剧 天波府(1).flv", label: "1", sort_order: 1, file_en: "tian-bo-fu-main-p1.flv" }
+      - { file: "295-闽剧 天波府(2).flv", label: "2", sort_order: 2, file_en: "tian-bo-fu-main-p2.flv" }
+      - { file: "296-闽剧 天波府(3).flv", label: "3", sort_order: 3, file_en: "tian-bo-fu-main-p3.flv" }
 ---
 
 # 天波府

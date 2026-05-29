@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "192-闽剧 林则徐复出 1.flv", label: "1", sort_order: 1 }
-      - { file: "193-闽剧 林则徐复出 2.flv", label: "2", sort_order: 2 }
-      - { file: "194-闽剧 林则徐复出 3.flv", label: "3", sort_order: 3 }
+      - { file: "192-闽剧 林则徐复出 1.flv", label: "1", sort_order: 1, file_en: "lin-ze-xu-fu-chu-main-p1.flv" }
+      - { file: "193-闽剧 林则徐复出 2.flv", label: "2", sort_order: 2, file_en: "lin-ze-xu-fu-chu-main-p2.flv" }
+      - { file: "194-闽剧 林则徐复出 3.flv", label: "3", sort_order: 3, file_en: "lin-ze-xu-fu-chu-main-p3.flv" }
 ---
 
 # 林则徐复出

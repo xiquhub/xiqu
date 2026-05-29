@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "075-闽剧 凤凰庄 1.flv", label: "1", sort_order: 1 }
-      - { file: "076-闽剧 凤凰庄 2.flv", label: "2", sort_order: 2 }
-      - { file: "077-闽剧 凤凰庄 3.flv", label: "3", sort_order: 3 }
+      - { file: "075-闽剧 凤凰庄 1.flv", label: "1", sort_order: 1, file_en: "feng-huang-zhuang-main-p1.flv" }
+      - { file: "076-闽剧 凤凰庄 2.flv", label: "2", sort_order: 2, file_en: "feng-huang-zhuang-main-p2.flv" }
+      - { file: "077-闽剧 凤凰庄 3.flv", label: "3", sort_order: 3, file_en: "feng-huang-zhuang-main-p3.flv" }
 ---
 
 # 凤凰庄

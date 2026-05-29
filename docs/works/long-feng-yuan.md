@@ -15,12 +15,12 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "391-闽剧 龙凤怨(上)1.flv", label: "上", sort_order: 1 }
-      - { file: "392-闽剧 龙凤怨(上)2.flv", label: "上", sort_order: 1 }
-      - { file: "393-闽剧 龙凤怨(上)3.flv", label: "上", sort_order: 1 }
-      - { file: "394-闽剧 龙凤怨(下)1.flv", label: "下", sort_order: 3 }
-      - { file: "395-闽剧 龙凤怨(下)2.flv", label: "下", sort_order: 3 }
-      - { file: "396-闽剧 龙凤怨(下)3.flv", label: "下", sort_order: 3 }
+      - { file: "391-闽剧 龙凤怨(上)1.flv", label: "上", sort_order: 1, file_en: "long-feng-yuan-main-p1.flv" }
+      - { file: "392-闽剧 龙凤怨(上)2.flv", label: "上", sort_order: 1, file_en: "long-feng-yuan-main-p1-b2.flv" }
+      - { file: "393-闽剧 龙凤怨(上)3.flv", label: "上", sort_order: 1, file_en: "long-feng-yuan-main-p1-b3.flv" }
+      - { file: "394-闽剧 龙凤怨(下)1.flv", label: "下", sort_order: 3, file_en: "long-feng-yuan-main-p3.flv" }
+      - { file: "395-闽剧 龙凤怨(下)2.flv", label: "下", sort_order: 3, file_en: "long-feng-yuan-main-p3-b2.flv" }
+      - { file: "396-闽剧 龙凤怨(下)3.flv", label: "下", sort_order: 3, file_en: "long-feng-yuan-main-p3-b3.flv" }
 ---
 
 # 龙凤怨

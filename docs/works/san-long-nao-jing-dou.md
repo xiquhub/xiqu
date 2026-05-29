@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "291-闽剧 三龙闹京都1(上).flv", label: "上", sort_order: 1 }
-      - { file: "292-闽剧 三龙闹京都2(中).flv", label: "中", sort_order: 2 }
-      - { file: "293-闽剧 三龙闹京都3(下).flv", label: "下", sort_order: 3 }
+      - { file: "291-闽剧 三龙闹京都1(上).flv", label: "上", sort_order: 1, file_en: "san-long-nao-jing-dou-main-p1.flv" }
+      - { file: "292-闽剧 三龙闹京都2(中).flv", label: "中", sort_order: 2, file_en: "san-long-nao-jing-dou-main-p2.flv" }
+      - { file: "293-闽剧 三龙闹京都3(下).flv", label: "下", sort_order: 3, file_en: "san-long-nao-jing-dou-main-p3.flv" }
 ---
 
 # 三龙闹京都

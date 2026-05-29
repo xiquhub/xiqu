@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "276-闽剧 皇师帝友 1.flv", label: "1", sort_order: 1 }
-      - { file: "277-闽剧 皇师帝友 2.flv", label: "2", sort_order: 2 }
-      - { file: "278-闽剧 皇师帝友 3.flv", label: "3", sort_order: 3 }
+      - { file: "276-闽剧 皇师帝友 1.flv", label: "1", sort_order: 1, file_en: "huang-shi-di-you-main-p1.flv" }
+      - { file: "277-闽剧 皇师帝友 2.flv", label: "2", sort_order: 2, file_en: "huang-shi-di-you-main-p2.flv" }
+      - { file: "278-闽剧 皇师帝友 3.flv", label: "3", sort_order: 3, file_en: "huang-shi-di-you-main-p3.flv" }
 ---
 
 # 皇师帝友

@@ -14,9 +14,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "368-闽剧 雨过天晴 1.flv", label: "1", sort_order: 1 }
-      - { file: "369-闽剧 雨过天晴 2.flv", label: "2", sort_order: 2 }
-      - { file: "370-闽剧 雨过天晴 3.flv", label: "3", sort_order: 3 }
+      - { file: "368-闽剧 雨过天晴 1.flv", label: "1", sort_order: 1, file_en: "yu-guo-tian-qing-main-p1.flv" }
+      - { file: "369-闽剧 雨过天晴 2.flv", label: "2", sort_order: 2, file_en: "yu-guo-tian-qing-main-p2.flv" }
+      - { file: "370-闽剧 雨过天晴 3.flv", label: "3", sort_order: 3, file_en: "yu-guo-tian-qing-main-p3.flv" }
 ---
 
 # 雨过天晴

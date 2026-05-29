@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "051-闽剧 余杭奇案1.flv", label: "1", sort_order: 1 }
-      - { file: "052-闽剧 余杭奇案2.flv", label: "2", sort_order: 2 }
-      - { file: "053-闽剧 余杭奇案3.flv", label: "3", sort_order: 3 }
+      - { file: "051-闽剧 余杭奇案1.flv", label: "1", sort_order: 1, file_en: "yu-hang-qi-an-main-p1.flv" }
+      - { file: "052-闽剧 余杭奇案2.flv", label: "2", sort_order: 2, file_en: "yu-hang-qi-an-main-p2.flv" }
+      - { file: "053-闽剧 余杭奇案3.flv", label: "3", sort_order: 3, file_en: "yu-hang-qi-an-main-p3.flv" }
 ---
 
 # 余杭奇案

@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "400-闽剧 龙凤金耳扒1.flv", label: "1", sort_order: 1 }
-      - { file: "401-闽剧 龙凤金耳扒2.flv", label: "2", sort_order: 2 }
-      - { file: "402-闽剧 龙凤金耳扒3.flv", label: "3", sort_order: 3 }
+      - { file: "400-闽剧 龙凤金耳扒1.flv", label: "1", sort_order: 1, file_en: "long-feng-jin-er-ba-main-p1.flv" }
+      - { file: "401-闽剧 龙凤金耳扒2.flv", label: "2", sort_order: 2, file_en: "long-feng-jin-er-ba-main-p2.flv" }
+      - { file: "402-闽剧 龙凤金耳扒3.flv", label: "3", sort_order: 3, file_en: "long-feng-jin-er-ba-main-p3.flv" }
 ---
 
 # 龙凤金耳扒

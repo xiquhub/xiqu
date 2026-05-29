@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "280-闽剧 真假姑爷1(上).flv", label: "上", sort_order: 1 }
-      - { file: "281-闽剧 真假姑爷2(中).flv", label: "中", sort_order: 2 }
-      - { file: "282-闽剧 真假姑爷3(下).flv", label: "下", sort_order: 3 }
+      - { file: "280-闽剧 真假姑爷1(上).flv", label: "上", sort_order: 1, file_en: "zhen-jia-gu-ye-main-p1.flv" }
+      - { file: "281-闽剧 真假姑爷2(中).flv", label: "中", sort_order: 2, file_en: "zhen-jia-gu-ye-main-p2.flv" }
+      - { file: "282-闽剧 真假姑爷3(下).flv", label: "下", sort_order: 3, file_en: "zhen-jia-gu-ye-main-p3.flv" }
 ---
 
 # 真假姑爷

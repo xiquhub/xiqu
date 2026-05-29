@@ -17,7 +17,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "267-闽剧 王老虎抢亲.flv", label: "", sort_order: 0 }
+      - { file: "267-闽剧 王老虎抢亲.flv", label: "", sort_order: 0, file_en: "wang-lao-hu-qiang-qin-main-full.flv" }
 ---
 
 # 王老虎抢亲

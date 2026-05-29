@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "439-闽剧《包公斩公主》全剧.flv", label: "全剧", sort_order: 0 }
+      - { file: "439-闽剧《包公斩公主》全剧.flv", label: "全剧", sort_order: 0, file_en: "bao-gong-zhan-gong-zhu-main-full.flv" }
 ---
 
 # 包公斩公主

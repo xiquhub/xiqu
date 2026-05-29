@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "231-闽剧 清官护法 1.flv", label: "1", sort_order: 1 }
-      - { file: "232-闽剧 清官护法 2.flv", label: "2", sort_order: 2 }
-      - { file: "233-闽剧 清官护法 3.flv", label: "3", sort_order: 3 }
+      - { file: "231-闽剧 清官护法 1.flv", label: "1", sort_order: 1, file_en: "qing-guan-hu-fa-main-p1.flv" }
+      - { file: "232-闽剧 清官护法 2.flv", label: "2", sort_order: 2, file_en: "qing-guan-hu-fa-main-p2.flv" }
+      - { file: "233-闽剧 清官护法 3.flv", label: "3", sort_order: 3, file_en: "qing-guan-hu-fa-main-p3.flv" }
 ---
 
 # 清官护法

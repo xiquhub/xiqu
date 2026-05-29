@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "091-闽剧 包公审金钗.flv", label: "", sort_order: 0 }
+      - { file: "091-闽剧 包公审金钗.flv", label: "", sort_order: 0, file_en: "bao-gong-shen-jin-chai-main-full.flv" }
 ---
 
 # 包公审金钗

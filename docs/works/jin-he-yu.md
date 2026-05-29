@@ -15,8 +15,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "507-闽剧《金河遇》全剧(上集).mp4", label: "上", sort_order: 1 }
-      - { file: "508-闽剧《金河遇》全剧(下集).mp4", label: "下", sort_order: 3 }
+      - { file: "507-闽剧《金河遇》全剧(上集).mp4", label: "上", sort_order: 1, file_en: "jin-he-yu-main-p1.mp4" }
+      - { file: "508-闽剧《金河遇》全剧(下集).mp4", label: "下", sort_order: 3, file_en: "jin-he-yu-main-p3.mp4" }
 ---
 
 # 金河遇

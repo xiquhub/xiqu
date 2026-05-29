@@ -15,10 +15,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "473-闽剧《枯木逢春》1.flv", label: "1", sort_order: 1 }
-      - { file: "474-闽剧《枯木逢春》2.flv", label: "2", sort_order: 2 }
-      - { file: "475-闽剧《枯木逢春》3.flv", label: "3", sort_order: 3 }
-      - { file: "476-闽剧《枯木逢春》4.flv", label: "4", sort_order: 4 }
+      - { file: "473-闽剧《枯木逢春》1.flv", label: "1", sort_order: 1, file_en: "ku-mu-feng-chun-main-p1.flv" }
+      - { file: "474-闽剧《枯木逢春》2.flv", label: "2", sort_order: 2, file_en: "ku-mu-feng-chun-main-p2.flv" }
+      - { file: "475-闽剧《枯木逢春》3.flv", label: "3", sort_order: 3, file_en: "ku-mu-feng-chun-main-p3.flv" }
+      - { file: "476-闽剧《枯木逢春》4.flv", label: "4", sort_order: 4, file_en: "ku-mu-feng-chun-main-p4.flv" }
 ---
 
 # 枯木逢春

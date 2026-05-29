@@ -18,7 +18,7 @@ productions:
     leads: ["林瑛"]
     confidence: "high"
     parts:
-      - { file: "010-福建地方戏曲闽剧《王莲莲拜香》福建省实验闽剧团 林瑛主演.flv", label: "", sort_order: 0 }
+      - { file: "010-福建地方戏曲闽剧《王莲莲拜香》福建省实验闽剧团 林瑛主演.flv", label: "", sort_order: 0, file_en: "wang-lian-lian-bai-xiang-main-full.flv" }
 ---
 
 # 王莲莲拜香

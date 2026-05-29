@@ -15,10 +15,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "017-闽剧 七品报喜郎 1.flv", label: "1", sort_order: 1 }
-      - { file: "018-闽剧 七品报喜郎 2.flv", label: "2", sort_order: 2 }
-      - { file: "019-闽剧 七品报喜郎 3.flv", label: "3", sort_order: 3 }
-      - { file: "020-闽剧 七品报喜郎 4.flv", label: "4", sort_order: 4 }
+      - { file: "017-闽剧 七品报喜郎 1.flv", label: "1", sort_order: 1, file_en: "qi-pin-bao-xi-lang-main-p1.flv" }
+      - { file: "018-闽剧 七品报喜郎 2.flv", label: "2", sort_order: 2, file_en: "qi-pin-bao-xi-lang-main-p2.flv" }
+      - { file: "019-闽剧 七品报喜郎 3.flv", label: "3", sort_order: 3, file_en: "qi-pin-bao-xi-lang-main-p3.flv" }
+      - { file: "020-闽剧 七品报喜郎 4.flv", label: "4", sort_order: 4, file_en: "qi-pin-bao-xi-lang-main-p4.flv" }
 ---
 
 # 七品报喜郎

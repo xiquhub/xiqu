@@ -17,7 +17,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "137-闽剧 天豹图.flv", label: "", sort_order: 0 }
+      - { file: "137-闽剧 天豹图.flv", label: "", sort_order: 0, file_en: "tian-bao-tu-main-full.flv" }
 ---
 
 # 天豹图

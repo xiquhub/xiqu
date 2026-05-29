@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "289-闽剧 移花接木.flv", label: "", sort_order: 0 }
+      - { file: "289-闽剧 移花接木.flv", label: "", sort_order: 0, file_en: "yi-hua-jie-mu-main-full.flv" }
 ---
 
 # 移花接木

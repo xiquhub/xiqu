@@ -16,12 +16,12 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "244-闽剧 狸猫换太子 1.flv", label: "1", sort_order: 1 }
-      - { file: "245-闽剧 狸猫换太子 2.flv", label: "2", sort_order: 2 }
-      - { file: "246-闽剧 狸猫换太子 3.flv", label: "3", sort_order: 3 }
-      - { file: "247-闽剧 狸猫换太子 4.flv", label: "4", sort_order: 4 }
-      - { file: "248-闽剧 狸猫换太子 5.flv", label: "5", sort_order: 5 }
-      - { file: "249-闽剧 狸猫换太子 6.flv", label: "6", sort_order: 6 }
+      - { file: "244-闽剧 狸猫换太子 1.flv", label: "1", sort_order: 1, file_en: "li-mao-huan-tai-zi-main-p1.flv" }
+      - { file: "245-闽剧 狸猫换太子 2.flv", label: "2", sort_order: 2, file_en: "li-mao-huan-tai-zi-main-p2.flv" }
+      - { file: "246-闽剧 狸猫换太子 3.flv", label: "3", sort_order: 3, file_en: "li-mao-huan-tai-zi-main-p3.flv" }
+      - { file: "247-闽剧 狸猫换太子 4.flv", label: "4", sort_order: 4, file_en: "li-mao-huan-tai-zi-main-p4.flv" }
+      - { file: "248-闽剧 狸猫换太子 5.flv", label: "5", sort_order: 5, file_en: "li-mao-huan-tai-zi-main-p5.flv" }
+      - { file: "249-闽剧 狸猫换太子 6.flv", label: "6", sort_order: 6, file_en: "li-mao-huan-tai-zi-main-p6.flv" }
 ---
 
 # 狸猫换太子

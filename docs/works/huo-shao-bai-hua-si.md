@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "007-福建地方戏曲闽剧《火烧百花寺》全剧.flv", label: "全剧", sort_order: 0 }
+      - { file: "007-福建地方戏曲闽剧《火烧百花寺》全剧.flv", label: "全剧", sort_order: 0, file_en: "huo-shao-bai-hua-si-main-full.flv" }
 ---
 
 # 火烧百花寺

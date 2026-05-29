@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "477-闽剧《梅燕救国》A.flv", label: "A", sort_order: 1 }
-      - { file: "478-闽剧《梅燕救国》B.flv", label: "B", sort_order: 2 }
-      - { file: "479-闽剧《梅燕救国》C.flv", label: "C", sort_order: 3 }
+      - { file: "477-闽剧《梅燕救国》A.flv", label: "A", sort_order: 1, file_en: "mei-yan-jiu-guo-main-p1.flv" }
+      - { file: "478-闽剧《梅燕救国》B.flv", label: "B", sort_order: 2, file_en: "mei-yan-jiu-guo-main-p2.flv" }
+      - { file: "479-闽剧《梅燕救国》C.flv", label: "C", sort_order: 3, file_en: "mei-yan-jiu-guo-main-p3.flv" }
 ---
 
 # 梅燕救国

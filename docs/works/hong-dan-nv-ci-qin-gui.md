@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "297-闽剧 红丹女刺秦桧1.flv", label: "1", sort_order: 1 }
-      - { file: "298-闽剧 红丹女刺秦桧2.flv", label: "2", sort_order: 2 }
-      - { file: "299-闽剧 红丹女刺秦桧3.flv", label: "3", sort_order: 3 }
+      - { file: "297-闽剧 红丹女刺秦桧1.flv", label: "1", sort_order: 1, file_en: "hong-dan-nv-ci-qin-gui-main-p1.flv" }
+      - { file: "298-闽剧 红丹女刺秦桧2.flv", label: "2", sort_order: 2, file_en: "hong-dan-nv-ci-qin-gui-main-p2.flv" }
+      - { file: "299-闽剧 红丹女刺秦桧3.flv", label: "3", sort_order: 3, file_en: "hong-dan-nv-ci-qin-gui-main-p3.flv" }
 ---
 
 # 红丹女刺秦桧

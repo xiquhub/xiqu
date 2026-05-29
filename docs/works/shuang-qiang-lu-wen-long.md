@@ -17,8 +17,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "106-闽剧 双枪陆文龙 1.flv", label: "1", sort_order: 1 }
-      - { file: "107-闽剧 双枪陆文龙 2.flv", label: "2", sort_order: 2 }
+      - { file: "106-闽剧 双枪陆文龙 1.flv", label: "1", sort_order: 1, file_en: "shuang-qiang-lu-wen-long-main-p1.flv" }
+      - { file: "107-闽剧 双枪陆文龙 2.flv", label: "2", sort_order: 2, file_en: "shuang-qiang-lu-wen-long-main-p2.flv" }
 ---
 
 # 双枪陆文龙

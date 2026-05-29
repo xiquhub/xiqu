@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "235-闽剧 灵芝草1.flv", label: "1", sort_order: 1 }
-      - { file: "236-闽剧 灵芝草2.flv", label: "2", sort_order: 2 }
-      - { file: "237-闽剧 灵芝草3.flv", label: "3", sort_order: 3 }
+      - { file: "235-闽剧 灵芝草1.flv", label: "1", sort_order: 1, file_en: "ling-zhi-cao-main-p1.flv" }
+      - { file: "236-闽剧 灵芝草2.flv", label: "2", sort_order: 2, file_en: "ling-zhi-cao-main-p2.flv" }
+      - { file: "237-闽剧 灵芝草3.flv", label: "3", sort_order: 3, file_en: "ling-zhi-cao-main-p3.flv" }
 ---
 
 # 灵芝草

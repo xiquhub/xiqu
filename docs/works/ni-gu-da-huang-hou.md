@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "156-闽剧 尼姑打皇后1.flv", label: "1", sort_order: 1 }
-      - { file: "157-闽剧 尼姑打皇后2.flv", label: "2", sort_order: 2 }
-      - { file: "158-闽剧 尼姑打皇后3.flv", label: "3", sort_order: 3 }
+      - { file: "156-闽剧 尼姑打皇后1.flv", label: "1", sort_order: 1, file_en: "ni-gu-da-huang-hou-main-p1.flv" }
+      - { file: "157-闽剧 尼姑打皇后2.flv", label: "2", sort_order: 2, file_en: "ni-gu-da-huang-hou-main-p2.flv" }
+      - { file: "158-闽剧 尼姑打皇后3.flv", label: "3", sort_order: 3, file_en: "ni-gu-da-huang-hou-main-p3.flv" }
 ---
 
 # 尼姑打皇后
