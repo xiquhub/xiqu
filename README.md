@@ -4,9 +4,8 @@
 
 🌐 **在线访问**
 
-- 主站：<https://xiquhub.com>（Cloudflare Pages）
-- 二级入口：<https://archive.xiquhub.com>（GitHub Pages）
-- Pages.dev：<https://xiqu-archive.pages.dev>
+- 主站：<https://xiquhub.com>
+- 二级入口：<https://archive.xiquhub.com>
 
 📊 **当前规模**
 
@@ -48,8 +47,7 @@ xiqu/
 | 视频 | mp4 + 原生 `<video>` + Range | 已批量 ffmpeg stream-copy from FLV |
 | 数据 | Markdown frontmatter（gray-matter） | `docs/works/{slug}.md` |
 | 反馈表单 | Web3Forms | 直发邮件，无后端 |
-| 视频源 | Caddy（mac mini）+ nginx HTTPS 反代（Linux server） | server.yunxy.top:8075/videos |
-| Web 托管 | Cloudflare Pages（主）+ GitHub Pages（镜像） | tag 触发自动部署 |
+| Web 托管 | Cloudflare Pages（主）+ GitHub Pages（二级入口） | tag 触发自动部署 |
 
 ## 本地开发
 
@@ -68,7 +66,7 @@ pnpm --filter web build
 
 ```env
 NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY=...
-NEXT_PUBLIC_VIDEO_BASE_URL=https://server.yunxy.top:8075/videos
+NEXT_PUBLIC_VIDEO_BASE_URL=...
 ```
 
 ## 部署
@@ -89,10 +87,12 @@ git push origin v1.0.0
 
 需要的 GitHub Secrets（在 repo Settings → Secrets and variables → Actions 添加）：
 
-| Secret | 来源 |
+| Secret | 用途 |
 |---|---|
-| `CLOUDFLARE_API_TOKEN` | <https://dash.cloudflare.com/profile/api-tokens> → Edit Cloudflare Workers 模板 |
-| `CLOUDFLARE_ACCOUNT_ID` | CF Dashboard 右侧栏 |
+| `CLOUDFLARE_API_TOKEN` | CF Pages 部署 |
+| `CLOUDFLARE_ACCOUNT_ID` | CF 账户 ID |
+| `NEXT_PUBLIC_VIDEO_BASE_URL` | 视频源 base URL（编译期注入） |
+| `NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY` | 反馈表单 access key |
 
 ## 内容贡献
 
