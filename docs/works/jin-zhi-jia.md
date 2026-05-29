@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "346-闽剧 金指甲.flv", label: "", sort_order: 0, file_en: "jin-zhi-jia-main-full.flv" }
+      - { file: "346-闽剧 金指甲.flv", label: "", sort_order: 0, file_en: "jin-zhi-jia-main-full.mp4" }
 ---
 
 # 金指甲

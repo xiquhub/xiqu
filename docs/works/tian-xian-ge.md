@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "131-闽剧 天仙阁1(上).flv", label: "上", sort_order: 1, file_en: "tian-xian-ge-main-p1.flv" }
-      - { file: "132-闽剧 天仙阁2(中).flv", label: "中", sort_order: 2, file_en: "tian-xian-ge-main-p2.flv" }
-      - { file: "133-闽剧 天仙阁3(下).flv", label: "下", sort_order: 3, file_en: "tian-xian-ge-main-p3.flv" }
+      - { file: "131-闽剧 天仙阁1(上).flv", label: "上", sort_order: 1, file_en: "tian-xian-ge-main-p1.mp4" }
+      - { file: "132-闽剧 天仙阁2(中).flv", label: "中", sort_order: 2, file_en: "tian-xian-ge-main-p2.mp4" }
+      - { file: "133-闽剧 天仙阁3(下).flv", label: "下", sort_order: 3, file_en: "tian-xian-ge-main-p3.mp4" }
 ---
 
 # 天仙阁

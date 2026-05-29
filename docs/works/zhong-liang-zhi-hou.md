@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "166-闽剧 忠良之后.flv", label: "", sort_order: 0, file_en: "zhong-liang-zhi-hou-main-full.flv" }
+      - { file: "166-闽剧 忠良之后.flv", label: "", sort_order: 0, file_en: "zhong-liang-zhi-hou-main-full.mp4" }
 ---
 
 # 忠良之后

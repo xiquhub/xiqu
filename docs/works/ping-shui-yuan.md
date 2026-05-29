@@ -15,8 +15,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "310-闽剧 萍水缘 1.flv", label: "1", sort_order: 1, file_en: "ping-shui-yuan-main-p1.flv" }
-      - { file: "311-闽剧 萍水缘 2.flv", label: "2", sort_order: 2, file_en: "ping-shui-yuan-main-p2.flv" }
+      - { file: "310-闽剧 萍水缘 1.flv", label: "1", sort_order: 1, file_en: "ping-shui-yuan-main-p1.mp4" }
+      - { file: "311-闽剧 萍水缘 2.flv", label: "2", sort_order: 2, file_en: "ping-shui-yuan-main-p2.mp4" }
 ---
 
 # 萍水缘

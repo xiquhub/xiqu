@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "312-闽剧 薛刚反唐.flv", label: "", sort_order: 0, file_en: "xue-gang-fan-tang-main-full.flv" }
+      - { file: "312-闽剧 薛刚反唐.flv", label: "", sort_order: 0, file_en: "xue-gang-fan-tang-main-full.mp4" }
 ---
 
 # 薛刚反唐

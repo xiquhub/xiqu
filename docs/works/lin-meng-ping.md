@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "195-闽剧 林梦萍 自掏岭.flv", label: "自掏岭", sort_order: 0, file_en: "lin-meng-ping-main-full.flv" }
+      - { file: "195-闽剧 林梦萍 自掏岭.flv", label: "自掏岭", sort_order: 0, file_en: "lin-meng-ping-main-full.mp4" }
 ---
 
 # 林梦萍

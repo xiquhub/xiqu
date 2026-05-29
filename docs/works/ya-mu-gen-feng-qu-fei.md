@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "378-闽剧 鸭母跟凤去飞.flv", label: "", sort_order: 0, file_en: "ya-mu-gen-feng-qu-fei-main-full.flv" }
+      - { file: "378-闽剧 鸭母跟凤去飞.flv", label: "", sort_order: 0, file_en: "ya-mu-gen-feng-qu-fei-main-full.mp4" }
 ---
 
 # 鸭母跟凤去飞

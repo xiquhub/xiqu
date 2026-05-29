@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "353-闽剧 错配郎(上).flv", label: "上", sort_order: 1, file_en: "cuo-pei-lang-main-p1.flv" }
-      - { file: "355-闽剧 错配郎(中).flv", label: "中", sort_order: 2, file_en: "cuo-pei-lang-main-p2.flv" }
-      - { file: "354-闽剧 错配郎(下).flv", label: "下", sort_order: 3, file_en: "cuo-pei-lang-main-p3.flv" }
+      - { file: "353-闽剧 错配郎(上).flv", label: "上", sort_order: 1, file_en: "cuo-pei-lang-main-p1.mp4" }
+      - { file: "355-闽剧 错配郎(中).flv", label: "中", sort_order: 2, file_en: "cuo-pei-lang-main-p2.mp4" }
+      - { file: "354-闽剧 错配郎(下).flv", label: "下", sort_order: 3, file_en: "cuo-pei-lang-main-p3.mp4" }
 ---
 
 # 错配郎

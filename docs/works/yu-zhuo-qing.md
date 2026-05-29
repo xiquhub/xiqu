@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "261-闽剧 玉镯情 1.flv", label: "1", sort_order: 1, file_en: "yu-zhuo-qing-main-p1.flv" }
-      - { file: "262-闽剧 玉镯情 2.flv", label: "2", sort_order: 2, file_en: "yu-zhuo-qing-main-p2.flv" }
-      - { file: "263-闽剧 玉镯情 3.flv", label: "3", sort_order: 3, file_en: "yu-zhuo-qing-main-p3.flv" }
+      - { file: "261-闽剧 玉镯情 1.flv", label: "1", sort_order: 1, file_en: "yu-zhuo-qing-main-p1.mp4" }
+      - { file: "262-闽剧 玉镯情 2.flv", label: "2", sort_order: 2, file_en: "yu-zhuo-qing-main-p2.mp4" }
+      - { file: "263-闽剧 玉镯情 3.flv", label: "3", sort_order: 3, file_en: "yu-zhuo-qing-main-p3.mp4" }
 ---
 
 # 玉镯情

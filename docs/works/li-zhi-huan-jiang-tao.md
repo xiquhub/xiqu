@@ -17,7 +17,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "014-福建地方戏曲闽剧《荔枝换绛桃》全剧.flv", label: "全剧", sort_order: 0, file_en: "li-zhi-huan-jiang-tao-main-full.flv" }
+      - { file: "014-福建地方戏曲闽剧《荔枝换绛桃》全剧.flv", label: "全剧", sort_order: 0, file_en: "li-zhi-huan-jiang-tao-main-full.mp4" }
 ---
 
 # 荔枝换绛桃

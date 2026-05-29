@@ -15,12 +15,12 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "057-闽剧 兄弟俩状元1.flv", label: "1", sort_order: 1, file_en: "xiong-di-liang-zhuang-yuan-main-p1.flv" }
-      - { file: "434-闽剧《兄弟两状元》1.flv", label: "1", sort_order: 1, file_en: "xiong-di-liang-zhuang-yuan-main-p1-b2.flv" }
-      - { file: "058-闽剧 兄弟俩状元2.flv", label: "2", sort_order: 2, file_en: "xiong-di-liang-zhuang-yuan-main-p2.flv" }
-      - { file: "435-闽剧《兄弟两状元》2.flv", label: "2", sort_order: 2, file_en: "xiong-di-liang-zhuang-yuan-main-p2-b2.flv" }
-      - { file: "059-闽剧 兄弟俩状元3.flv", label: "3", sort_order: 3, file_en: "xiong-di-liang-zhuang-yuan-main-p3.flv" }
-      - { file: "436-闽剧《兄弟两状元》3.flv", label: "3", sort_order: 3, file_en: "xiong-di-liang-zhuang-yuan-main-p3-b2.flv" }
+      - { file: "057-闽剧 兄弟俩状元1.flv", label: "1", sort_order: 1, file_en: "xiong-di-liang-zhuang-yuan-main-p1.mp4" }
+      - { file: "434-闽剧《兄弟两状元》1.flv", label: "1", sort_order: 1, file_en: "xiong-di-liang-zhuang-yuan-main-p1-b2.mp4" }
+      - { file: "058-闽剧 兄弟俩状元2.flv", label: "2", sort_order: 2, file_en: "xiong-di-liang-zhuang-yuan-main-p2.mp4" }
+      - { file: "435-闽剧《兄弟两状元》2.flv", label: "2", sort_order: 2, file_en: "xiong-di-liang-zhuang-yuan-main-p2-b2.mp4" }
+      - { file: "059-闽剧 兄弟俩状元3.flv", label: "3", sort_order: 3, file_en: "xiong-di-liang-zhuang-yuan-main-p3.mp4" }
+      - { file: "436-闽剧《兄弟两状元》3.flv", label: "3", sort_order: 3, file_en: "xiong-di-liang-zhuang-yuan-main-p3-b2.mp4" }
 ---
 
 # 兄弟两状元

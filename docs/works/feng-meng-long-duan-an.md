@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "069-闽剧 冯梦龙断案 1.flv", label: "1", sort_order: 1, file_en: "feng-meng-long-duan-an-main-p1.flv" }
-      - { file: "070-闽剧 冯梦龙断案 2.flv", label: "2", sort_order: 2, file_en: "feng-meng-long-duan-an-main-p2.flv" }
-      - { file: "071-闽剧 冯梦龙断案 3.flv", label: "3", sort_order: 3, file_en: "feng-meng-long-duan-an-main-p3.flv" }
+      - { file: "069-闽剧 冯梦龙断案 1.flv", label: "1", sort_order: 1, file_en: "feng-meng-long-duan-an-main-p1.mp4" }
+      - { file: "070-闽剧 冯梦龙断案 2.flv", label: "2", sort_order: 2, file_en: "feng-meng-long-duan-an-main-p2.mp4" }
+      - { file: "071-闽剧 冯梦龙断案 3.flv", label: "3", sort_order: 3, file_en: "feng-meng-long-duan-an-main-p3.mp4" }
 ---
 
 # 冯梦龙断案

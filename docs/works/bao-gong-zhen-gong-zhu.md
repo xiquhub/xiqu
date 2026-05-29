@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "092-闽剧 包公镇公主.flv", label: "", sort_order: 0, file_en: "bao-gong-zhen-gong-zhu-main-full.flv" }
+      - { file: "092-闽剧 包公镇公主.flv", label: "", sort_order: 0, file_en: "bao-gong-zhen-gong-zhu-main-full.mp4" }
 ---
 
 # 包公镇公主

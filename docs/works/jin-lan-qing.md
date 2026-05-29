@@ -15,22 +15,22 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "323-闽剧 金兰情01.flv", label: "1", sort_order: 1, file_en: "jin-lan-qing-main-p1.flv" }
-      - { file: "333-闽剧 金兰情11.flv", label: "1", sort_order: 1, file_en: "jin-lan-qing-main-p1-b2.flv" }
-      - { file: "324-闽剧 金兰情02.flv", label: "2", sort_order: 2, file_en: "jin-lan-qing-main-p2.flv" }
-      - { file: "334-闽剧 金兰情12.flv", label: "2", sort_order: 2, file_en: "jin-lan-qing-main-p2-b2.flv" }
-      - { file: "325-闽剧 金兰情03.flv", label: "3", sort_order: 3, file_en: "jin-lan-qing-main-p3.flv" }
-      - { file: "335-闽剧 金兰情13.flv", label: "3", sort_order: 3, file_en: "jin-lan-qing-main-p3-b2.flv" }
-      - { file: "326-闽剧 金兰情04.flv", label: "4", sort_order: 4, file_en: "jin-lan-qing-main-p4.flv" }
-      - { file: "327-闽剧 金兰情05.flv", label: "5", sort_order: 5, file_en: "jin-lan-qing-main-p5.flv" }
-      - { file: "336-闽剧 金兰情15.flv", label: "5", sort_order: 5, file_en: "jin-lan-qing-main-p5-b2.flv" }
-      - { file: "328-闽剧 金兰情06.flv", label: "6", sort_order: 6, file_en: "jin-lan-qing-main-p6.flv" }
-      - { file: "337-闽剧 金兰情16.flv", label: "6", sort_order: 6, file_en: "jin-lan-qing-main-p6-b2.flv" }
-      - { file: "329-闽剧 金兰情07.flv", label: "7", sort_order: 7, file_en: "jin-lan-qing-main-p7.flv" }
-      - { file: "338-闽剧 金兰情17.flv", label: "7", sort_order: 7, file_en: "jin-lan-qing-main-p7-b2.flv" }
-      - { file: "330-闽剧 金兰情08.flv", label: "8", sort_order: 8, file_en: "jin-lan-qing-main-p8.flv" }
-      - { file: "331-闽剧 金兰情09.flv", label: "9", sort_order: 9, file_en: "jin-lan-qing-main-p9.flv" }
-      - { file: "332-闽剧 金兰情10.flv", label: "10", sort_order: 10, file_en: "jin-lan-qing-main-p10.flv" }
+      - { file: "323-闽剧 金兰情01.flv", label: "1", sort_order: 1, file_en: "jin-lan-qing-main-p1.mp4" }
+      - { file: "333-闽剧 金兰情11.flv", label: "1", sort_order: 1, file_en: "jin-lan-qing-main-p1-b2.mp4" }
+      - { file: "324-闽剧 金兰情02.flv", label: "2", sort_order: 2, file_en: "jin-lan-qing-main-p2.mp4" }
+      - { file: "334-闽剧 金兰情12.flv", label: "2", sort_order: 2, file_en: "jin-lan-qing-main-p2-b2.mp4" }
+      - { file: "325-闽剧 金兰情03.flv", label: "3", sort_order: 3, file_en: "jin-lan-qing-main-p3.mp4" }
+      - { file: "335-闽剧 金兰情13.flv", label: "3", sort_order: 3, file_en: "jin-lan-qing-main-p3-b2.mp4" }
+      - { file: "326-闽剧 金兰情04.flv", label: "4", sort_order: 4, file_en: "jin-lan-qing-main-p4.mp4" }
+      - { file: "327-闽剧 金兰情05.flv", label: "5", sort_order: 5, file_en: "jin-lan-qing-main-p5.mp4" }
+      - { file: "336-闽剧 金兰情15.flv", label: "5", sort_order: 5, file_en: "jin-lan-qing-main-p5-b2.mp4" }
+      - { file: "328-闽剧 金兰情06.flv", label: "6", sort_order: 6, file_en: "jin-lan-qing-main-p6.mp4" }
+      - { file: "337-闽剧 金兰情16.flv", label: "6", sort_order: 6, file_en: "jin-lan-qing-main-p6-b2.mp4" }
+      - { file: "329-闽剧 金兰情07.flv", label: "7", sort_order: 7, file_en: "jin-lan-qing-main-p7.mp4" }
+      - { file: "338-闽剧 金兰情17.flv", label: "7", sort_order: 7, file_en: "jin-lan-qing-main-p7-b2.mp4" }
+      - { file: "330-闽剧 金兰情08.flv", label: "8", sort_order: 8, file_en: "jin-lan-qing-main-p8.mp4" }
+      - { file: "331-闽剧 金兰情09.flv", label: "9", sort_order: 9, file_en: "jin-lan-qing-main-p9.mp4" }
+      - { file: "332-闽剧 金兰情10.flv", label: "10", sort_order: 10, file_en: "jin-lan-qing-main-p10.mp4" }
 ---
 
 # 金兰情

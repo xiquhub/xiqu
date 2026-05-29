@@ -17,10 +17,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "127-闽剧 壮元与乞丐.flv", label: "", sort_order: 0, file_en: "zhuang-yuan-yu-qi-gai-main-full.flv" }
-      - { file: "490-闽剧《状元与乞丐》全剧(上集).flv", label: "上", sort_order: 1, file_en: "zhuang-yuan-yu-qi-gai-main-p1.flv" }
-      - { file: "492-闽剧《状元与乞丐》全剧(中集).flv", label: "中", sort_order: 2, file_en: "zhuang-yuan-yu-qi-gai-main-p2.flv" }
-      - { file: "491-闽剧《状元与乞丐》全剧(下集).flv", label: "下", sort_order: 3, file_en: "zhuang-yuan-yu-qi-gai-main-p3.flv" }
+      - { file: "127-闽剧 壮元与乞丐.flv", label: "", sort_order: 0, file_en: "zhuang-yuan-yu-qi-gai-main-full.mp4" }
+      - { file: "490-闽剧《状元与乞丐》全剧(上集).flv", label: "上", sort_order: 1, file_en: "zhuang-yuan-yu-qi-gai-main-p1.mp4" }
+      - { file: "492-闽剧《状元与乞丐》全剧(中集).flv", label: "中", sort_order: 2, file_en: "zhuang-yuan-yu-qi-gai-main-p2.mp4" }
+      - { file: "491-闽剧《状元与乞丐》全剧(下集).flv", label: "下", sort_order: 3, file_en: "zhuang-yuan-yu-qi-gai-main-p3.mp4" }
 ---
 
 # 状元与乞丐

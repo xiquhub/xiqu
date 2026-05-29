@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "031-闽剧 三看御妹全剧.flv", label: "全剧", sort_order: 0, file_en: "san-kan-yu-mei-main-full.flv" }
+      - { file: "031-闽剧 三看御妹全剧.flv", label: "全剧", sort_order: 0, file_en: "san-kan-yu-mei-main-full.mp4" }
 ---
 
 # 三看御妹

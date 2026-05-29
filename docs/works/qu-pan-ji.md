@@ -17,7 +17,7 @@ productions:
     leads: ["黄愿亭", "林聪中", "李少华"]
     confidence: "high"
     parts:
-      - { file: "464-闽剧《曲判记》全剧 黄愿亭 林聪中 李少华主演.flv", label: "全剧", sort_order: 0, file_en: "qu-pan-ji-main-full.flv" }
+      - { file: "464-闽剧《曲判记》全剧 黄愿亭 林聪中 李少华主演.flv", label: "全剧", sort_order: 0, file_en: "qu-pan-ji-main-full.mp4" }
 ---
 
 # 曲判记

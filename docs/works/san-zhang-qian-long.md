@@ -15,13 +15,13 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "021-闽剧 三掌乾隆1.flv", label: "1", sort_order: 1, file_en: "san-zhang-qian-long-main-p1.flv" }
-      - { file: "022-闽剧 三掌乾隆2.flv", label: "2", sort_order: 2, file_en: "san-zhang-qian-long-main-p2.flv" }
-      - { file: "023-闽剧 三掌乾隆3.flv", label: "3", sort_order: 3, file_en: "san-zhang-qian-long-main-p3.flv" }
-      - { file: "024-闽剧 三掌乾隆4.flv", label: "4", sort_order: 4, file_en: "san-zhang-qian-long-main-p4.flv" }
-      - { file: "025-闽剧 三掌乾隆5.flv", label: "5", sort_order: 5, file_en: "san-zhang-qian-long-main-p5.flv" }
-      - { file: "026-闽剧 三掌乾隆6.flv", label: "6", sort_order: 6, file_en: "san-zhang-qian-long-main-p6.flv" }
-      - { file: "027-闽剧 三掌乾隆7.flv", label: "7", sort_order: 7, file_en: "san-zhang-qian-long-main-p7.flv" }
+      - { file: "021-闽剧 三掌乾隆1.flv", label: "1", sort_order: 1, file_en: "san-zhang-qian-long-main-p1.mp4" }
+      - { file: "022-闽剧 三掌乾隆2.flv", label: "2", sort_order: 2, file_en: "san-zhang-qian-long-main-p2.mp4" }
+      - { file: "023-闽剧 三掌乾隆3.flv", label: "3", sort_order: 3, file_en: "san-zhang-qian-long-main-p3.mp4" }
+      - { file: "024-闽剧 三掌乾隆4.flv", label: "4", sort_order: 4, file_en: "san-zhang-qian-long-main-p4.mp4" }
+      - { file: "025-闽剧 三掌乾隆5.flv", label: "5", sort_order: 5, file_en: "san-zhang-qian-long-main-p5.mp4" }
+      - { file: "026-闽剧 三掌乾隆6.flv", label: "6", sort_order: 6, file_en: "san-zhang-qian-long-main-p6.mp4" }
+      - { file: "027-闽剧 三掌乾隆7.flv", label: "7", sort_order: 7, file_en: "san-zhang-qian-long-main-p7.mp4" }
 ---
 
 # 三掌乾隆

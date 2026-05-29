@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "103-闽剧 县令鸣锣1.flv", label: "1", sort_order: 1, file_en: "xian-ling-ming-luo-main-p1.flv" }
-      - { file: "104-闽剧 县令鸣锣2.flv", label: "2", sort_order: 2, file_en: "xian-ling-ming-luo-main-p2.flv" }
-      - { file: "105-闽剧 县令鸣锣3.flv", label: "3", sort_order: 3, file_en: "xian-ling-ming-luo-main-p3.flv" }
+      - { file: "103-闽剧 县令鸣锣1.flv", label: "1", sort_order: 1, file_en: "xian-ling-ming-luo-main-p1.mp4" }
+      - { file: "104-闽剧 县令鸣锣2.flv", label: "2", sort_order: 2, file_en: "xian-ling-ming-luo-main-p2.mp4" }
+      - { file: "105-闽剧 县令鸣锣3.flv", label: "3", sort_order: 3, file_en: "xian-ling-ming-luo-main-p3.mp4" }
 ---
 
 # 县令鸣锣

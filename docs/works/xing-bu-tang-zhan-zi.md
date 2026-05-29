@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "437-闽剧《刑部堂斩子》全.flv", label: "全", sort_order: 0, file_en: "xing-bu-tang-zhan-zi-main-full.flv" }
+      - { file: "437-闽剧《刑部堂斩子》全.flv", label: "全", sort_order: 0, file_en: "xing-bu-tang-zhan-zi-main-full.mp4" }
 ---
 
 # 刑部堂斩子

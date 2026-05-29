@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "410-闽剧《三关明月》.flv", label: "", sort_order: 0, file_en: "san-guan-ming-yue-main-full.flv" }
+      - { file: "410-闽剧《三关明月》.flv", label: "", sort_order: 0, file_en: "san-guan-ming-yue-main-full.mp4" }
 ---
 
 # 三关明月

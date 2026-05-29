@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "397-闽剧 龙凤玉镯1(上集).flv", label: "上", sort_order: 1, file_en: "long-feng-yu-zhuo-main-p1.flv" }
-      - { file: "398-闽剧 龙凤玉镯2(中集).flv", label: "中", sort_order: 2, file_en: "long-feng-yu-zhuo-main-p2.flv" }
-      - { file: "399-闽剧 龙凤玉镯3(下集).flv", label: "下", sort_order: 3, file_en: "long-feng-yu-zhuo-main-p3.flv" }
+      - { file: "397-闽剧 龙凤玉镯1(上集).flv", label: "上", sort_order: 1, file_en: "long-feng-yu-zhuo-main-p1.mp4" }
+      - { file: "398-闽剧 龙凤玉镯2(中集).flv", label: "中", sort_order: 2, file_en: "long-feng-yu-zhuo-main-p2.mp4" }
+      - { file: "399-闽剧 龙凤玉镯3(下集).flv", label: "下", sort_order: 3, file_en: "long-feng-yu-zhuo-main-p3.mp4" }
 ---
 
 # 龙凤玉镯

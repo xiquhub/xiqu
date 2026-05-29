@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "304-闽剧 舞龙女.flv", label: "", sort_order: 0, file_en: "wu-long-nv-main-full.flv" }
+      - { file: "304-闽剧 舞龙女.flv", label: "", sort_order: 0, file_en: "wu-long-nv-main-full.mp4" }
 ---
 
 # 舞龙女

@@ -15,11 +15,11 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "253-闽剧 玉玺风波1.flv", label: "1", sort_order: 1, file_en: "yu-xi-feng-bo-main-p1.flv" }
-      - { file: "254-闽剧 玉玺风波2.flv", label: "2", sort_order: 2, file_en: "yu-xi-feng-bo-main-p2.flv" }
-      - { file: "255-闽剧 玉玺风波3.flv", label: "3", sort_order: 3, file_en: "yu-xi-feng-bo-main-p3.flv" }
-      - { file: "256-闽剧 玉玺风波4.flv", label: "4", sort_order: 4, file_en: "yu-xi-feng-bo-main-p4.flv" }
-      - { file: "257-闽剧 玉玺风波5.flv", label: "5", sort_order: 5, file_en: "yu-xi-feng-bo-main-p5.flv" }
+      - { file: "253-闽剧 玉玺风波1.flv", label: "1", sort_order: 1, file_en: "yu-xi-feng-bo-main-p1.mp4" }
+      - { file: "254-闽剧 玉玺风波2.flv", label: "2", sort_order: 2, file_en: "yu-xi-feng-bo-main-p2.mp4" }
+      - { file: "255-闽剧 玉玺风波3.flv", label: "3", sort_order: 3, file_en: "yu-xi-feng-bo-main-p3.mp4" }
+      - { file: "256-闽剧 玉玺风波4.flv", label: "4", sort_order: 4, file_en: "yu-xi-feng-bo-main-p4.mp4" }
+      - { file: "257-闽剧 玉玺风波5.flv", label: "5", sort_order: 5, file_en: "yu-xi-feng-bo-main-p5.mp4" }
 ---
 
 # 玉玺风波

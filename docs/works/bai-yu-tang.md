@@ -17,9 +17,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "272-闽剧 白玉堂 1.flv", label: "1", sort_order: 1, file_en: "bai-yu-tang-main-p1.flv" }
-      - { file: "273-闽剧 白玉堂 2.flv", label: "2", sort_order: 2, file_en: "bai-yu-tang-main-p2.flv" }
-      - { file: "274-闽剧 白玉堂 3.flv", label: "3", sort_order: 3, file_en: "bai-yu-tang-main-p3.flv" }
+      - { file: "272-闽剧 白玉堂 1.flv", label: "1", sort_order: 1, file_en: "bai-yu-tang-main-p1.mp4" }
+      - { file: "273-闽剧 白玉堂 2.flv", label: "2", sort_order: 2, file_en: "bai-yu-tang-main-p2.mp4" }
+      - { file: "274-闽剧 白玉堂 3.flv", label: "3", sort_order: 3, file_en: "bai-yu-tang-main-p3.mp4" }
 ---
 
 # 白玉堂

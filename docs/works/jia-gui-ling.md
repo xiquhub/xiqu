@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "121-闽剧 嘉桂岭 1.flv", label: "1", sort_order: 1, file_en: "jia-gui-ling-main-p1.flv" }
-      - { file: "122-闽剧 嘉桂岭 2.flv", label: "2", sort_order: 2, file_en: "jia-gui-ling-main-p2.flv" }
-      - { file: "123-闽剧 嘉桂岭 3.flv", label: "3", sort_order: 3, file_en: "jia-gui-ling-main-p3.flv" }
+      - { file: "121-闽剧 嘉桂岭 1.flv", label: "1", sort_order: 1, file_en: "jia-gui-ling-main-p1.mp4" }
+      - { file: "122-闽剧 嘉桂岭 2.flv", label: "2", sort_order: 2, file_en: "jia-gui-ling-main-p2.mp4" }
+      - { file: "123-闽剧 嘉桂岭 3.flv", label: "3", sort_order: 3, file_en: "jia-gui-ling-main-p3.mp4" }
 ---
 
 # 嘉桂岭

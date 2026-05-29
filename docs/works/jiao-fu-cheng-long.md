@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "175-闽剧 教夫成龙1.flv", label: "1", sort_order: 1, file_en: "jiao-fu-cheng-long-main-p1.flv" }
-      - { file: "176-闽剧 教夫成龙2.flv", label: "2", sort_order: 2, file_en: "jiao-fu-cheng-long-main-p2.flv" }
-      - { file: "177-闽剧 教夫成龙3.flv", label: "3", sort_order: 3, file_en: "jiao-fu-cheng-long-main-p3.flv" }
+      - { file: "175-闽剧 教夫成龙1.flv", label: "1", sort_order: 1, file_en: "jiao-fu-cheng-long-main-p1.mp4" }
+      - { file: "176-闽剧 教夫成龙2.flv", label: "2", sort_order: 2, file_en: "jiao-fu-cheng-long-main-p2.mp4" }
+      - { file: "177-闽剧 教夫成龙3.flv", label: "3", sort_order: 3, file_en: "jiao-fu-cheng-long-main-p3.mp4" }
 ---
 
 # 教夫成龙

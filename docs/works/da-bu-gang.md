@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "128-闽剧 大补缸1(上).flv", label: "上", sort_order: 1, file_en: "da-bu-gang-main-p1.flv" }
-      - { file: "129-闽剧 大补缸2(中).flv", label: "中", sort_order: 2, file_en: "da-bu-gang-main-p2.flv" }
-      - { file: "130-闽剧 大补缸3(下).flv", label: "下", sort_order: 3, file_en: "da-bu-gang-main-p3.flv" }
+      - { file: "128-闽剧 大补缸1(上).flv", label: "上", sort_order: 1, file_en: "da-bu-gang-main-p1.mp4" }
+      - { file: "129-闽剧 大补缸2(中).flv", label: "中", sort_order: 2, file_en: "da-bu-gang-main-p2.mp4" }
+      - { file: "130-闽剧 大补缸3(下).flv", label: "下", sort_order: 3, file_en: "da-bu-gang-main-p3.mp4" }
 ---
 
 # 大补缸

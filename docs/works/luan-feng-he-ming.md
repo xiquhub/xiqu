@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "385-闽剧 鸾凤和鸣 1.flv", label: "1", sort_order: 1, file_en: "luan-feng-he-ming-main-p1.flv" }
-      - { file: "386-闽剧 鸾凤和鸣 2.flv", label: "2", sort_order: 2, file_en: "luan-feng-he-ming-main-p2.flv" }
-      - { file: "387-闽剧 鸾凤和鸣 3.flv", label: "3", sort_order: 3, file_en: "luan-feng-he-ming-main-p3.flv" }
+      - { file: "385-闽剧 鸾凤和鸣 1.flv", label: "1", sort_order: 1, file_en: "luan-feng-he-ming-main-p1.mp4" }
+      - { file: "386-闽剧 鸾凤和鸣 2.flv", label: "2", sort_order: 2, file_en: "luan-feng-he-ming-main-p2.mp4" }
+      - { file: "387-闽剧 鸾凤和鸣 3.flv", label: "3", sort_order: 3, file_en: "luan-feng-he-ming-main-p3.mp4" }
 ---
 
 # 鸾凤和鸣

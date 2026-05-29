@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "108-闽剧 反皇城 1.flv", label: "1", sort_order: 1, file_en: "fan-huang-cheng-main-p1.flv" }
-      - { file: "109-闽剧 反皇城 2.flv", label: "2", sort_order: 2, file_en: "fan-huang-cheng-main-p2.flv" }
-      - { file: "110-闽剧 反皇城 3.flv", label: "3", sort_order: 3, file_en: "fan-huang-cheng-main-p3.flv" }
+      - { file: "108-闽剧 反皇城 1.flv", label: "1", sort_order: 1, file_en: "fan-huang-cheng-main-p1.mp4" }
+      - { file: "109-闽剧 反皇城 2.flv", label: "2", sort_order: 2, file_en: "fan-huang-cheng-main-p2.mp4" }
+      - { file: "110-闽剧 反皇城 3.flv", label: "3", sort_order: 3, file_en: "fan-huang-cheng-main-p3.mp4" }
 ---
 
 # 反皇城

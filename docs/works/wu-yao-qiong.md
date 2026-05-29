@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "111-闽剧 吴瑶琼.flv", label: "", sort_order: 0, file_en: "wu-yao-qiong-main-full.flv" }
+      - { file: "111-闽剧 吴瑶琼.flv", label: "", sort_order: 0, file_en: "wu-yao-qiong-main-full.mp4" }
 ---
 
 # 吴瑶琼

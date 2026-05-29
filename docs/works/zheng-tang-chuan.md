@@ -15,8 +15,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "318-闽剧 郑唐传1.flv", label: "1", sort_order: 1, file_en: "zheng-tang-chuan-main-p1.flv" }
-      - { file: "319-闽剧 郑唐传2.flv", label: "2", sort_order: 2, file_en: "zheng-tang-chuan-main-p2.flv" }
+      - { file: "318-闽剧 郑唐传1.flv", label: "1", sort_order: 1, file_en: "zheng-tang-chuan-main-p1.mp4" }
+      - { file: "319-闽剧 郑唐传2.flv", label: "2", sort_order: 2, file_en: "zheng-tang-chuan-main-p2.mp4" }
 ---
 
 # 郑唐传

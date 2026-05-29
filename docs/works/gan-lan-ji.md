@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "212-闽剧 橄榄记 1.flv", label: "1", sort_order: 1, file_en: "gan-lan-ji-main-p1.flv" }
-      - { file: "213-闽剧 橄榄记 2.flv", label: "2", sort_order: 2, file_en: "gan-lan-ji-main-p2.flv" }
-      - { file: "214-闽剧 橄榄记 3.flv", label: "3", sort_order: 3, file_en: "gan-lan-ji-main-p3.flv" }
+      - { file: "212-闽剧 橄榄记 1.flv", label: "1", sort_order: 1, file_en: "gan-lan-ji-main-p1.mp4" }
+      - { file: "213-闽剧 橄榄记 2.flv", label: "2", sort_order: 2, file_en: "gan-lan-ji-main-p2.mp4" }
+      - { file: "214-闽剧 橄榄记 3.flv", label: "3", sort_order: 3, file_en: "gan-lan-ji-main-p3.mp4" }
 ---
 
 # 橄榄记

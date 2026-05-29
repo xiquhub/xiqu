@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "290-闽剧 穆桂英招亲.flv", label: "", sort_order: 0, file_en: "mu-gui-ying-zhao-qin-main-full.flv" }
+      - { file: "290-闽剧 穆桂英招亲.flv", label: "", sort_order: 0, file_en: "mu-gui-ying-zhao-qin-main-full.mp4" }
 ---
 
 # 穆桂英招亲

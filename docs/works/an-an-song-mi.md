@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "147-闽剧 安安送米 1.flv", label: "1", sort_order: 1, file_en: "an-an-song-mi-main-p1.flv" }
-      - { file: "148-闽剧 安安送米 2.flv", label: "2", sort_order: 2, file_en: "an-an-song-mi-main-p2.flv" }
-      - { file: "149-闽剧 安安送米 3.flv", label: "3", sort_order: 3, file_en: "an-an-song-mi-main-p3.flv" }
+      - { file: "147-闽剧 安安送米 1.flv", label: "1", sort_order: 1, file_en: "an-an-song-mi-main-p1.mp4" }
+      - { file: "148-闽剧 安安送米 2.flv", label: "2", sort_order: 2, file_en: "an-an-song-mi-main-p2.mp4" }
+      - { file: "149-闽剧 安安送米 3.flv", label: "3", sort_order: 3, file_en: "an-an-song-mi-main-p3.mp4" }
 ---
 
 # 安安送米

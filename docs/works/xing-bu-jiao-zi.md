@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "081-闽剧 刑部教子.flv", label: "", sort_order: 0, file_en: "xing-bu-jiao-zi-main-full.flv" }
+      - { file: "081-闽剧 刑部教子.flv", label: "", sort_order: 0, file_en: "xing-bu-jiao-zi-main-full.mp4" }
 ---
 
 # 刑部教子

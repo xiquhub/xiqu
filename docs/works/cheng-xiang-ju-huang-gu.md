@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "424-闽剧《丞相拒皇姑》全.flv", label: "全", sort_order: 0, file_en: "cheng-xiang-ju-huang-gu-main-full.flv" }
+      - { file: "424-闽剧《丞相拒皇姑》全.flv", label: "全", sort_order: 0, file_en: "cheng-xiang-ju-huang-gu-main-full.mp4" }
 ---
 
 # 丞相拒皇姑

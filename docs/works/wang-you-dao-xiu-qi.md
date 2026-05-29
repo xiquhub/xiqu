@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "264-闽剧 王有道休妻(上).flv", label: "上", sort_order: 1, file_en: "wang-you-dao-xiu-qi-main-p1.flv" }
-      - { file: "266-闽剧 王有道休妻(中).flv", label: "中", sort_order: 2, file_en: "wang-you-dao-xiu-qi-main-p2.flv" }
-      - { file: "265-闽剧 王有道休妻(下).flv", label: "下", sort_order: 3, file_en: "wang-you-dao-xiu-qi-main-p3.flv" }
+      - { file: "264-闽剧 王有道休妻(上).flv", label: "上", sort_order: 1, file_en: "wang-you-dao-xiu-qi-main-p1.mp4" }
+      - { file: "266-闽剧 王有道休妻(中).flv", label: "中", sort_order: 2, file_en: "wang-you-dao-xiu-qi-main-p2.mp4" }
+      - { file: "265-闽剧 王有道休妻(下).flv", label: "下", sort_order: 3, file_en: "wang-you-dao-xiu-qi-main-p3.mp4" }
 ---
 
 # 王有道休妻

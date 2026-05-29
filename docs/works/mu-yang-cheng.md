@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "238-闽剧 牧羊城 1.flv", label: "1", sort_order: 1, file_en: "mu-yang-cheng-main-p1.flv" }
-      - { file: "239-闽剧 牧羊城 2.flv", label: "2", sort_order: 2, file_en: "mu-yang-cheng-main-p2.flv" }
-      - { file: "240-闽剧 牧羊城 3.flv", label: "3", sort_order: 3, file_en: "mu-yang-cheng-main-p3.flv" }
+      - { file: "238-闽剧 牧羊城 1.flv", label: "1", sort_order: 1, file_en: "mu-yang-cheng-main-p1.mp4" }
+      - { file: "239-闽剧 牧羊城 2.flv", label: "2", sort_order: 2, file_en: "mu-yang-cheng-main-p2.mp4" }
+      - { file: "240-闽剧 牧羊城 3.flv", label: "3", sort_order: 3, file_en: "mu-yang-cheng-main-p3.mp4" }
 ---
 
 # 牧羊城

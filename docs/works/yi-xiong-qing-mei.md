@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "035-闽剧 义兄情妹.flv", label: "", sort_order: 0, file_en: "yi-xiong-qing-mei-main-full.flv" }
+      - { file: "035-闽剧 义兄情妹.flv", label: "", sort_order: 0, file_en: "yi-xiong-qing-mei-main-full.mp4" }
 ---
 
 # 义兄情妹

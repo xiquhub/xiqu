@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "179-闽剧 明镜高悬.flv", label: "", sort_order: 0, file_en: "ming-jing-gao-xuan-main-full.flv" }
+      - { file: "179-闽剧 明镜高悬.flv", label: "", sort_order: 0, file_en: "ming-jing-gao-xuan-main-full.mp4" }
 ---
 
 # 明镜高悬

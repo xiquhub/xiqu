@@ -18,7 +18,7 @@ productions:
     media_type: "电影"
     confidence: "medium"
     parts:
-      - { file: "488-闽剧《炼印》电影版.flv", label: "", sort_order: 0, file_en: "lian-yin-film-full.flv" }
+      - { file: "488-闽剧《炼印》电影版.flv", label: "", sort_order: 0, file_en: "lian-yin-film-full.mp4" }
 ---
 
 # 炼印

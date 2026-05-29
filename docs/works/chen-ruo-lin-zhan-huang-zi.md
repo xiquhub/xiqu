@@ -17,11 +17,11 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "360-闽剧 陈若霖斩皇子 1.flv", label: "1", sort_order: 1, file_en: "chen-ruo-lin-zhan-huang-zi-main-p1.flv" }
-      - { file: "363-闽剧 陈若霖斬皇子1.flv", label: "1", sort_order: 1, file_en: "chen-ruo-lin-zhan-huang-zi-main-p1-b2.flv" }
-      - { file: "361-闽剧 陈若霖斩皇子 2.flv", label: "2", sort_order: 2, file_en: "chen-ruo-lin-zhan-huang-zi-main-p2.flv" }
-      - { file: "364-闽剧 陈若霖斬皇子2.flv", label: "2", sort_order: 2, file_en: "chen-ruo-lin-zhan-huang-zi-main-p2-b2.flv" }
-      - { file: "362-闽剧 陈若霖斩皇子 3.flv", label: "3", sort_order: 3, file_en: "chen-ruo-lin-zhan-huang-zi-main-p3.flv" }
+      - { file: "360-闽剧 陈若霖斩皇子 1.flv", label: "1", sort_order: 1, file_en: "chen-ruo-lin-zhan-huang-zi-main-p1.mp4" }
+      - { file: "363-闽剧 陈若霖斬皇子1.flv", label: "1", sort_order: 1, file_en: "chen-ruo-lin-zhan-huang-zi-main-p1-b2.mp4" }
+      - { file: "361-闽剧 陈若霖斩皇子 2.flv", label: "2", sort_order: 2, file_en: "chen-ruo-lin-zhan-huang-zi-main-p2.mp4" }
+      - { file: "364-闽剧 陈若霖斬皇子2.flv", label: "2", sort_order: 2, file_en: "chen-ruo-lin-zhan-huang-zi-main-p2-b2.mp4" }
+      - { file: "362-闽剧 陈若霖斩皇子 3.flv", label: "3", sort_order: 3, file_en: "chen-ruo-lin-zhan-huang-zi-main-p3.mp4" }
 ---
 
 # 陈若霖斩皇子

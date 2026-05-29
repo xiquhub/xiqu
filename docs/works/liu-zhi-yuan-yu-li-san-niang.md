@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "438-闽剧《刘知远与李三娘》全.flv", label: "全", sort_order: 0, file_en: "liu-zhi-yuan-yu-li-san-niang-main-full.flv" }
+      - { file: "438-闽剧《刘知远与李三娘》全.flv", label: "全", sort_order: 0, file_en: "liu-zhi-yuan-yu-li-san-niang-main-full.mp4" }
 ---
 
 # 刘知远与李三娘

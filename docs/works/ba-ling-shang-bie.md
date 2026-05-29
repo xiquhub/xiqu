@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "487-闽剧《灞陵伤别》全.flv", label: "全", sort_order: 0, file_en: "ba-ling-shang-bie-main-full.flv" }
+      - { file: "487-闽剧《灞陵伤别》全.flv", label: "全", sort_order: 0, file_en: "ba-ling-shang-bie-main-full.mp4" }
 ---
 
 # 灞陵伤别

@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "258-闽剧 玉蝶传奇 1.flv", label: "1", sort_order: 1, file_en: "yu-die-chuan-qi-main-p1.flv" }
-      - { file: "259-闽剧 玉蝶传奇 2.flv", label: "2", sort_order: 2, file_en: "yu-die-chuan-qi-main-p2.flv" }
-      - { file: "260-闽剧 玉蝶传奇 3.flv", label: "3", sort_order: 3, file_en: "yu-die-chuan-qi-main-p3.flv" }
+      - { file: "258-闽剧 玉蝶传奇 1.flv", label: "1", sort_order: 1, file_en: "yu-die-chuan-qi-main-p1.mp4" }
+      - { file: "259-闽剧 玉蝶传奇 2.flv", label: "2", sort_order: 2, file_en: "yu-die-chuan-qi-main-p2.mp4" }
+      - { file: "260-闽剧 玉蝶传奇 3.flv", label: "3", sort_order: 3, file_en: "yu-die-chuan-qi-main-p3.mp4" }
 ---
 
 # 玉蝶传奇

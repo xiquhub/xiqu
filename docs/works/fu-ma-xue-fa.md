@@ -17,7 +17,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "509-闽剧《驸马削发》全剧.flv", label: "全剧", sort_order: 0, file_en: "fu-ma-xue-fa-main-full.flv" }
+      - { file: "509-闽剧《驸马削发》全剧.flv", label: "全剧", sort_order: 0, file_en: "fu-ma-xue-fa-main-full.mp4" }
 ---
 
 # 驸马削发

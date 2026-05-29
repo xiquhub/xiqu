@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "375-闽剧 驸马怨 1.flv", label: "1", sort_order: 1, file_en: "fu-ma-yuan-main-p1.flv" }
-      - { file: "376-闽剧 驸马怨 2.flv", label: "2", sort_order: 2, file_en: "fu-ma-yuan-main-p2.flv" }
-      - { file: "377-闽剧 驸马怨 3.flv", label: "3", sort_order: 3, file_en: "fu-ma-yuan-main-p3.flv" }
+      - { file: "375-闽剧 驸马怨 1.flv", label: "1", sort_order: 1, file_en: "fu-ma-yuan-main-p1.mp4" }
+      - { file: "376-闽剧 驸马怨 2.flv", label: "2", sort_order: 2, file_en: "fu-ma-yuan-main-p2.mp4" }
+      - { file: "377-闽剧 驸马怨 3.flv", label: "3", sort_order: 3, file_en: "fu-ma-yuan-main-p3.mp4" }
 ---
 
 # 驸马怨

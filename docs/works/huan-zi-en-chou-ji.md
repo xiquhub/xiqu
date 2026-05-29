@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "172-闽剧 换子恩仇记(上).flv", label: "上", sort_order: 1, file_en: "huan-zi-en-chou-ji-main-p1.flv" }
-      - { file: "174-闽剧 换子恩仇记(中).flv", label: "中", sort_order: 2, file_en: "huan-zi-en-chou-ji-main-p2.flv" }
-      - { file: "173-闽剧 换子恩仇记(下).flv", label: "下", sort_order: 3, file_en: "huan-zi-en-chou-ji-main-p3.flv" }
+      - { file: "172-闽剧 换子恩仇记(上).flv", label: "上", sort_order: 1, file_en: "huan-zi-en-chou-ji-main-p1.mp4" }
+      - { file: "174-闽剧 换子恩仇记(中).flv", label: "中", sort_order: 2, file_en: "huan-zi-en-chou-ji-main-p2.mp4" }
+      - { file: "173-闽剧 换子恩仇记(下).flv", label: "下", sort_order: 3, file_en: "huan-zi-en-chou-ji-main-p3.mp4" }
 ---
 
 # 换子恩仇记

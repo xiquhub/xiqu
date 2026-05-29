@@ -16,7 +16,7 @@ productions:
     media_type: "标清"
     confidence: "medium"
     parts:
-      - { file: "506-闽剧《金寿星》标清.flv", label: "", sort_order: 0, file_en: "jin-shou-xing-main-full.flv" }
+      - { file: "506-闽剧《金寿星》标清.flv", label: "", sort_order: 0, file_en: "jin-shou-xing-main-full.mp4" }
 ---
 
 # 金寿星

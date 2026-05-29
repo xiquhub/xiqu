@@ -16,12 +16,12 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "085-闽剧 包公判金钗 1.flv", label: "1", sort_order: 1, file_en: "bao-gong-pan-jin-chai-main-p1.flv" }
-      - { file: "088-闽剧 包公判金钗(上).flv", label: "上", sort_order: 1, file_en: "bao-gong-pan-jin-chai-main-p1-b2.flv" }
-      - { file: "086-闽剧 包公判金钗 2.flv", label: "2", sort_order: 2, file_en: "bao-gong-pan-jin-chai-main-p2.flv" }
-      - { file: "090-闽剧 包公判金钗(中).flv", label: "中", sort_order: 2, file_en: "bao-gong-pan-jin-chai-main-p2-b2.flv" }
-      - { file: "087-闽剧 包公判金钗 3.flv", label: "3", sort_order: 3, file_en: "bao-gong-pan-jin-chai-main-p3.flv" }
-      - { file: "089-闽剧 包公判金钗(下).flv", label: "下", sort_order: 3, file_en: "bao-gong-pan-jin-chai-main-p3-b2.flv" }
+      - { file: "085-闽剧 包公判金钗 1.flv", label: "1", sort_order: 1, file_en: "bao-gong-pan-jin-chai-main-p1.mp4" }
+      - { file: "088-闽剧 包公判金钗(上).flv", label: "上", sort_order: 1, file_en: "bao-gong-pan-jin-chai-main-p1-b2.mp4" }
+      - { file: "086-闽剧 包公判金钗 2.flv", label: "2", sort_order: 2, file_en: "bao-gong-pan-jin-chai-main-p2.mp4" }
+      - { file: "090-闽剧 包公判金钗(中).flv", label: "中", sort_order: 2, file_en: "bao-gong-pan-jin-chai-main-p2-b2.mp4" }
+      - { file: "087-闽剧 包公判金钗 3.flv", label: "3", sort_order: 3, file_en: "bao-gong-pan-jin-chai-main-p3.mp4" }
+      - { file: "089-闽剧 包公判金钗(下).flv", label: "下", sort_order: 3, file_en: "bao-gong-pan-jin-chai-main-p3-b2.mp4" }
 ---
 
 # 包公判金钗

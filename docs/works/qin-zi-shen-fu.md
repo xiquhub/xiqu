@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "048-闽剧 亲子审父 1.flv", label: "1", sort_order: 1, file_en: "qin-zi-shen-fu-main-p1.flv" }
-      - { file: "049-闽剧 亲子审父 2.flv", label: "2", sort_order: 2, file_en: "qin-zi-shen-fu-main-p2.flv" }
-      - { file: "050-闽剧 亲子审父 3.flv", label: "3", sort_order: 3, file_en: "qin-zi-shen-fu-main-p3.flv" }
+      - { file: "048-闽剧 亲子审父 1.flv", label: "1", sort_order: 1, file_en: "qin-zi-shen-fu-main-p1.mp4" }
+      - { file: "049-闽剧 亲子审父 2.flv", label: "2", sort_order: 2, file_en: "qin-zi-shen-fu-main-p2.mp4" }
+      - { file: "050-闽剧 亲子审父 3.flv", label: "3", sort_order: 3, file_en: "qin-zi-shen-fu-main-p3.mp4" }
 ---
 
 # 亲子审父

@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "004-福建地方戏曲闽剧《尚书闯堂》全剧.flv", label: "全剧", sort_order: 0, file_en: "shang-shu-chuang-tang-main-full.flv" }
+      - { file: "004-福建地方戏曲闽剧《尚书闯堂》全剧.flv", label: "全剧", sort_order: 0, file_en: "shang-shu-chuang-tang-main-full.mp4" }
 ---
 
 # 尚书闯堂

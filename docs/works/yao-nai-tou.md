@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "001-福建地方戏曲闽剧《咬奶头》全剧.flv", label: "全剧", sort_order: 0, file_en: "yao-nai-tou-main-full.flv" }
+      - { file: "001-福建地方戏曲闽剧《咬奶头》全剧.flv", label: "全剧", sort_order: 0, file_en: "yao-nai-tou-main-full.mp4" }
 ---
 
 # 咬奶头

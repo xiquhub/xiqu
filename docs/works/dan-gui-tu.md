@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "032-闽剧 丹桂图 1.flv", label: "1", sort_order: 1, file_en: "dan-gui-tu-main-p1.flv" }
-      - { file: "033-闽剧 丹桂图 2.flv", label: "2", sort_order: 2, file_en: "dan-gui-tu-main-p2.flv" }
-      - { file: "034-闽剧 丹桂图 3.flv", label: "3", sort_order: 3, file_en: "dan-gui-tu-main-p3.flv" }
+      - { file: "032-闽剧 丹桂图 1.flv", label: "1", sort_order: 1, file_en: "dan-gui-tu-main-p1.mp4" }
+      - { file: "033-闽剧 丹桂图 2.flv", label: "2", sort_order: 2, file_en: "dan-gui-tu-main-p2.mp4" }
+      - { file: "034-闽剧 丹桂图 3.flv", label: "3", sort_order: 3, file_en: "dan-gui-tu-main-p3.mp4" }
 ---
 
 # 丹桂图

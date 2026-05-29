@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "379-闽剧 鸳鸯河 1.flv", label: "1", sort_order: 1, file_en: "yuan-yang-he-main-p1.flv" }
-      - { file: "380-闽剧 鸳鸯河 2.flv", label: "2", sort_order: 2, file_en: "yuan-yang-he-main-p2.flv" }
-      - { file: "381-闽剧 鸳鸯河 3.flv", label: "3", sort_order: 3, file_en: "yuan-yang-he-main-p3.flv" }
+      - { file: "379-闽剧 鸳鸯河 1.flv", label: "1", sort_order: 1, file_en: "yuan-yang-he-main-p1.mp4" }
+      - { file: "380-闽剧 鸳鸯河 2.flv", label: "2", sort_order: 2, file_en: "yuan-yang-he-main-p2.mp4" }
+      - { file: "381-闽剧 鸳鸯河 3.flv", label: "3", sort_order: 3, file_en: "yuan-yang-he-main-p3.mp4" }
 ---
 
 # 鸳鸯河

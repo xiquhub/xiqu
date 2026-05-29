@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "209-闽剧 梨花情(1).flv", label: "1", sort_order: 1, file_en: "li-hua-qing-main-p1.flv" }
-      - { file: "210-闽剧 梨花情(2).flv", label: "2", sort_order: 2, file_en: "li-hua-qing-main-p2.flv" }
-      - { file: "211-闽剧 梨花情(3).flv", label: "3", sort_order: 3, file_en: "li-hua-qing-main-p3.flv" }
+      - { file: "209-闽剧 梨花情(1).flv", label: "1", sort_order: 1, file_en: "li-hua-qing-main-p1.mp4" }
+      - { file: "210-闽剧 梨花情(2).flv", label: "2", sort_order: 2, file_en: "li-hua-qing-main-p2.mp4" }
+      - { file: "211-闽剧 梨花情(3).flv", label: "3", sort_order: 3, file_en: "li-hua-qing-main-p3.mp4" }
 ---
 
 # 梨花情

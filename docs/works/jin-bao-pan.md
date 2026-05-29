@@ -16,8 +16,8 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "504-闽剧《金宝盘》全剧(上集).flv", label: "上", sort_order: 1, file_en: "jin-bao-pan-main-p1.flv" }
-      - { file: "505-闽剧《金宝盘》全剧(下集).flv", label: "下", sort_order: 3, file_en: "jin-bao-pan-main-p3.flv" }
+      - { file: "504-闽剧《金宝盘》全剧(上集).flv", label: "上", sort_order: 1, file_en: "jin-bao-pan-main-p1.mp4" }
+      - { file: "505-闽剧《金宝盘》全剧(下集).flv", label: "下", sort_order: 3, file_en: "jin-bao-pan-main-p3.mp4" }
 ---
 
 # 金宝盘

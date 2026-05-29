@@ -16,9 +16,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "115-闽剧 哑女鸣冤 1.flv", label: "1", sort_order: 1, file_en: "ya-nv-ming-yuan-main-p1.flv" }
-      - { file: "116-闽剧 哑女鸣冤 2.flv", label: "2", sort_order: 2, file_en: "ya-nv-ming-yuan-main-p2.flv" }
-      - { file: "117-闽剧 哑女鸣冤 3.flv", label: "3", sort_order: 3, file_en: "ya-nv-ming-yuan-main-p3.flv" }
+      - { file: "115-闽剧 哑女鸣冤 1.flv", label: "1", sort_order: 1, file_en: "ya-nv-ming-yuan-main-p1.mp4" }
+      - { file: "116-闽剧 哑女鸣冤 2.flv", label: "2", sort_order: 2, file_en: "ya-nv-ming-yuan-main-p2.mp4" }
+      - { file: "117-闽剧 哑女鸣冤 3.flv", label: "3", sort_order: 3, file_en: "ya-nv-ming-yuan-main-p3.mp4" }
 ---
 
 # 哑女鸣冤

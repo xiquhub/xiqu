@@ -15,10 +15,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "441-闽剧《南归梦》一.flv", label: "一", sort_order: 1, file_en: "nan-gui-meng-main-p1.flv" }
-      - { file: "443-闽剧《南归梦》二.flv", label: "二", sort_order: 2, file_en: "nan-gui-meng-main-p2.flv" }
-      - { file: "442-闽剧《南归梦》三.flv", label: "三", sort_order: 3, file_en: "nan-gui-meng-main-p3.flv" }
-      - { file: "444-闽剧《南归梦》四.flv", label: "四", sort_order: 4, file_en: "nan-gui-meng-main-p4.flv" }
+      - { file: "441-闽剧《南归梦》一.flv", label: "一", sort_order: 1, file_en: "nan-gui-meng-main-p1.mp4" }
+      - { file: "443-闽剧《南归梦》二.flv", label: "二", sort_order: 2, file_en: "nan-gui-meng-main-p2.mp4" }
+      - { file: "442-闽剧《南归梦》三.flv", label: "三", sort_order: 3, file_en: "nan-gui-meng-main-p3.mp4" }
+      - { file: "444-闽剧《南归梦》四.flv", label: "四", sort_order: 4, file_en: "nan-gui-meng-main-p4.mp4" }
 ---
 
 # 南归梦

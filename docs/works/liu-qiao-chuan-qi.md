@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "199-闽剧 柳桥传奇.flv", label: "", sort_order: 0, file_en: "liu-qiao-chuan-qi-main-full.flv" }
+      - { file: "199-闽剧 柳桥传奇.flv", label: "", sort_order: 0, file_en: "liu-qiao-chuan-qi-main-full.mp4" }
 ---
 
 # 柳桥传奇

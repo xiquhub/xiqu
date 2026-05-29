@@ -16,10 +16,10 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "309-闽剧 菱花双合镜.flv", label: "", sort_order: 0, file_en: "ling-hua-shuang-he-jing-main-full.flv" }
-      - { file: "072-闽剧 凌花双合镜1.flv", label: "1", sort_order: 1, file_en: "ling-hua-shuang-he-jing-main-p1.flv" }
-      - { file: "073-闽剧 凌花双合镜2.flv", label: "2", sort_order: 2, file_en: "ling-hua-shuang-he-jing-main-p2.flv" }
-      - { file: "074-闽剧 凌花双合镜3.flv", label: "3", sort_order: 3, file_en: "ling-hua-shuang-he-jing-main-p3.flv" }
+      - { file: "309-闽剧 菱花双合镜.flv", label: "", sort_order: 0, file_en: "ling-hua-shuang-he-jing-main-full.mp4" }
+      - { file: "072-闽剧 凌花双合镜1.flv", label: "1", sort_order: 1, file_en: "ling-hua-shuang-he-jing-main-p1.mp4" }
+      - { file: "073-闽剧 凌花双合镜2.flv", label: "2", sort_order: 2, file_en: "ling-hua-shuang-he-jing-main-p2.mp4" }
+      - { file: "074-闽剧 凌花双合镜3.flv", label: "3", sort_order: 3, file_en: "ling-hua-shuang-he-jing-main-p3.mp4" }
 ---
 
 # 菱花双合镜

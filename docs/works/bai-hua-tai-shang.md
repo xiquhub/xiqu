@@ -16,7 +16,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "275-闽剧 百花台上.flv", label: "", sort_order: 0, file_en: "bai-hua-tai-shang-main-full.flv" }
+      - { file: "275-闽剧 百花台上.flv", label: "", sort_order: 0, file_en: "bai-hua-tai-shang-main-full.mp4" }
 ---
 
 # 百花台上

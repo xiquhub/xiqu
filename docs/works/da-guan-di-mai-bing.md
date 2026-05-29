@@ -18,7 +18,7 @@ productions:
     leads: ["陈乃春", "林梦萍", "何挺芒"]
     confidence: "high"
     parts:
-      - { file: "503-闽剧《达官弟卖饼》全剧 福州市闽剧一团 陈乃春 林梦萍 何挺芒.flv", label: "全剧", sort_order: 0, file_en: "da-guan-di-mai-bing-main-full.flv" }
+      - { file: "503-闽剧《达官弟卖饼》全剧 福州市闽剧一团 陈乃春 林梦萍 何挺芒.flv", label: "全剧", sort_order: 0, file_en: "da-guan-di-mai-bing-main-full.mp4" }
 ---
 
 # 达官弟卖饼

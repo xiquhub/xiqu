@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "028-闽剧 三斩觉罗桂 1.flv", label: "1", sort_order: 1, file_en: "san-zhan-jue-luo-gui-main-p1.flv" }
-      - { file: "029-闽剧 三斩觉罗桂 2.flv", label: "2", sort_order: 2, file_en: "san-zhan-jue-luo-gui-main-p2.flv" }
-      - { file: "030-闽剧 三斩觉罗桂 3.flv", label: "3", sort_order: 3, file_en: "san-zhan-jue-luo-gui-main-p3.flv" }
+      - { file: "028-闽剧 三斩觉罗桂 1.flv", label: "1", sort_order: 1, file_en: "san-zhan-jue-luo-gui-main-p1.mp4" }
+      - { file: "029-闽剧 三斩觉罗桂 2.flv", label: "2", sort_order: 2, file_en: "san-zhan-jue-luo-gui-main-p2.mp4" }
+      - { file: "030-闽剧 三斩觉罗桂 3.flv", label: "3", sort_order: 3, file_en: "san-zhan-jue-luo-gui-main-p3.mp4" }
 ---
 
 # 三斩觉罗桂

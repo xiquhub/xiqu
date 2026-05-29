@@ -17,9 +17,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "118-闽剧 唐僧出世1.flv", label: "1", sort_order: 1, file_en: "tang-seng-chu-shi-main-p1.flv" }
-      - { file: "119-闽剧 唐僧出世2.flv", label: "2", sort_order: 2, file_en: "tang-seng-chu-shi-main-p2.flv" }
-      - { file: "120-闽剧 唐僧出世3.flv", label: "3", sort_order: 3, file_en: "tang-seng-chu-shi-main-p3.flv" }
+      - { file: "118-闽剧 唐僧出世1.flv", label: "1", sort_order: 1, file_en: "tang-seng-chu-shi-main-p1.mp4" }
+      - { file: "119-闽剧 唐僧出世2.flv", label: "2", sort_order: 2, file_en: "tang-seng-chu-shi-main-p2.mp4" }
+      - { file: "120-闽剧 唐僧出世3.flv", label: "3", sort_order: 3, file_en: "tang-seng-chu-shi-main-p3.mp4" }
 ---
 
 # 唐僧出世

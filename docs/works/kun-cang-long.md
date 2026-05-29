@@ -15,9 +15,9 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "124-闽剧 困苍龙 1.flv", label: "1", sort_order: 1, file_en: "kun-cang-long-main-p1.flv" }
-      - { file: "125-闽剧 困苍龙 2.flv", label: "2", sort_order: 2, file_en: "kun-cang-long-main-p2.flv" }
-      - { file: "126-闽剧 困苍龙 3.flv", label: "3", sort_order: 3, file_en: "kun-cang-long-main-p3.flv" }
+      - { file: "124-闽剧 困苍龙 1.flv", label: "1", sort_order: 1, file_en: "kun-cang-long-main-p1.mp4" }
+      - { file: "125-闽剧 困苍龙 2.flv", label: "2", sort_order: 2, file_en: "kun-cang-long-main-p2.mp4" }
+      - { file: "126-闽剧 困苍龙 3.flv", label: "3", sort_order: 3, file_en: "kun-cang-long-main-p3.mp4" }
 ---
 
 # 困苍龙

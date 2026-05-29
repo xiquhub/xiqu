@@ -15,7 +15,7 @@ productions:
     label: "主版"
     confidence: "medium"
     parts:
-      - { file: "268-闽剧 玲珑玉.flv", label: "", sort_order: 0, file_en: "ling-long-yu-main-full.flv" }
+      - { file: "268-闽剧 玲珑玉.flv", label: "", sort_order: 0, file_en: "ling-long-yu-main-full.mp4" }
 ---
 
 # 玲珑玉
