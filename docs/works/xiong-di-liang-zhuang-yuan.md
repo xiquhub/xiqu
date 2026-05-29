@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/KheTlnFwlC8/maxresdefault.jpg
+cover: /covers/xiong-di-liang-zhuang-yuan.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -25,9 +25,7 @@ productions:
 
 # 兄弟两状元
 
-![cover](https://i.ytimg.com/vi/KheTlnFwlC8/maxresdefault.jpg)
-
-
+![cover](/covers/xiong-di-liang-zhuang-yuan.jpg)
 > 行当/题材：待考（据题名推测为科举功名题材喜剧）
 
 ## 剧情简介

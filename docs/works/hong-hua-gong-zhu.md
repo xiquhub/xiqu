@@ -9,7 +9,6 @@ era_setting: 未知
 adapted_from: 传统剧目
 needs_research: true
 sources: []
-cover: https://www.fzmjtc.cn/__local/B/6E/62/87C5B1168B31ED35421C39E958E_12F69146_210D1.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -19,9 +18,6 @@ productions:
 ---
 
 # 红花公主
-
-![cover](https://www.fzmjtc.cn/__local/B/6E/62/87C5B1168B31ED35421C39E958E_12F69146_210D1.jpg)
-
 
 > 行当/题材：未知
 

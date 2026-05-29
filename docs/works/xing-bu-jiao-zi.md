@@ -9,7 +9,6 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/av7tc2vsPVY/hqdefault.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -19,9 +18,6 @@ productions:
 ---
 
 # 刑部教子
-
-![cover](https://i.ytimg.com/vi/av7tc2vsPVY/hqdefault.jpg)
-
 
 > 行当/题材：待考（据题名推测为官场家庭伦理戏）
 

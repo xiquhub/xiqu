@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/ewirKoTPQkU/hqdefault.jpg
+cover: /covers/yun-niang-jiao-zi.jpg
 productions:
   - slug: "main"
     label: "由李敏"
@@ -23,9 +23,7 @@ productions:
 
 # 云娘教子
 
-![cover](https://i.ytimg.com/vi/ewirKoTPQkU/hqdefault.jpg)
-
-
+![cover](/covers/yun-niang-jiao-zi.jpg)
 > 行当/题材：伦理/家庭
 
 ## 剧情简介

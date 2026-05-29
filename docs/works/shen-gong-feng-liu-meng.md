@@ -10,7 +10,7 @@ adapted_from:
 needs_research: true
 sources:
   - { url: "https://www.iqiyi.com/v_19rxvm7ehg.html", type: 视频平台, scope: 闽剧专属 }
-cover: https://n.sinaimg.cn/sinakd20120/553/w1800h1153/20230305/8b63-c8774834e800ca758df10637e3de9eb8.jpg
+cover: /covers/shen-gong-feng-liu-meng.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -25,9 +25,7 @@ productions:
 
 # 深宫风流梦
 
-![cover](https://n.sinaimg.cn/sinakd20120/553/w1800h1153/20230305/8b63-c8774834e800ca758df10637e3de9eb8.jpg)
-
-
+![cover](/covers/shen-gong-feng-liu-meng.jpg)
 > 行当/题材：宫廷戏 / 爱情戏
 
 ## 剧情简介

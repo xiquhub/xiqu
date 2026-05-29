@@ -11,7 +11,6 @@ needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/27069296/", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E7%94%98%E5%9C%8B%E5%AF%B6", type: baidu_baike, scope: 通用 }
-cover: https://wmf.fjsen.com/images/attachement/jpg/site103/20090818/xin_410806181527875190742.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +21,6 @@ productions:
 ---
 
 # 甘国宝
-
-![cover](https://wmf.fjsen.com/images/attachement/jpg/site103/20090818/xin_410806181527875190742.jpg)
-
 
 > 行当/题材：历史（传奇）
 

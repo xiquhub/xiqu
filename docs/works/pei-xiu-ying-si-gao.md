@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%9A%AE%E7%A7%80%E8%8B%B1%E5%9B%9B%E5%91%8A/4060327", type: baidu_baike, scope: 通用 }
   - { url: "https://jres2023.xhby.net/js/wh/202306/t20230615_7976768.shtml", type: 其他, scope: 通用 }
-cover: https://jcdn.xhby.net/JHD/publish/20230618/1687083915650046064.jpg
+cover: /covers/pei-xiu-ying-si-gao.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 裴秀英四告
 
-![cover](https://jcdn.xhby.net/JHD/publish/20230618/1687083915650046064.jpg)
-
-
+![cover](/covers/pei-xiu-ying-si-gao.jpg)
 > 行当/题材：旦（苦旦）／公案苦情
 
 ## 剧情简介

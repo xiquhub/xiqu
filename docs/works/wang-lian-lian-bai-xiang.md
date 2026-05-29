@@ -10,7 +10,7 @@ adapted_from:
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%9E%97%E7%91%9B/5744942", type: baidu_baike, scope: 闽剧专属 }
-cover: https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781337347.jpg
+cover: /covers/wang-lian-lian-bai-xiang.jpg
 productions:
   - slug: "main"
     label: "林瑛"
@@ -23,9 +23,7 @@ productions:
 
 # 王莲莲拜香
 
-![cover](https://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781337347.jpg)
-
-
+![cover](/covers/wang-lian-lian-bai-xiang.jpg)
 > 行当/题材：世情悲情剧 / 旦行
 
 ## 剧情简介

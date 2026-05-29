@@ -10,7 +10,6 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 闽剧专属, confidence: high }
-cover: http://img.mp.sohu.com/q_mini,c_zoom,w_640/upload/20170808/ea65b6ced5be47e39208b7b9f7849f58_th.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +21,6 @@ productions:
 ---
 
 # 丹桂图
-
-![cover](http://img.mp.sohu.com/q_mini,c_zoom,w_640/upload/20170808/ea65b6ced5be47e39208b7b9f7849f58_th.jpg)
-
 
 > 行当/题材：公案/家庭/才子佳人
 

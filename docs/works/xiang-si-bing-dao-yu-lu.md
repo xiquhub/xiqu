@@ -9,7 +9,6 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://imagecloud.thepaper.cn/thepaper/image/264/629/306.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -19,9 +18,6 @@ productions:
 ---
 
 # 相思病倒芋陆
-
-![cover](https://imagecloud.thepaper.cn/thepaper/image/264/629/306.jpg)
-
 
 > 行当/题材：待考（据题名推测为爱情喜剧或民间故事）
 

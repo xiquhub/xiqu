@@ -10,7 +10,6 @@ adapted_from: 《杨家将演义》
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%A9%86%E6%A1%82%E8%8B%B1/720499", type: baidu_baike, scope: 通用 }
-cover: http://u2.iqiyipic.com/image/20231029/94/a2/pv_3150606639504200_d_601_1248_720.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +19,6 @@ productions:
 ---
 
 # 穆桂英招亲
-
-![cover](http://u2.iqiyipic.com/image/20231029/94/a2/pv_3150606639504200_d_601_1248_720.jpg)
-
 
 > 行当/题材：刀马旦、武生／英雄儿女
 

@@ -10,7 +10,7 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: medium }
-cover: http://static.miyia.com/uploadfile/kindimages/image/20161127/20161127185229_362.jpg
+cover: /covers/mei-yan-jiu-guo.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 梅燕救国
 
-![cover](http://static.miyia.com/uploadfile/kindimages/image/20161127/20161127185229_362.jpg)
-
-
+![cover](/covers/mei-yan-jiu-guo.jpg)
 > 行当/题材：历史
 
 ## 剧情简介

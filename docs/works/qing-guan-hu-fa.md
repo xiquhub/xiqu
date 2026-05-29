@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/yrdAI69RsEc/maxresdefault.jpg
+cover: /covers/qing-guan-hu-fa.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 清官护法
 
-![cover](https://i.ytimg.com/vi/yrdAI69RsEc/maxresdefault.jpg)
-
-
+![cover](/covers/qing-guan-hu-fa.jpg)
 > 行当/题材：须生（清官）／公案清官
 
 ## 剧情简介

@@ -10,7 +10,6 @@ adapted_from: 二十四孝故事·哭竹生笋
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AD%9F%E5%AE%97%E5%93%AD%E7%AB%B9/6335352", type: baidu_baike, scope: 通用 }
-cover: https://i.ytimg.com/vi/flxGANTHkzc/hqdefault.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +21,6 @@ productions:
 ---
 
 # 孟宗哭竹
-
-![cover](https://i.ytimg.com/vi/flxGANTHkzc/hqdefault.jpg)
-
 
 > 行当/题材：旦/孝义道德教化
 

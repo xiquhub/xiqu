@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/WyIEHECC06g/hqdefault.jpg
+cover: /covers/yao-nai-tou.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +20,7 @@ productions:
 
 # 咬奶头
 
-![cover](https://i.ytimg.com/vi/WyIEHECC06g/hqdefault.jpg)
-
-
+![cover](/covers/yao-nai-tou.jpg)
 > 行当/题材：待考（据题名推测为民间生活小戏或俚俗喜剧）
 
 ## 剧情简介

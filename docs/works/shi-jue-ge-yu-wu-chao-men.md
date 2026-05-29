@@ -10,7 +10,6 @@ adapted_from: 传统剧目
 needs_research: false
 sources:
   - { url: "https://wapbaike.baidu.com/tashuo/browse/content?id=82c735faa94e7e2a5bf7197d", type: baidu_baike, scope: 闽剧专属 }
-cover: http://i2.hdslb.com/bfs/archive/f7ceed7434ca607a9c7940be0ad48e8aebf6a867.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +19,6 @@ productions:
 ---
 
 # 拾绝哥与伍朝闷
-
-![cover](http://i2.hdslb.com/bfs/archive/f7ceed7434ca607a9c7940be0ad48e8aebf6a867.jpg)
-
 
 > 行当/题材：家庭伦理戏 / 公案戏
 

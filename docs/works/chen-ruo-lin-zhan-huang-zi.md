@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/26983148/", type: 其他, scope: 闽剧专属 }
   - { url: "http://blog.sina.com.cn/s/blog_4ac1a50801017owb.html", type: 其他, scope: 通用 }
-cover: http://n.sinaimg.cn/sinakd20211218s/739/w1080h459/20211218/19e0-9feccd0fde0ea7fae011620e1efe9cbc.jpg
+cover: /covers/chen-ruo-lin-zhan-huang-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -26,9 +26,7 @@ productions:
 
 # 陈若霖斩皇子
 
-![cover](http://n.sinaimg.cn/sinakd20211218s/739/w1080h459/20211218/19e0-9feccd0fde0ea7fae011620e1efe9cbc.jpg)
-
-
+![cover](/covers/chen-ruo-lin-zhan-huang-zi.jpg)
 > 行当/题材：公案·廉政
 
 ## 剧情简介

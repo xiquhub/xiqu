@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://china144-1257247002.file.myqcloud.com/2024/07/ef554707b86b129.jpg
+cover: /covers/tian-xian-ge.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 天仙阁
 
-![cover](https://china144-1257247002.file.myqcloud.com/2024/07/ef554707b86b129.jpg)
-
-
+![cover](/covers/tian-xian-ge.jpg)
 > 行当/题材：（待查）
 
 ## 剧情简介

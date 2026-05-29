@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%A7%A6%E9%A6%99%E8%8E%B2/24606", type: baidu_baike, scope: 通用 }
   - { url: "https://baike.baidu.com/item/%E9%93%A1%E7%BE%8E%E6%A1%88/9554343", type: baidu_baike, scope: 通用 }
-cover: http://puui.qpic.cn/vpic_cover/b0398rcn93l/b0398rcn93l_hz.jpg
+cover: /covers/qin-xiang-lian-hou-chuan.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -24,9 +24,7 @@ productions:
 
 # 秦香莲后传
 
-![cover](http://puui.qpic.cn/vpic_cover/b0398rcn93l/b0398rcn93l_hz.jpg)
-
-
+![cover](/covers/qin-xiang-lian-hou-chuan.jpg)
 > 行当/题材：旦、生／公案续传
 
 ## 剧情简介

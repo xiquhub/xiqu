@@ -10,7 +10,7 @@ adapted_from: 传统剧目，取材于西施、范蠡、吴越争霸史实（参
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%B5%A3%E7%BA%B1%E8%AE%B0/1401127", type: baidu_baike, scope: 通用 }
-cover: http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781328799.jpg
+cover: /covers/huan-sha-yao.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 浣纱谣
 
-![cover](http://img.pconline.com.cn/images/upload/upc/tx/photoblog/1411/12/c1/40851785_40851785_1415781328799.jpg)
-
-
+![cover](/covers/huan-sha-yao.jpg)
 > 行当/题材：历史
 
 ## 剧情简介

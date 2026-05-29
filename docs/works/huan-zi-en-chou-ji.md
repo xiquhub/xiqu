@@ -9,7 +9,7 @@ era_setting: 未知
 adapted_from: 传统剧目
 needs_research: false
 sources: []
-cover: https://img1.fjdaily.com/app/images/2023-03/22/0b183242-c2f8-4521-8f83-0c273e10efb9.png
+cover: /covers/huan-zi-en-chou-ji.png
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 换子恩仇记
 
-![cover](https://img1.fjdaily.com/app/images/2023-03/22/0b183242-c2f8-4521-8f83-0c273e10efb9.png)
-
-
+![cover](/covers/huan-zi-en-chou-ji.png)
 > 行当/题材：公案
 
 ## 剧情简介

@@ -10,7 +10,7 @@ adapted_from: 《水浒传》林冲误闯白虎堂故事
 needs_research: false
 sources:
   - { url: "http://www.fzmjtc.cn/mjzyk/info/1048/1133.htm", type: other, scope: 闽剧专属 }
-cover: https://puui.qpic.cn/vpic_cover/m3367zd4wlw/m3367zd4wlw_1671766709_hz.jpg
+cover: /covers/wu-chuang-bai-hu-tang.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -21,9 +21,7 @@ productions:
 
 # 误闯白虎堂
 
-![cover](https://puui.qpic.cn/vpic_cover/m3367zd4wlw/m3367zd4wlw_1671766709_hz.jpg)
-
-
+![cover](/covers/wu-chuang-bai-hu-tang.jpg)
 > 行当/题材：英雄武侠剧 / 武生行
 
 ## 剧情简介

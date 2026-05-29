@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://puui.qpic.cn/vpic_cover/m33396xuavl/m33396xuavl_hz.jpg
+cover: /covers/tao-hua-yuan.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 桃花缘
 
-![cover](https://puui.qpic.cn/vpic_cover/m33396xuavl/m33396xuavl_hz.jpg)
-
-
+![cover](/covers/tao-hua-yuan.jpg)
 > 行当/题材：爱情传奇剧
 
 ## 剧情简介

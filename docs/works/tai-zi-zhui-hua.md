@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://puui.qpic.cn/vpic_cover/t3146nfqfwn/t3146nfqfwn_hz.jpg
+cover: /covers/tai-zi-zhui-hua.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 太子追花
 
-![cover](https://puui.qpic.cn/vpic_cover/t3146nfqfwn/t3146nfqfwn_hz.jpg)
-
-
+![cover](/covers/tai-zi-zhui-hua.jpg)
 > 行当/题材：宫廷传奇剧
 
 ## 剧情简介

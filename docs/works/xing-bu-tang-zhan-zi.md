@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/MGE0ow1FB68/hqdefault.jpg
+cover: /covers/xing-bu-tang-zhan-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +20,7 @@ productions:
 
 # 刑部堂斩子
 
-![cover](https://i.ytimg.com/vi/MGE0ow1FB68/hqdefault.jpg)
-
-
+![cover](/covers/xing-bu-tang-zhan-zi.jpg)
 > 行当/题材：待考（据题名推测为公案悲剧，大义灭亲题材）
 
 ## 剧情简介

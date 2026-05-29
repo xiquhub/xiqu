@@ -10,7 +10,7 @@ adapted_from: 传统剧目
 needs_research: false
 sources:
   - { url: "https://www.ximiku.com/juqing/", type: 戏曲大全网, scope: 通用 }
-cover: https://puui.qpic.cn/vpic_cover/f3232nth0vv/f3232nth0vv_hz.jpg
+cover: /covers/gao-lao-shang-shu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 告老尚书
 
-![cover](https://puui.qpic.cn/vpic_cover/f3232nth0vv/f3232nth0vv_hz.jpg)
-
-
+![cover](/covers/gao-lao-shang-shu.jpg)
 > 行当/题材：公案
 
 ## 剧情简介

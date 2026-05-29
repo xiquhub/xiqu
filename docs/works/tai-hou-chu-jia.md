@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://c-ssl.dtstatic.com/uploads/item/201807/28/20180728180856_tpoun.thumb.1000_0.jpg
+cover: /covers/tai-hou-chu-jia.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -26,9 +26,7 @@ productions:
 
 # 太后出嫁
 
-![cover](https://c-ssl.dtstatic.com/uploads/item/201807/28/20180728180856_tpoun.thumb.1000_0.jpg)
-
-
+![cover](/covers/tai-hou-chu-jia.jpg)
 > 行当/题材：宫廷历史剧
 
 ## 剧情简介

@@ -10,7 +10,7 @@ adapted_from: 越剧传统剧目（小歌班时期由绍兴大班移植）
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E4%B8%89%E7%9C%8B%E5%BE%A1%E5%A6%B9/9125", type: baidu_baike, scope: 通用 }
-cover: https://img3.doubanio.com/pview/drama_subject_poster/m/public/f7b307689b609ea.jpg
+cover: /covers/san-kan-yu-mei.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -21,9 +21,7 @@ productions:
 
 # 三看御妹
 
-![cover](https://img3.doubanio.com/pview/drama_subject_poster/m/public/f7b307689b609ea.jpg)
-
-
+![cover](/covers/san-kan-yu-mei.jpg)
 > 行当/题材：古装喜剧 / 爱情戏
 
 ## 剧情简介

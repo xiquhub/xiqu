@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://m.127127.cn/minju/236328/play01_youku1.html", type: other, scope: 闽剧专属 }
   - { url: "https://baike.baidu.com/item/%E6%9C%B1%E5%85%83%E7%92%8B/4255676", type: baidu_baike, scope: 通用 }
-cover: https://i.ytimg.com/vi/JRii7EuRGGo/hqdefault.jpg
+cover: /covers/zhu-yuan-zhang-wei-fu-chu-xun.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 朱元璋微服出巡
 
-![cover](https://i.ytimg.com/vi/JRii7EuRGGo/hqdefault.jpg)
-
-
+![cover](/covers/zhu-yuan-zhang-wei-fu-chu-xun.jpg)
 > 行当/题材：历史/喜剧/微服私访
 
 ## 剧情简介

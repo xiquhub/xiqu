@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%8E%8B%E5%8D%8E%E4%B9%B0%E7%88%B6/7404568", type: baidu_baike, scope: 通用 }
   - { url: "https://m.xiquwenhua.net/xiqudaquan/mingpian/works/1103.html", type: other, scope: 通用 }
-cover: https://i.ytimg.com/vi/RP74TeqyhO0/hqdefault.jpg
+cover: /covers/wang-hua-mai-fu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 王华买父
 
-![cover](https://i.ytimg.com/vi/RP74TeqyhO0/hqdefault.jpg)
-
-
+![cover](/covers/wang-hua-mai-fu.jpg)
 > 行当/题材：孝义传奇剧 / 生、旦、老生行
 
 ## 剧情简介

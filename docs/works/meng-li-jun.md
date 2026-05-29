@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AD%9F%E4%B8%BD%E5%90%9B/56061973", type: baidu_baike, scope: 闽剧专属 }
   - { url: "https://baike.baidu.com/item/%E5%86%8D%E7%94%9F%E7%BC%98/15647", type: baidu_baike, scope: 通用 }
-cover: https://img1.fjdaily.com/app/images/2023-01/20/7d8706a8-0dd0-4968-af37-896b2c96e518.jpg
+cover: /covers/meng-li-jun.jpg
 productions:
   - slug: "main"
     label: "全剧/福建/张建斌"
@@ -24,9 +24,7 @@ productions:
 
 # 孟丽君
 
-![cover](https://img1.fjdaily.com/app/images/2023-01/20/7d8706a8-0dd0-4968-af37-896b2c96e518.jpg)
-
-
+![cover](/covers/meng-li-jun.jpg)
 > 行当/题材：才子佳人
 
 ## 剧情简介

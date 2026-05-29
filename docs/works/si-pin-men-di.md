@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: http://xi-qu.com/uploads/120106/1-12010614300XL.jpg
+cover: /covers/si-pin-men-di.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 四品门第
 
-![cover](http://xi-qu.com/uploads/120106/1-12010614300XL.jpg)
-
-
+![cover](/covers/si-pin-men-di.jpg)
 > 行当/题材：社会伦理剧
 
 ## 剧情简介

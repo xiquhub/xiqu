@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://wenyi.gmw.cn/2024-01/08/content_37077226.htm", type: 通用网站, scope: 通用 }
   - { url: "https://www.china144.com/6115.html", type: 戏曲资源网, scope: 通用 }
-cover: https://pubmeizi.szttkk.cn/11865459480072.jpg
+cover: /covers/han-wen-huang-hou.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 汉文皇后
 
-![cover](https://pubmeizi.szttkk.cn/11865459480072.jpg)
-
-
+![cover](/covers/han-wen-huang-hou.jpg)
 > 行当/题材：历史
 
 ## 剧情简介

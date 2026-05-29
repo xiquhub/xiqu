@@ -12,7 +12,7 @@ sources:
   - { url: "http://news.sina.com.cn/o/2015-10-22/doc-ifxizetf7914358.shtml", type: news, scope: 闽剧专属 }
   - { url: "https://www.chinanews.com.cn/m/cul/2015/10-22/7584527.shtml", type: news, scope: 闽剧专属 }
   - { url: "https://wiki66.com/%E7%8E%8B%E8%8C%82%E7%94%9F%E8%BF%9B%E9%85%92%EF%BC%88%E9%97%BD%E5%89%A7%E5%89%A7%E7%9B%AE%EF%BC%89", type: other, scope: 闽剧专属 }
-cover: http://y2.ifengimg.com/cmpp/2015/10/22/21/179a24a2-fc65-4f62-9aaf-1c00928b3ad3_size28_w540_h360.jpg
+cover: /covers/wang-mao-sheng-jin-jiu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 王茂生进酒
 
-![cover](http://y2.ifengimg.com/cmpp/2015/10/22/21/179a24a2-fc65-4f62-9aaf-1c00928b3ad3_size28_w540_h360.jpg)
-
-
+![cover](/covers/wang-mao-sheng-jin-jiu.jpg)
 > 行当/题材：历史人情剧 / 生、旦行
 
 ## 剧情简介

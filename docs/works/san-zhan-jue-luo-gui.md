@@ -9,7 +9,7 @@ era_setting: 清代
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/d6WNrlaOlbI/hqdefault.jpg
+cover: /covers/san-zhan-jue-luo-gui.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 三斩觉罗桂
 
-![cover](https://i.ytimg.com/vi/d6WNrlaOlbI/hqdefault.jpg)
-
-
+![cover](/covers/san-zhan-jue-luo-gui.jpg)
 > 行当/题材：公案戏 / 历史戏
 
 ## 剧情简介

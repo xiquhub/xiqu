@@ -10,7 +10,7 @@ adapted_from: 传统剧目（或参考越剧同名剧目）
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%AF%92%E6%B1%9F%E9%9B%AA/3950800", type: baidu_baike, scope: 通用 }
-cover: https://so1.360tres.com/t01e85f81655eff2f37.jpg
+cover: /covers/han-jiang-xue.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 寒江雪
 
-![cover](https://so1.360tres.com/t01e85f81655eff2f37.jpg)
-
-
+![cover](/covers/han-jiang-xue.jpg)
 > 行当/题材：家庭
 
 ## 剧情简介

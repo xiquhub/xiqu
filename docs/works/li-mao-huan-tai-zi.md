@@ -10,7 +10,7 @@ adapted_from: 清·石玉昆《三侠五义》
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%8B%B8%E7%8C%AB%E6%8D%A2%E5%A4%AA%E5%AD%90/13851642", type: baidu_baike, scope: 通用 }
-cover: https://p1.itc.cn/q_70/images03/20220210/bef1e5a98dfa469e9aefb0e722a826c7.jpeg
+cover: /covers/li-mao-huan-tai-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -26,9 +26,7 @@ productions:
 
 # 狸猫换太子
 
-![cover](https://p1.itc.cn/q_70/images03/20220210/bef1e5a98dfa469e9aefb0e722a826c7.jpeg)
-
-
+![cover](/covers/li-mao-huan-tai-zi.jpg)
 > 行当/题材：公案
 
 ## 剧情简介

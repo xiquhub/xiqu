@@ -10,7 +10,7 @@ adapted_from: 传统剧目（取材自冯梦龙寿宁断案历史故事）
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%86%AF%E6%A2%A6%E9%BE%99/539840", type: baidu_baike, scope: 通用 }
-cover: https://so1.360tres.com/t014a96fb9159d103a8.jpg
+cover: /covers/feng-meng-long-duan-an.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 冯梦龙断案
 
-![cover](https://so1.360tres.com/t014a96fb9159d103a8.jpg)
-
-
+![cover](/covers/feng-meng-long-duan-an.jpg)
 > 行当/题材：公案
 
 ## 剧情简介

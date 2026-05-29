@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/SoQqw5rT2tY/hqdefault.jpg
+cover: /covers/ni-gu-da-huang-hou.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 尼姑打皇后
 
-![cover](https://i.ytimg.com/vi/SoQqw5rT2tY/hqdefault.jpg)
-
-
+![cover](/covers/ni-gu-da-huang-hou.jpg)
 > 行当/题材：旦（或彩旦）／喜剧讽刺
 
 ## 剧情简介

@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E5%A4%A9%E8%B1%B9%E5%9B%BE/7647723", type: baidu_baike, scope: 通用 }
   - { url: "https://m.douban.com/book/subject/3815236/", type: douban, scope: 通用 }
-cover: http://5b0988e595225.cdn.sohucs.com/images/20190821/3426c03f9d6c47d7a78a589324c3af0a.jpeg
+cover: /covers/tian-bao-tu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 天豹图
 
-![cover](http://5b0988e595225.cdn.sohucs.com/images/20190821/3426c03f9d6c47d7a78a589324c3af0a.jpeg)
-
-
+![cover](/covers/tian-bao-tu.jpg)
 > 行当/题材：侠义公案剧 / 武生、旦、净行
 
 ## 剧情简介

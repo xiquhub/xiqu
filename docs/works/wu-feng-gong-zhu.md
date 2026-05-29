@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://china144-1257247002.file.myqcloud.com/2020/07/8-3.jpg
+cover: /covers/wu-feng-gong-zhu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +20,7 @@ productions:
 
 # 乌凤公主
 
-![cover](https://china144-1257247002.file.myqcloud.com/2020/07/8-3.jpg)
-
-
+![cover](/covers/wu-feng-gong-zhu.jpg)
 > 行当/题材：待考
 
 ## 剧情简介

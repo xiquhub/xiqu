@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/uv9Ug-Z3hYQ/hqdefault.jpg
+cover: /covers/zhen-jia-gu-ye.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 真假姑爷
 
-![cover](https://i.ytimg.com/vi/uv9Ug-Z3hYQ/hqdefault.jpg)
-
-
+![cover](/covers/zhen-jia-gu-ye.jpg)
 > 行当/题材：喜剧/误会/婚恋
 
 ## 剧情简介

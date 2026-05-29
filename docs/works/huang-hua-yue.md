@@ -10,7 +10,6 @@ adapted_from: 传统剧目
 needs_research: false
 sources:
   - { url: "https://m.kanximi.com/mp3/149-176479-0.html", type: 戏曲资源网, scope: 闽剧专属 }
-cover: https://i.ytimg.com/vi/fO6OFfcu7dI/maxresdefault.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +21,6 @@ productions:
 ---
 
 # 黄花约
-
-![cover](https://i.ytimg.com/vi/fO6OFfcu7dI/maxresdefault.jpg)
-
 
 > 行当/题材：才子佳人
 

@@ -10,7 +10,7 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
-cover: https://i.ytimg.com/vi/23gjgeUCuZ0/hqdefault.jpg
+cover: /covers/ling-hua-shuang-he-jing.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -24,9 +24,7 @@ productions:
 
 # 菱花双合镜
 
-![cover](https://i.ytimg.com/vi/23gjgeUCuZ0/hqdefault.jpg)
-
-
+![cover](/covers/ling-hua-shuang-he-jing.jpg)
 > 行当/题材：才子佳人
 
 ## 剧情简介

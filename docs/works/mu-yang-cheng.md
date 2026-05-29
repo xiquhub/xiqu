@@ -10,7 +10,7 @@ adapted_from: 传统戏曲《牧羊卷》
 needs_research: false
 sources:
   - { url: "https://blog.sina.com.cn/s/blog_4892368f0102w7wa.html", type: 其他, scope: 通用 }
-cover: https://i.ytimg.com/vi/v3rmaSBCEbc/hqdefault.jpg
+cover: /covers/mu-yang-cheng.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 牧羊城
 
-![cover](https://i.ytimg.com/vi/v3rmaSBCEbc/hqdefault.jpg)
-
-
+![cover](/covers/mu-yang-cheng.jpg)
 > 行当/题材：旦（苦旦）、生／苦情离合
 
 ## 剧情简介

@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/3GmicoR64DY/hqdefault.jpg
+cover: /covers/yi-hua-jie-mu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +20,7 @@ productions:
 
 # 移花接木
 
-![cover](https://i.ytimg.com/vi/3GmicoR64DY/hqdefault.jpg)
-
-
+![cover](/covers/yi-hua-jie-mu.jpg)
 > 行当/题材：待考（据题名推测为偷梁换柱、掉包计题材的喜剧或公案戏）
 
 ## 剧情简介

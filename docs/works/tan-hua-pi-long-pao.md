@@ -10,7 +10,6 @@ adapted_from: 与京剧《打龙袍》相关传统题材
 needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%89%93%E9%BE%99%E8%A2%8D/4767981", type: baidu_baike, scope: 通用 }
-cover: http://5b0988e595225.cdn.sohucs.com/images/20190118/3eed47f0fc6945338cda512489573020.jpeg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +19,6 @@ productions:
 ---
 
 # 探花披龙袍
-
-![cover](http://5b0988e595225.cdn.sohucs.com/images/20190118/3eed47f0fc6945338cda512489573020.jpeg)
-
 
 > 行当/题材：宫廷历史剧 / 生、净、老旦行
 

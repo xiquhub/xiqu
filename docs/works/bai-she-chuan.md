@@ -11,7 +11,6 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%99%BD%E8%9B%87%E4%BC%A0/1284068", type: baidu_baike, scope: 通用 }
   - { url: "https://fjxq.fjsen.com/2015-03/16/content_17658864_all.htm", type: 其他, scope: 闽剧专属 }
-cover: https://www.fzmjtc.cn/__local/E/8F/05/7720FE4FAB1953CBA07E032C35D_1C90EA99_22D7F.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -21,9 +20,6 @@ productions:
 ---
 
 # 白蛇传
-
-![cover](https://www.fzmjtc.cn/__local/E/8F/05/7720FE4FAB1953CBA07E032C35D_1C90EA99_22D7F.jpg)
-
 
 > 行当/题材：神怪·爱情
 

@@ -9,7 +9,6 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i2.kknews.cc/0JpJHHyOfFQtnUCafyJKv14lkbbJrnYmaJq3-nE/0.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -19,9 +18,6 @@ productions:
 ---
 
 # 玲珑玉
-
-![cover](https://i2.kknews.cc/0JpJHHyOfFQtnUCafyJKv14lkbbJrnYmaJq3-nE/0.jpg)
-
 
 > 行当/题材：未知
 

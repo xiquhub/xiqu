@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://www.nacta.edu.cn/images/2023-11/gp_th_c2f2f40d571b42ab823e0c387728e368.jpg
+cover: /covers/zeng-jian-qing-chou.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 赠剑情仇
 
-![cover](https://www.nacta.edu.cn/images/2023-11/gp_th_c2f2f40d571b42ab823e0c387728e368.jpg)
-
-
+![cover](/covers/zeng-jian-qing-chou.jpg)
 > 行当/题材：武侠/爱情/恩仇
 
 ## 剧情简介

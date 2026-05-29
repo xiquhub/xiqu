@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%99%BD%E7%8E%89%E5%A0%82/10224", type: baidu_baike, scope: 通用 }
   - { url: "https://zh.wikipedia.org/zh-hans/%E4%B8%89%E4%BE%A0%E4%BA%94%E4%B9%89", type: 其他, scope: 通用 }
-cover: https://p2.cri.cn/M00/34/84/rBABCmEDW9qAKbR-AAAAAAAAAAA285.650x450.jpg
+cover: /covers/bai-yu-tang.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -24,9 +24,7 @@ productions:
 
 # 白玉堂
 
-![cover](https://p2.cri.cn/M00/34/84/rBABCmEDW9qAKbR-AAAAAAAAAAA285.650x450.jpg)
-
-
+![cover](/covers/bai-yu-tang.jpg)
 > 行当/题材：公案·侠义
 
 ## 剧情简介

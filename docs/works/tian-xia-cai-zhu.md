@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/7uEWGKa1IX0/hqdefault.jpg
+cover: /covers/tian-xia-cai-zhu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +20,7 @@ productions:
 
 # 天下财主
 
-![cover](https://i.ytimg.com/vi/7uEWGKa1IX0/hqdefault.jpg)
-
-
+![cover](/covers/tian-xia-cai-zhu.jpg)
 > 行当/题材：社会讽刺喜剧
 
 ## 剧情简介

@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/bYqPOASo9cc/hqdefault.jpg
+cover: /covers/qiao-duan-jia-wu-shi.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 巧断家务事
 
-![cover](https://i.ytimg.com/vi/bYqPOASo9cc/hqdefault.jpg)
-
-
+![cover](/covers/qiao-duan-jia-wu-shi.jpg)
 > 行当/题材：丑或小生／喜剧
 
 ## 剧情简介

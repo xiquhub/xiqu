@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://img1.fjdaily.com/app/images/2023-11/06/5a62be8c-aa74-458d-808d-57c43705de24.JPEG
+cover: /covers/yu-ye-gong-zhu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +22,7 @@ productions:
 
 # 玉叶公主
 
-![cover](https://img1.fjdaily.com/app/images/2023-11/06/5a62be8c-aa74-458d-808d-57c43705de24.JPEG)
-
-
+![cover](/covers/yu-ye-gong-zhu.jpg)
 > 行当/题材：历史/宫廷/爱情
 
 ## 剧情简介

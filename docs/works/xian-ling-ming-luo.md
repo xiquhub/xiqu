@@ -9,7 +9,6 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: http://ndwm.fjsen.com/images/2023-01/31/31ee75d2-81ff-4014-a006-a94d001216a4.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -21,9 +20,6 @@ productions:
 ---
 
 # 县令鸣锣
-
-![cover](http://ndwm.fjsen.com/images/2023-01/31/31ee75d2-81ff-4014-a006-a94d001216a4.jpg)
-
 
 > 行当/题材：待考（据题名推测为公案戏或官场题材）
 

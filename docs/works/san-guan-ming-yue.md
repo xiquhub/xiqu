@@ -10,7 +10,6 @@ adapted_from: 杨家将故事
 needs_research: true
 sources:
   - { url: "https://www.kanxiji.net/fujianxi/minju/2016-09-02/55668.html", type: 戏曲资源网, scope: 闽剧专属 }
-cover: https://i.ytimg.com/vi/wOxu1fxKxW8/hqdefault.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -20,9 +19,6 @@ productions:
 ---
 
 # 三关明月
-
-![cover](https://i.ytimg.com/vi/wOxu1fxKxW8/hqdefault.jpg)
-
 
 > 行当/题材：武戏 / 历史戏
 

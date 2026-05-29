@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://i.ytimg.com/vi/JNDvE55h2xo/hqdefault.jpg
+cover: /covers/mei-shan-lian-qu.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -21,9 +21,7 @@ productions:
 
 # 梅山恋曲
 
-![cover](https://i.ytimg.com/vi/JNDvE55h2xo/hqdefault.jpg)
-
-
+![cover](/covers/mei-shan-lian-qu.jpg)
 > 行当/题材：未知
 
 ## 剧情简介

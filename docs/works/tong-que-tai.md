@@ -10,7 +10,6 @@ adapted_from: 曹操、曹丕、曹植、甄宓三国历史人物题材
 needs_research: false
 sources:
   - { url: "https://www.douban.com/location/drama/37200142/", type: douban, scope: 闽剧专属 }
-cover: https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/ea98bce0gy1h12fowgwixj21hc0xc116.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +21,6 @@ productions:
 ---
 
 # 铜雀台
-
-![cover](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/ea98bce0gy1h12fowgwixj21hc0xc116.jpg)
-
 
 > 行当/题材：历史人情剧 / 生、旦、净行
 

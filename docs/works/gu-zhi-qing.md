@@ -10,7 +10,6 @@ adapted_from: 闽剧传统/原创剧目
 needs_research: true   # Gemini 综合，待人工核校
 sources:
   - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
-cover: http://upload.mnw.cn/2025/1218/39C176602173264393.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -22,9 +21,6 @@ productions:
 ---
 
 # 姑侄情
-
-![cover](http://upload.mnw.cn/2025/1218/39C176602173264393.jpg)
-
 
 > 行当/题材：家庭
 

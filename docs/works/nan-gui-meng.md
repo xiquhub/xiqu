@@ -9,7 +9,7 @@ era_setting:
 adapted_from:
 needs_research: true
 sources: []
-cover: https://img1.fjdaily.com/app/images/2023-12/08/874b215f-9680-4b86-b669-854c5554a678.jpg
+cover: /covers/nan-gui-meng.jpg
 productions:
   - slug: "main"
     label: "主版"
@@ -23,9 +23,7 @@ productions:
 
 # 南归梦
 
-![cover](https://img1.fjdaily.com/app/images/2023-12/08/874b215f-9680-4b86-b669-854c5554a678.jpg)
-
-
+![cover](/covers/nan-gui-meng.jpg)
 > 行当/题材：待考
 
 ## 剧情简介

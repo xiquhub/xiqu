@@ -11,7 +11,7 @@ needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E7%8F%8D%E7%8F%A0%E5%A1%94/2459116", type: baidu_baike, scope: 通用 }
   - { url: "https://m.ximalaya.com/ask/q13161584", type: other, scope: 闽剧专属 }
-cover: https://puui.qpic.cn/vpic_cover/l3073s5o9xy/l3073s5o9xy_hz.jpg
+cover: /covers/zhen-zhu-ta.jpg
 productions:
   - slug: "main"
     label: "全剧/胡奇明/张品生"
@@ -24,9 +24,7 @@ productions:
 
 # 珍珠塔
 
-![cover](https://puui.qpic.cn/vpic_cover/l3073s5o9xy/l3073s5o9xy_hz.jpg)
-
-
+![cover](/covers/zhen-zhu-ta.jpg)
 > 行当/题材：爱情/传奇/劝善
 
 ## 剧情简介
