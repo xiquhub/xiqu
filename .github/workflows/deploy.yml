@@ -1,0 +1,93 @@
+name: Deploy on tag
+
+# 仅在打 tag（如 v1.0.0、v1.1）时触发
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:    # 也支持在 Actions 页手动触发
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write       # GitHub Pages OIDC
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+env:
+  NEXT_PUBLIC_VIDEO_BASE_URL: https://server.yunxy.top:8075/videos
+  NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY: 3c066d8c-2db0-4bd9-a3a2-5eba0930c101
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    outputs:
+      tag: ${{ github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install
+        run: pnpm install --frozen-lockfile
+
+      - name: Build static export
+        working-directory: apps/web
+        run: pnpm build
+
+      - name: Upload built artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: web-out
+          path: apps/web/out
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy-cf-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: production
+      url: https://xiquhub.com
+    steps:
+      - uses: actions/checkout@v4    # 工作流文件需要在仓库根（wrangler-action 想要 wrangler.toml 时用）
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: web-out
+          path: apps/web/out
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy apps/web/out --project-name=xiqu-archive --branch=main --commit-dirty=true
+
+  deploy-github-pages:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: web-out
+          path: out
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
