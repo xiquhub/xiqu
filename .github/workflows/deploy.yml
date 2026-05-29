@@ -19,6 +19,8 @@ concurrency:
 env:
   NEXT_PUBLIC_VIDEO_BASE_URL: ${{ secrets.NEXT_PUBLIC_VIDEO_BASE_URL }}
   NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY: ${{ secrets.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY }}
+  # GH Pages 部署到 xiquhub.github.io/xiqu/ 子路径，basePath 必须 = 仓库名
+  NEXT_PUBLIC_BASE_PATH: /xiqu
 
 jobs:
   build:

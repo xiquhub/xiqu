@@ -5,6 +5,17 @@ import type { Work, Production, ActorRef, TroupeRef } from "./types";
 
 const WORKS_DIR = path.join(process.cwd(), "..", "..", "docs", "works");
 
+// basePath 同步：与 next.config.ts 的 basePath 保持一致，
+// 给以 / 开头的静态资源 URL（如 /covers/foo.jpg）加前缀。
+const BASE_PATH = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
+function withBasePath(url: string | undefined): string | undefined {
+  if (!url) return url;
+  if (!BASE_PATH) return url;
+  if (!url.startsWith("/") || url.startsWith("//")) return url; // 绝对/相对 URL 不动
+  return BASE_PATH + url;
+}
+
 let _cache: Work[] | null = null;
 
 /**
@@ -53,7 +64,7 @@ export function getAllWorks(): Work[] {
       adapted_from: data.adapted_from ? String(data.adapted_from) : undefined,
       needs_research: data.needs_research === true || data.needs_research === "true",
       sources: Array.isArray(data.sources) ? (data.sources as any) : [],
-      cover: data.cover ? String(data.cover) : undefined,
+      cover: withBasePath(data.cover ? String(data.cover) : undefined),
       productions,
       body: content.trim(),
       plot_summary: extractPlot(content),
