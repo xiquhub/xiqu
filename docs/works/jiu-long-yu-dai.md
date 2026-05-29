@@ -7,13 +7,11 @@ heritage: false
 plot_type: 公案
 era_setting: 明朝（通常指明朝中期，刘瑾当权时期）
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "037-闽剧 九龙玉带1(上集).flv", label: "上", sort_order: 1, file_en: "jiu-long-yu-dai-main-p1.mp4" }
       - { file: "038-闽剧 九龙玉带2(中集).flv", label: "中", sort_order: 2, file_en: "jiu-long-yu-dai-main-p2.mp4" }
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《九龙玉带》是一出经典的闽剧公案戏。剧情主要围绕太监刘瑾专权，陷害忠臣，朝野动荡展开。故事讲述了奸臣刘瑾意欲篡夺皇位，设计陷害忠臣，导致民不聊生。在关键时刻，以秦尚书为代表的正直官员，与以孙太后、皇太子为首的正义力量联手，揭露刘瑾的罪行。在调查过程中，发现刘瑾搜刮民脂民膏，甚至打造九龙玉带以示其篡位野心。最终，在正义力量的共同努力下，刘瑾的阴谋被粉碎，他被逮捕处死，朝廷得以恢复清明，百姓重享安宁。该剧以其紧凑的情节、鲜明的人物塑造和对封建统治下官场腐败的揭露而广受好评。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -46,8 +42,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

@@ -7,14 +7,13 @@ heritage: false
 plot_type: 爱情/民间传说
 era_setting:
 adapted_from: 拾玉镯（传统戏曲）
-needs_research: true
+needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%8B%BE%E7%8E%89%E9%95%AF/23774194", type: baidu_baike, scope: 通用 }
 cover: /covers/yu-zhuo-qing.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "261-闽剧 玉镯情 1.flv", label: "1", sort_order: 1, file_en: "yu-zhuo-qing-main-p1.mp4" }
       - { file: "262-闽剧 玉镯情 2.flv", label: "2", sort_order: 2, file_en: "yu-zhuo-qing-main-p2.mp4" }

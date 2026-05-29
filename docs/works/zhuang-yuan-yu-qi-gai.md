@@ -14,7 +14,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "127-闽剧 壮元与乞丐.flv", label: "", sort_order: 0, file_en: "zhuang-yuan-yu-qi-gai-main-full.mp4" }
       - { file: "490-闽剧《状元与乞丐》全剧(上集).flv", label: "上", sort_order: 1, file_en: "zhuang-yuan-yu-qi-gai-main-p1.mp4" }

@@ -7,14 +7,13 @@ heritage: false
 plot_type: 宫廷戏 / 爱情戏
 era_setting: 不详
 adapted_from:
-needs_research: true
+needs_research: false
 sources:
   - { url: "https://www.iqiyi.com/v_19rxvm7ehg.html", type: 视频平台, scope: 闽剧专属 }
 cover: /covers/shen-gong-feng-liu-meng.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "226-闽剧 深宫风流梦 1.flv", label: "1", sort_order: 1, file_en: "shen-gong-feng-liu-meng-main-p1.mp4" }
       - { file: "227-闽剧 深宫风流梦 2.flv", label: "2", sort_order: 2, file_en: "shen-gong-feng-liu-meng-main-p2.mp4" }

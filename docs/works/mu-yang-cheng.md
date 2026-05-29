@@ -14,7 +14,6 @@ cover: /covers/mu-yang-cheng.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "238-闽剧 牧羊城 1.flv", label: "1", sort_order: 1, file_en: "mu-yang-cheng-main-p1.mp4" }
       - { file: "239-闽剧 牧羊城 2.flv", label: "2", sort_order: 2, file_en: "mu-yang-cheng-main-p2.mp4" }

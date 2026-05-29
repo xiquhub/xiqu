@@ -7,13 +7,12 @@ heritage: false
 plot_type: 喜剧/讽刺
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/ni-gu-da-huang-hou.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "156-闽剧 尼姑打皇后1.flv", label: "1", sort_order: 1, file_en: "ni-gu-da-huang-hou-main-p1.mp4" }
       - { file: "157-闽剧 尼姑打皇后2.flv", label: "2", sort_order: 2, file_en: "ni-gu-da-huang-hou-main-p2.mp4" }

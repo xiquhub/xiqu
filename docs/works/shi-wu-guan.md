@@ -15,7 +15,6 @@ cover: /covers/shi-wu-guan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "093-闽剧 十五贯(全本).flv", label: "全本", sort_order: 0, file_en: "shi-wu-guan-main-full.mp4" }
 ---

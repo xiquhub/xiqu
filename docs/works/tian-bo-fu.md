@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "294-闽剧 天波府(1).flv", label: "1", sort_order: 1, file_en: "tian-bo-fu-main-p1.mp4" }
       - { file: "295-闽剧 天波府(2).flv", label: "2", sort_order: 2, file_en: "tian-bo-fu-main-p2.mp4" }

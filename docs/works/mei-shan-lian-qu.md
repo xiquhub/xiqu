@@ -7,13 +7,12 @@ heritage: false
 plot_type: 未知
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/mei-shan-lian-qu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "206-闽剧 梅山恋曲1.flv", label: "1", sort_order: 1, file_en: "mei-shan-lian-qu-main-p1.mp4" }
       - { file: "207-闽剧 梅山恋曲2.flv", label: "2", sort_order: 2, file_en: "mei-shan-lian-qu-main-p2.mp4" }

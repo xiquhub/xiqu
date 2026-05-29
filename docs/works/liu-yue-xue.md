@@ -17,12 +17,10 @@ productions:
     year: 1985
     media_type: "录音"
     leads: ["黄愿亭", "林锦芳"]
-    confidence: "high"
     parts:
       - { file: "002-福建地方戏曲闽剧《六月雪》全剧 1985年录音 黄愿亭 林锦芳.flv", label: "全剧 年", sort_order: 0, file_en: "liu-yue-xue-1985-recording-full.mp4" }
   - slug: "v2"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "066-闽剧 六月雪1.flv", label: "1", sort_order: 1, file_en: "liu-yue-xue-v2-p1.mp4" }
       - { file: "067-闽剧 六月雪2.flv", label: "2", sort_order: 2, file_en: "liu-yue-xue-v2-p2.mp4" }

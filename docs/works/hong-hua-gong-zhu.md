@@ -7,12 +7,11 @@ heritage: false
 plot_type: 未知
 era_setting: 未知
 adapted_from: 传统剧目
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "495-闽剧《红花公主》全剧.flv", label: "全剧", sort_order: 0, file_en: "hong-hua-gong-zhu-main-full.mp4" }
 ---

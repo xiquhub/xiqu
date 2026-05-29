@@ -7,13 +7,12 @@ heritage: false
 plot_type: 宫廷戏 / 历史戏
 era_setting: 清代乾隆年间
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/san-zhang-qian-long.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "021-闽剧 三掌乾隆1.flv", label: "1", sort_order: 1, file_en: "san-zhang-qian-long-main-p1.mp4" }
       - { file: "022-闽剧 三掌乾隆2.flv", label: "2", sort_order: 2, file_en: "san-zhang-qian-long-main-p2.mp4" }

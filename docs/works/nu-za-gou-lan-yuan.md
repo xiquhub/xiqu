@@ -7,13 +7,12 @@ heritage: false
 plot_type: 侠义/救良
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources:
   - { url: "http://www.fzmjtc.cn/mjzyk/info/1044/1311.htm", type: 其他, scope: 闽剧专属 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "167-闽剧 怒砸勾栏院.flv", label: "", sort_order: 0, file_en: "nu-za-gou-lan-yuan-main-full.mp4" }
 ---

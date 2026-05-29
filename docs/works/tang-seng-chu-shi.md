@@ -14,7 +14,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "118-闽剧 唐僧出世1.flv", label: "1", sort_order: 1, file_en: "tang-seng-chu-shi-main-p1.mp4" }
       - { file: "119-闽剧 唐僧出世2.flv", label: "2", sort_order: 2, file_en: "tang-seng-chu-shi-main-p2.mp4" }

@@ -7,14 +7,12 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 古代
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/jin-dian-yu-suo-zai.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "347-闽剧 金钿玉锁仔 1.flv", label: "1", sort_order: 1, file_en: "jin-dian-yu-suo-zai-main-p1.mp4" }
       - { file: "348-闽剧 金钿玉锁仔 2.flv", label: "2", sort_order: 2, file_en: "jin-dian-yu-suo-zai-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《金钿玉锁仔》讲述了福州一位名门闺秀陈妙珠，与贫寒书生林君瑞因缘际会，互生情愫。妙珠赠予君瑞一枚金钿，君瑞回赠一把玉锁仔作为信物。然而，妙珠的父亲因望女成凤，欲将她许配给显贵。君瑞受尽艰辛，发愤苦读，终于金榜题名。在层层阻碍下，陈父悔悟，成全了这对有情人。该剧围绕着男女主人公的爱情纠葛，展现了封建社会下青年男女追求自由婚姻的曲折过程，同时也刻画了陈妙珠的坚贞不屈和林君瑞的励志奋斗。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

@@ -14,7 +14,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "040-闽剧 书痴1.flv", label: "1", sort_order: 1, file_en: "shu-chi-main-p1.mp4" }
       - { file: "041-闽剧 书痴2.flv", label: "2", sort_order: 2, file_en: "shu-chi-main-p2.mp4" }

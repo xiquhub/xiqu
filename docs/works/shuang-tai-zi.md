@@ -7,13 +7,12 @@ heritage: false
 plot_type: 宫廷戏 / 公案戏
 era_setting: 不详
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/shuang-tai-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "445-闽剧《双太子》全.flv", label: "全", sort_order: 0, file_en: "shuang-tai-zi-main-full.mp4" }
 ---

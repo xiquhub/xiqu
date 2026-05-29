@@ -14,7 +14,6 @@ cover: /covers/li-mao-huan-tai-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "244-闽剧 狸猫换太子 1.flv", label: "1", sort_order: 1, file_en: "li-mao-huan-tai-zi-main-p1.mp4" }
       - { file: "245-闽剧 狸猫换太子 2.flv", label: "2", sort_order: 2, file_en: "li-mao-huan-tai-zi-main-p2.mp4" }

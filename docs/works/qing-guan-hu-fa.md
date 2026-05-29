@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案/清官
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/qing-guan-hu-fa.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "231-闽剧 清官护法 1.flv", label: "1", sort_order: 1, file_en: "qing-guan-hu-fa-main-p1.mp4" }
       - { file: "232-闽剧 清官护法 2.flv", label: "2", sort_order: 2, file_en: "qing-guan-hu-fa-main-p2.mp4" }

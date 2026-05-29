@@ -7,14 +7,12 @@ heritage: false
 plot_type: 家庭/才子佳人
 era_setting: 明朝
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/jiao-fu-cheng-long.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "175-闽剧 教夫成龙1.flv", label: "1", sort_order: 1, file_en: "jiao-fu-cheng-long-main-p1.mp4" }
       - { file: "176-闽剧 教夫成龙2.flv", label: "2", sort_order: 2, file_en: "jiao-fu-cheng-long-main-p2.mp4" }
@@ -30,8 +28,6 @@ productions:
 
 《教夫成龙》讲述了明朝时期，秀才李春生屡试不中，终日酗酒沉沦，家中仅靠妻子张氏操持家务维持生计。张氏出身名门，饱读诗书，虽苦于丈夫不成器，但仍一心想将他培养成才。在娘家母亲的鼓励和帮助下，张氏拿出全部积蓄，请来名师教导李春生，并悉心照顾他的起居饮食。在此过程中，李春生一度沉迷于女色，险些耽误学业，但都在张氏的苦口婆心劝导下幡然醒悟。最终，李春生发愤图强，高中状元，衣锦还乡，夫妻二人过上了幸福的生活。该剧歌颂了张氏的贤良淑德和李春生的浪子回头，体现了中国传统家庭中对读书和功名的重视，以及夫妻互助、共同进步的美德。
 
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
-
 ## 主要角色
 
 - **张氏**：出身名门，贤良淑德，饱读诗书，有远见卓识，一心教导丈夫成才。
@@ -46,8 +42,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

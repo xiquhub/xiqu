@@ -15,7 +15,6 @@ cover: /covers/su-qin-jia-bu-di.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "499-闽剧《苏秦假不第》1.flv", label: "1", sort_order: 1, file_en: "su-qin-jia-bu-di-main-p1.mp4" }
       - { file: "500-闽剧《苏秦假不第》2.flv", label: "2", sort_order: 2, file_en: "su-qin-jia-bu-di-main-p2.mp4" }

@@ -7,13 +7,12 @@ heritage: false
 plot_type: 历史
 era_setting: 唐初（唐太宗年间）
 adapted_from: 未知（以唐太宗李世民纳妃史事或民间传说为素材）
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/li-shi-min-xuan-fei.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "465-闽剧《李世民选妃》01.flv", label: "1", sort_order: 1, file_en: "li-shi-min-xuan-fei-main-p1.mp4" }
       - { file: "466-闽剧《李世民选妃》02.flv", label: "2", sort_order: 2, file_en: "li-shi-min-xuan-fei-main-p2.mp4" }

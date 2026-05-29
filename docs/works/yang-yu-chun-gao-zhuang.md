@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/yang-yu-chun-gao-zhuang.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "189-闽剧 杨玉春告状 1.flv", label: "1", sort_order: 1, file_en: "yang-yu-chun-gao-zhuang-main-p1.mp4" }
       - { file: "190-闽剧 杨玉春告状 2.flv", label: "2", sort_order: 2, file_en: "yang-yu-chun-gao-zhuang-main-p2.mp4" }

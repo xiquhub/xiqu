@@ -64,13 +64,9 @@ export default async function PlayDetailPage({ params }: Params) {
               ))}
             </div>
           ) : (
-            <p className="mt-6 text-sm italic text-[var(--color-fg-muted)]">剧情资料待补全。</p>
-          )}
-
-          {work.needs_research && (
-            <div className="mt-6 inline-block text-xs px-3 py-1.5 bg-[var(--color-surface)] border border-[var(--color-border)] rounded text-[var(--color-fg-muted)]">
-              ⚠ 资料待人工核校
-            </div>
+            <p className="mt-6 text-sm italic text-[var(--color-fg-muted)]">
+              暂无剧情资料。如有了解此剧的朋友，欢迎通过右下角"反馈"补充。
+            </p>
           )}
         </div>
       </div>
@@ -116,26 +112,37 @@ export default async function PlayDetailPage({ params }: Params) {
         )}
       </section>
 
-      {/* 资料来源 */}
-      {work.sources.length > 0 && (
-        <section className="mb-14">
-          <h2 className="font-serif text-2xl text-[var(--color-fg)] mb-5 border-b border-[var(--color-border)] pb-2">资料来源</h2>
-          <ul className="space-y-1.5 text-sm">
-            {work.sources.map((s, i) => (
-              <li key={i}>
-                {s.url.startsWith("gemini://") ? (
-                  <span className="text-[var(--color-fg-muted)]">LLM 综合（{s.url.replace("gemini://", "")}）· 待人工核校</span>
-                ) : (
-                  <a href={s.url} target="_blank" rel="noopener noreferrer" className="text-[var(--color-link)] hover:underline break-all">
+      {/* 资料来源 — 仅展示外部 URL 来源，不展示 LLM/内部追踪条目 */}
+      {(() => {
+        const visible = work.sources.filter(
+          (s) => s.url?.startsWith("http") && s.type !== "llm_synthesis",
+        );
+        if (visible.length === 0) return null;
+        return (
+          <section className="mb-14">
+            <h2 className="font-serif text-2xl text-[var(--color-fg)] mb-5 border-b border-[var(--color-border)] pb-2">
+              资料来源
+            </h2>
+            <ul className="space-y-1.5 text-sm">
+              {visible.map((s, i) => (
+                <li key={i}>
+                  <a
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[var(--color-link)] hover:underline break-all"
+                  >
                     {s.url}
                   </a>
-                )}
-                {s.scope && <span className="ml-2 text-xs text-[var(--color-fg-muted)]">· {s.scope}</span>}
-              </li>
-            ))}
-          </ul>
-        </section>
-      )}
+                  {s.scope && (
+                    <span className="ml-2 text-xs text-[var(--color-fg-muted)]">· {s.scope}</span>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </section>
+        );
+      })()}
     </article>
   );
 }

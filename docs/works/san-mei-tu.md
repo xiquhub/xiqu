@@ -7,12 +7,11 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "416-闽剧《三美图》1.flv", label: "1", sort_order: 1, file_en: "san-mei-tu-main-p1.mp4" }
       - { file: "417-闽剧《三美图》2.flv", label: "2", sort_order: 2, file_en: "san-mei-tu-main-p2.mp4" }
@@ -25,7 +24,6 @@ productions:
 ---
 
 # 三美图
-
 
 > 行当/题材：待考
 

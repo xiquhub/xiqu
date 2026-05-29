@@ -7,13 +7,12 @@ heritage: false
 plot_type: 历史/宫廷/爱情
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/yu-ye-gong-zhu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "250-闽剧 玉叶公主 1.flv", label: "1", sort_order: 1, file_en: "yu-ye-gong-zhu-main-p1.mp4" }
       - { file: "251-闽剧 玉叶公主 2.flv", label: "2", sort_order: 2, file_en: "yu-ye-gong-zhu-main-p2.mp4" }

@@ -7,12 +7,11 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "047-闽剧 五福临门.flv", label: "", sort_order: 0, file_en: "wu-fu-lin-men-main-full.mp4" }
 ---

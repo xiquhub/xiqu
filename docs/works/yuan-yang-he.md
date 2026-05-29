@@ -7,13 +7,12 @@ heritage: false
 plot_type: 爱情/婚恋
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources:
   - { url: "https://www.pingju.com.cn/lsh_detail.php?id=205&flag=1", type: other, scope: 闽剧专属 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "379-闽剧 鸳鸯河 1.flv", label: "1", sort_order: 1, file_en: "yuan-yang-he-main-p1.mp4" }
       - { file: "380-闽剧 鸳鸯河 2.flv", label: "2", sort_order: 2, file_en: "yuan-yang-he-main-p2.mp4" }

@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/xing-bu-tang-zhan-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "437-闽剧《刑部堂斩子》全.flv", label: "全", sort_order: 0, file_en: "xing-bu-tang-zhan-zi-main-full.mp4" }
 ---

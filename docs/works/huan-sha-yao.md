@@ -14,7 +14,6 @@ cover: /covers/huan-sha-yao.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "484-闽剧《浣纱谣》1.flv", label: "1", sort_order: 1, file_en: "huan-sha-yao-main-p1.mp4" }
       - { file: "485-闽剧《浣纱谣》2.flv", label: "2", sort_order: 2, file_en: "huan-sha-yao-main-p2.mp4" }

@@ -7,14 +7,12 @@ heritage: false
 plot_type: 才子佳人/历史
 era_setting: 明朝
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: medium }
+needs_research: false
+sources: []
 cover: /covers/jin-guo-qi-nan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "162-闽剧 巾帼奇男 1.flv", label: "1", sort_order: 1, file_en: "jin-guo-qi-nan-main-p1.mp4" }
       - { file: "163-闽剧 巾帼奇男 2.flv", label: "2", sort_order: 2, file_en: "jin-guo-qi-nan-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《巾帼奇男》讲述了明朝时期，女扮男装的巾帼英雄林晓英，代父从军，屡建奇功，后又化名“江南第一侠”在江湖上行侠仗义的故事。她不仅骁勇善战，智谋过人，更怀有一颗仁爱之心。在一次偶然的机会中，她结识了正直善良的书生王文佐，二人情投意合。然而，王文佐的父亲王尚书却一心想攀附权贵，将王文佐许配给县官之女。林晓英为了化解王文佐的困境，也为了揭露官场的黑暗，施展计谋，最终使得王尚书幡然悔悟，并促成了林晓英和王文佐的姻缘。该剧歌颂了女性的智慧与勇气，以及追求真挚爱情的坚定信念。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: medium。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

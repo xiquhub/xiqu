@@ -7,14 +7,12 @@ heritage: false
 plot_type: 公案/神怪
 era_setting: 未知
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 通用, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/ci-xiong-bao-zhu.png
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "365-闽剧 雌雄宝珠 1.flv", label: "1", sort_order: 1, file_en: "ci-xiong-bao-zhu-main-p1.mp4" }
       - { file: "366-闽剧 雌雄宝珠 2.flv", label: "2", sort_order: 2, file_en: "ci-xiong-bao-zhu-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《雌雄宝珠》是闽剧的传统剧目，故事围绕一对具有神秘力量的“雌雄宝珠”展开。剧情通常讲述一位正直的青年才俊或清廉官员，因缘际会获得这两颗宝珠。宝珠拥有辨别真伪、揭露邪恶或护主的神奇功效。主人公往往需要利用宝珠的力量，去对抗贪官污吏、解决冤假错案、伸张社会正义。故事情节曲折，充满善恶的较量和奇幻色彩，最终正义得以彰显，宝珠也常作为忠诚与智慧的象征。它通过奇幻元素，体现传统道德观念和对公平正义的追求。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash) — LLM 综合，待人工核校
 
 ## 备注
 

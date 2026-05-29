@@ -7,13 +7,12 @@ heritage: false
 plot_type: 喜剧/家庭纠纷
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/qiao-duan-jia-wu-shi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "159-闽剧 巧断家务事1.flv", label: "1", sort_order: 1, file_en: "qiao-duan-jia-wu-shi-main-p1.mp4" }
       - { file: "160-闽剧 巧断家务事2.flv", label: "2", sort_order: 2, file_en: "qiao-duan-jia-wu-shi-main-p2.mp4" }

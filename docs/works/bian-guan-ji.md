@@ -15,7 +15,6 @@ cover: /covers/bian-guan-ji.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "015-福建地方戏曲闽剧《贬官记》全剧.flv", label: "全剧", sort_order: 0, file_en: "bian-guan-ji-main-full.mp4" }
 ---

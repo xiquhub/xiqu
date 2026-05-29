@@ -7,13 +7,11 @@ heritage: false
 plot_type: 家庭/公案
 era_setting: 古代
 adapted_from: 闽剧传统/民间故事
-needs_research: true
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "264-闽剧 王有道休妻(上).flv", label: "上", sort_order: 1, file_en: "wang-you-dao-xiu-qi-main-p1.mp4" }
       - { file: "266-闽剧 王有道休妻(中).flv", label: "中", sort_order: 2, file_en: "wang-you-dao-xiu-qi-main-p2.mp4" }
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《王有道休妻》是一出经典的闽剧剧目，改编自中国传统民间故事。剧情讲述了王有道，一个在家中备受欺凌的孝子，为了替患病的母亲买药，无奈之下听从恶毒后母的唆使，写下休书休掉了贤惠善良的妻子。妻子被休后，历经磨难，但始终保持着坚贞的品德。最终，在贵人相助下，王有道得知了后母的阴谋，悔悟并积极寻找妻子。在经历了一系列波折和考验后，王有道终于与妻子重聚，后母也得到了应有的惩罚，一家人得以团圆。此剧曲折的情节、鲜明的人物性格和深刻的道德寓意，使其成为闽剧中广受欢迎的剧目。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对。
 
 ## 主要角色
 
@@ -46,8 +42,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

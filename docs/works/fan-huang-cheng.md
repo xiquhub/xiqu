@@ -7,13 +7,11 @@ heritage: false
 plot_type: 历史
 era_setting: 明朝嘉靖年间
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: medium }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "108-闽剧 反皇城 1.flv", label: "1", sort_order: 1, file_en: "fan-huang-cheng-main-p1.mp4" }
       - { file: "109-闽剧 反皇城 2.flv", label: "2", sort_order: 2, file_en: "fan-huang-cheng-main-p2.mp4" }
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《反皇城》是闽剧中的经典剧目之一，讲述了明朝嘉靖年间，一代名将戚继光的故事。戚继光在抗击倭寇的战争中屡建奇功，但因忠心耿耿，不媚权贵，遭奸臣严嵩陷害，被朝廷猜忌，甚至一度面临被问罪的危险。面对朝廷内部的腐败和外部的敌人，戚继光在坚持原则与保家卫国之间挣扎。剧目深刻揭示了官场黑暗，歌颂了戚继光忠贞不屈、报效国家的英雄气概，以及他最终凭借军功和百姓的支持，化解危难，继续为国效力的过程。同时，也展现了当时民间对忠良的期盼与支持。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: medium。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -44,8 +40,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

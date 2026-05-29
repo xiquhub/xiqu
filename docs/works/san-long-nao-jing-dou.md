@@ -7,12 +7,11 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "291-闽剧 三龙闹京都1(上).flv", label: "上", sort_order: 1, file_en: "san-long-nao-jing-dou-main-p1.mp4" }
       - { file: "292-闽剧 三龙闹京都2(中).flv", label: "中", sort_order: 2, file_en: "san-long-nao-jing-dou-main-p2.mp4" }

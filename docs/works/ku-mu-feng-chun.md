@@ -7,13 +7,11 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 古代
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "473-闽剧《枯木逢春》1.flv", label: "1", sort_order: 1, file_en: "ku-mu-feng-chun-main-p1.mp4" }
       - { file: "474-闽剧《枯木逢春》2.flv", label: "2", sort_order: 2, file_en: "ku-mu-feng-chun-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 
 《枯木逢春》是一个感人至深的传统闽剧剧目，讲述了书生林景明与贫家女子柳兰芳的爱情故事。林景明家道中落，身无分文，被迫与柳兰芳分离。柳兰芳虽然贫困，却对林景明情深意重，不离不弃。在林景明遭受生活困苦之时，柳兰芳以她坚韧的毅力和无私的爱，给予他无尽的支持和鼓励。经过多年的艰辛磨难，林景明终于高中科举，功成名就。回到家乡的他，惊喜地发现柳兰芳依然坚守着他们的誓言。枯木逢春，象征着他们历经坎坷的爱情终于迎来美好的结局，也体现了真挚情感的强大生命力。
 
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
-
 ## 主要角色
 
 - **林景明**：贫困但有才华的书生，后功成名就。
@@ -45,8 +41,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

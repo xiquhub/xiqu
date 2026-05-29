@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/tian-xian-ge.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "131-闽剧 天仙阁1(上).flv", label: "上", sort_order: 1, file_en: "tian-xian-ge-main-p1.mp4" }
       - { file: "132-闽剧 天仙阁2(中).flv", label: "中", sort_order: 2, file_en: "tian-xian-ge-main-p2.mp4" }

@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "144-闽剧 孟宗哭竹1.flv", label: "1", sort_order: 1, file_en: "meng-zong-ku-zhu-main-p1.mp4" }
       - { file: "145-闽剧 孟宗哭竹2.flv", label: "2", sort_order: 2, file_en: "meng-zong-ku-zhu-main-p2.mp4" }

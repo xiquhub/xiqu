@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案戏 / 历史戏
 era_setting: 清代
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/san-zhan-jue-luo-gui.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "028-闽剧 三斩觉罗桂 1.flv", label: "1", sort_order: 1, file_en: "san-zhan-jue-luo-gui-main-p1.mp4" }
       - { file: "029-闽剧 三斩觉罗桂 2.flv", label: "2", sort_order: 2, file_en: "san-zhan-jue-luo-gui-main-p2.mp4" }

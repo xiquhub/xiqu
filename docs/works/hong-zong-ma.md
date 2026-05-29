@@ -14,7 +14,6 @@ cover: /covers/hong-zong-ma.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "496-闽剧《红鬃马》1上.flv", label: "上", sort_order: 1, file_en: "hong-zong-ma-main-p1.mp4" }
       - { file: "497-闽剧《红鬃马》2中.flv", label: "中", sort_order: 2, file_en: "hong-zong-ma-main-p2.mp4" }

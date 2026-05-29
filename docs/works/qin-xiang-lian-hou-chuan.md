@@ -15,7 +15,6 @@ cover: /covers/qin-xiang-lian-hou-chuan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "286-闽剧 秦香莲后传1.flv", label: "1", sort_order: 1, file_en: "qin-xiang-lian-hou-chuan-main-p1.mp4" }
       - { file: "287-闽剧 秦香莲后传2.flv", label: "2", sort_order: 2, file_en: "qin-xiang-lian-hou-chuan-main-p2.mp4" }

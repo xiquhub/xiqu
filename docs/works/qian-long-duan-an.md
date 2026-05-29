@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案/清官/皇帝微服
 era_setting: 清代·乾隆年间
 adapted_from: 乾隆民间故事
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/qian-long-duan-an.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "044-闽剧 乾隆断案 1.flv", label: "1", sort_order: 1, file_en: "qian-long-duan-an-main-p1.mp4" }
       - { file: "045-闽剧 乾隆断案 2.flv", label: "2", sort_order: 2, file_en: "qian-long-duan-an-main-p2.mp4" }

@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "115-闽剧 哑女鸣冤 1.flv", label: "1", sort_order: 1, file_en: "ya-nv-ming-yuan-main-p1.mp4" }
       - { file: "116-闽剧 哑女鸣冤 2.flv", label: "2", sort_order: 2, file_en: "ya-nv-ming-yuan-main-p2.mp4" }

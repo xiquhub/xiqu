@@ -14,7 +14,6 @@ cover: /covers/han-jiang-xue.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "153-闽剧 寒江雪 1.flv", label: "1", sort_order: 1, file_en: "han-jiang-xue-main-p1.mp4" }
       - { file: "154-闽剧 寒江雪 2.flv", label: "2", sort_order: 2, file_en: "han-jiang-xue-main-p2.mp4" }

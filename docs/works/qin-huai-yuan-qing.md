@@ -7,12 +7,11 @@ heritage: false
 plot_type: 公案/苦情
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "283-闽剧 秦淮冤情 1.flv", label: "1", sort_order: 1, file_en: "qin-huai-yuan-qing-main-p1.mp4" }
       - { file: "284-闽剧 秦淮冤情 2.flv", label: "2", sort_order: 2, file_en: "qin-huai-yuan-qing-main-p2.mp4" }
@@ -20,7 +19,6 @@ productions:
 ---
 
 # 秦淮冤情
-
 
 > 行当/题材：旦（苦旦）／公案苦情
 

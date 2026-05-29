@@ -15,7 +15,6 @@ cover: /covers/yi-shun-ge-zhu-di.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "016-福建地方戏曲闽剧《贻顺哥烛蒂》全剧 国家非物质文化遗产项目.flv", label: "全剧", sort_order: 0, file_en: "yi-shun-ge-zhu-di-main-full.mp4" }
       - { file: "060-闽剧 全集 贻春哥烛蒂.flv", label: "全", sort_order: 0, file_en: "yi-shun-ge-zhu-di-main-full-b2.mp4" }

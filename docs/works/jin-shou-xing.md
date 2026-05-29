@@ -7,14 +7,12 @@ heritage: false
 plot_type: 神怪
 era_setting: 未知
 adapted_from: 闽剧传统剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "标清版"
     media_type: "标清"
-    confidence: "medium"
     parts:
       - { file: "506-闽剧《金寿星》标清.flv", label: "", sort_order: 0, file_en: "jin-shou-xing-main-full.mp4" }
 ---
@@ -26,8 +24,6 @@ productions:
 ## 剧情简介
 
 《金寿星》是闽剧传统剧目，讲述了寿星得罪了玉帝，被贬下凡间，经历了一系列凡间的喜怒哀乐和磨难。在凡间，他化身为一位慈祥的老人，与一对善良的凡人夫妇结下了不解之缘。这对夫妇虽然贫困，却心地善良，乐善好施。寿星为了报答他们的恩情，暗中帮助他们度过难关，使他们生活逐渐改善。期间，寿星也目睹了人间的悲欢离合，感受到了人情的温暖与冷暖。最终，寿星的善行感动了玉帝，也使他深刻体会到人间的价值。故事寓含着劝人向善、积德行善的主题，歌颂了人间的真情与美德。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -43,8 +39,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

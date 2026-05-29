@@ -14,7 +14,6 @@ cover: /covers/liu-zhi-yuan-yu-li-san-niang.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "438-闽剧《刘知远与李三娘》全.flv", label: "全", sort_order: 0, file_en: "liu-zhi-yuan-yu-li-san-niang-main-full.mp4" }
 ---

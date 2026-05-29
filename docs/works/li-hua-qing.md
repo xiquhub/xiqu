@@ -14,7 +14,6 @@ cover: /covers/li-hua-qing.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "209-闽剧 梨花情(1).flv", label: "1", sort_order: 1, file_en: "li-hua-qing-main-p1.mp4" }
       - { file: "210-闽剧 梨花情(2).flv", label: "2", sort_order: 2, file_en: "li-hua-qing-main-p2.mp4" }

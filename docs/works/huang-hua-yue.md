@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "388-闽剧 黄花约1.flv", label: "1", sort_order: 1, file_en: "huang-hua-yue-main-p1.mp4" }
       - { file: "389-闽剧 黄花约2.flv", label: "2", sort_order: 2, file_en: "huang-hua-yue-main-p2.mp4" }

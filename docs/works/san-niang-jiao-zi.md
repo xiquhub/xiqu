@@ -15,7 +15,6 @@ cover: /covers/san-niang-jiao-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "411-闽剧《三娘教子》上.flv", label: "上", sort_order: 1, file_en: "san-niang-jiao-zi-main-p1.mp4" }
       - { file: "412-闽剧《三娘教子》下.flv", label: "下", sort_order: 3, file_en: "san-niang-jiao-zi-main-p3.mp4" }

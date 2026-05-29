@@ -14,7 +14,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "494-闽剧《白蛇传》.flv", label: "", sort_order: 0, file_en: "bai-she-chuan-main-full.mp4" }
 ---

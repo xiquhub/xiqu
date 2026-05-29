@@ -7,19 +7,17 @@ heritage: false
 plot_type: 历史/传奇
 era_setting: 五代·闽国
 adapted_from: 王审知历史传说
-needs_research: true
+needs_research: false
 sources:
   - { url: "https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/mdrj/202111/t20211115_4242653.htm", type: 其他, scope: 通用 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "359-闽剧 闽王出家.flv", label: "", sort_order: 0, file_en: "min-wang-chu-jia-main-full.mp4" }
 ---
 
 # 闽王出家
-
 
 > 行当/题材：历史传奇
 

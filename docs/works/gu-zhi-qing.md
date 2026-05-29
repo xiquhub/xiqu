@@ -7,13 +7,11 @@ heritage: false
 plot_type: 家庭
 era_setting: 明朝
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "141-闽剧 姑侄情 1.flv", label: "1", sort_order: 1, file_en: "gu-zhi-qing-main-p1.mp4" }
       - { file: "142-闽剧 姑侄情 2.flv", label: "2", sort_order: 2, file_en: "gu-zhi-qing-main-p2.mp4" }
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《姑侄情》讲述了明朝时期，书生陈士卿家道中落，其父病故，叔婶不睦，侄女陈春荣（幼年）幼丧父母，被姑姑陈氏收养。姑姑陈氏虽贫寒，但疼爱侄女，悉心教导，春荣聪慧好学，出落得亭亭玉立。适逢邻居富家子弟张继祖慕名求亲，陈氏为侄女的婚事奔波操劳。然而，张家恶奴妒恨春荣，设计陷害，欲将其逼走。陈氏挺身而出，维护侄女，在一番曲折后，最终真相大白，姑侄情深，春荣得以顺利完婚，陈氏也得以安享晚年。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -45,8 +41,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

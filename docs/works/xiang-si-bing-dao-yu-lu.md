@@ -7,12 +7,11 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "279-闽剧 相思病倒芋陆.flv", label: "", sort_order: 0, file_en: "xiang-si-bing-dao-yu-lu-main-full.mp4" }
 ---

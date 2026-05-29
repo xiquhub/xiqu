@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "350-闽剧 铜雀台 1.flv", label: "1", sort_order: 1, file_en: "tong-que-tai-main-p1.mp4" }
       - { file: "351-闽剧 铜雀台 2.flv", label: "2", sort_order: 2, file_en: "tong-que-tai-main-p2.mp4" }

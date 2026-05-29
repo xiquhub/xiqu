@@ -7,13 +7,12 @@ heritage: false
 plot_type: 传奇/爱情
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources:
   - { url: "http://www.xiqu.me/minju/wz/1481016531394.html", type: other, scope: 通用 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "258-闽剧 玉蝶传奇 1.flv", label: "1", sort_order: 1, file_en: "yu-die-chuan-qi-main-p1.mp4" }
       - { file: "259-闽剧 玉蝶传奇 2.flv", label: "2", sort_order: 2, file_en: "yu-die-chuan-qi-main-p2.mp4" }
@@ -21,7 +20,6 @@ productions:
 ---
 
 # 玉蝶传奇
-
 
 > 行当/题材：传奇/爱情
 

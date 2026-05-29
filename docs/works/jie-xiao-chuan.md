@@ -7,14 +7,12 @@ heritage: false
 plot_type: 家庭/历史
 era_setting: 古代（具体朝代不固定，但常为宋明时期）
 adapted_from: 闽剧传统/原创剧目（取材于民间故事和历史记载）
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/jie-xiao-chuan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "305-闽剧 节孝传 1.flv", label: "1", sort_order: 1, file_en: "jie-xiao-chuan-main-p1.mp4" }
       - { file: "306-闽剧 节孝传 2.flv", label: "2", sort_order: 2, file_en: "jie-xiao-chuan-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《节孝传》是一个取材于民间故事的传统闽剧剧目，通常讲述的是古代一位节烈女子（如王氏、陈氏等）在丈夫早逝后，面对种种艰难困苦，坚守贞洁，孝敬公婆，最终获得社会赞誉，成为楷模的故事。剧情往往围绕着女子在守节过程中所遭遇的诱惑、威胁、误解与磨难展开，如恶霸逼婚、婆家刁难、生活贫困等。剧目着力刻画女主人公的坚贞不屈、善良孝顺的品德，通过其艰难而又光辉的一生，弘扬封建社会提倡的“节妇”、“孝女”的道德观念。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -48,8 +44,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

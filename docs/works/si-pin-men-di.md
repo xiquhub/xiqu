@@ -7,13 +7,12 @@ heritage: false
 plot_type: 社会伦理剧
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/si-pin-men-di.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "446-闽剧《四品门第》1.flv", label: "1", sort_order: 1, file_en: "si-pin-men-di-main-p1.mp4" }
       - { file: "447-闽剧《四品门第》2.flv", label: "2", sort_order: 2, file_en: "si-pin-men-di-main-p2.mp4" }

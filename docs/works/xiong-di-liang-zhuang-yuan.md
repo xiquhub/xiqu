@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/xiong-di-liang-zhuang-yuan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "057-闽剧 兄弟俩状元1.flv", label: "1", sort_order: 1, file_en: "xiong-di-liang-zhuang-yuan-main-p1.mp4" }
       - { file: "434-闽剧《兄弟两状元》1.flv", label: "1", sort_order: 1, file_en: "xiong-di-liang-zhuang-yuan-main-p1-b2.mp4" }

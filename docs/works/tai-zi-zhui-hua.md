@@ -7,13 +7,12 @@ heritage: false
 plot_type: 宫廷传奇剧
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/tai-zi-zhui-hua.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "457-闽剧《太子追花》1.flv", label: "1", sort_order: 1, file_en: "tai-zi-zhui-hua-main-p1.mp4" }
       - { file: "458-闽剧《太子追花》2.flv", label: "2", sort_order: 2, file_en: "tai-zi-zhui-hua-main-p2.mp4" }

@@ -14,7 +14,6 @@ cover: /covers/ban-ba-jian-dao.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "094-闽剧 半把剪刀 1.flv", label: "1", sort_order: 1, file_en: "ban-ba-jian-dao-main-p1.mp4" }
       - { file: "097-闽剧 半把剪刀(上).flv", label: "上", sort_order: 1, file_en: "ban-ba-jian-dao-main-p1-b2.mp4" }

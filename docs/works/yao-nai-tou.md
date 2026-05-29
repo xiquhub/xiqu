@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/yao-nai-tou.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "001-福建地方戏曲闽剧《咬奶头》全剧.flv", label: "全剧", sort_order: 0, file_en: "yao-nai-tou-main-full.mp4" }
 ---

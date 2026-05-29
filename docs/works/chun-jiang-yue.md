@@ -7,13 +7,12 @@ heritage: false
 plot_type: 家庭
 era_setting: 未知（古装）
 adapted_from: 传统剧目（或参考同名越剧等剧目）
-needs_research: true
+needs_research: false
 sources:
   - { url: "https://baike.baidu.com/item/%E6%98%A5%E6%B1%9F%E6%9C%88/1256719", type: baidu_baike, scope: 通用 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "180-闽剧 春江月 1.flv", label: "1", sort_order: 1, file_en: "chun-jiang-yue-main-p1.mp4" }
       - { file: "183-闽剧 春江月(上).flv", label: "上", sort_order: 1, file_en: "chun-jiang-yue-main-p1-b2.mp4" }

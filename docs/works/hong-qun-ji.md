@@ -15,7 +15,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "303-闽剧 红裙记.flv", label: "", sort_order: 0, file_en: "hong-qun-ji-main-full.mp4" }
 ---

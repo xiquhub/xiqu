@@ -15,7 +15,6 @@ cover: /covers/wang-hua-mai-fu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "009-福建地方戏曲闽剧《王华买父》全剧.flv", label: "全剧", sort_order: 0, file_en: "wang-hua-mai-fu-main-full.mp4" }
 ---

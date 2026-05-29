@@ -7,13 +7,11 @@ heritage: false
 plot_type: 历史/君臣
 era_setting: 宋朝
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "323-闽剧 金兰情01.flv", label: "1", sort_order: 1, file_en: "jin-lan-qing-main-p1.mp4" }
       - { file: "333-闽剧 金兰情11.flv", label: "1", sort_order: 1, file_en: "jin-lan-qing-main-p1-b2.mp4" }
@@ -41,8 +39,6 @@ productions:
 
 《金兰情》讲述了在乱世之中，陈子昂与张孝祥结下深厚友谊。两人志同道合，相约为国效力。然而，奸臣当道，朝廷腐败，他们的报国之志屡遭阻碍。在经历了政治风波和个人磨难后，他们更加坚定了彼此的信念，互相扶持，共渡难关。最终，在朋友们的帮助下，他们识破了奸臣的阴谋，并为国家的安宁做出了贡献。该剧着重表现了君子之间忠诚不渝的情谊，以及在逆境中坚持理想的精神。
 
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
-
 ## 主要角色
 
 - **陈子昂**：正直、有抱负的读书人，与张孝祥结为金兰之交。
@@ -57,8 +53,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

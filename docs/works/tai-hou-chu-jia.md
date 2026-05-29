@@ -7,13 +7,12 @@ heritage: false
 plot_type: 宫廷历史剧
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/tai-hou-chu-jia.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "450-闽剧《太后出嫁》01.flv", label: "1", sort_order: 1, file_en: "tai-hou-chu-jia-main-p1.mp4" }
       - { file: "451-闽剧《太后出嫁》02.flv", label: "2", sort_order: 2, file_en: "tai-hou-chu-jia-main-p2.mp4" }

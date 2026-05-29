@@ -15,7 +15,6 @@ cover: /covers/chen-ruo-lin-zhan-huang-zi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "360-闽剧 陈若霖斩皇子 1.flv", label: "1", sort_order: 1, file_en: "chen-ruo-lin-zhan-huang-zi-main-p1.mp4" }
       - { file: "363-闽剧 陈若霖斬皇子1.flv", label: "1", sort_order: 1, file_en: "chen-ruo-lin-zhan-huang-zi-main-p1-b2.mp4" }

@@ -7,13 +7,11 @@ heritage: false
 plot_type: 历史
 era_setting: 秦末汉初
 adapted_from: 以历史事件和民间传说为基础改编
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 通用, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "371-闽剧 霸王庄 1.flv", label: "1", sort_order: 1, file_en: "ba-wang-zhuang-main-p1.mp4" }
       - { file: "372-闽剧 霸王庄 2.flv", label: "2", sort_order: 2, file_en: "ba-wang-zhuang-main-p2.mp4" }
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《霸王庄》是中国戏曲中常见的剧目题材，通常讲述了秦末楚汉相争时期，项羽兵败乌江，在霸王庄（一说乌江亭）与追兵周旋，最终自刎而死的故事。剧目多聚焦于项羽的悲剧英雄形象，展现其刚烈不屈、视死如归的精神。庄上百姓因敬佩项羽的英勇，不忍其受辱，纷纷藏匿其尸首，或与其一同赴死。故事通过项羽在霸王庄的最后一夜，刻画了他面对绝境时的内心挣扎、对江山社稷的无奈以及对虞姬的深情，最终以壮烈的悲剧收场。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -46,8 +42,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

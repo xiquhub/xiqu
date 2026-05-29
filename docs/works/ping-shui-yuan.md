@@ -7,13 +7,12 @@ heritage: false
 plot_type: 才子佳人/离合
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/ping-shui-yuan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "310-闽剧 萍水缘 1.flv", label: "1", sort_order: 1, file_en: "ping-shui-yuan-main-p1.mp4" }
       - { file: "311-闽剧 萍水缘 2.flv", label: "2", sort_order: 2, file_en: "ping-shui-yuan-main-p2.mp4" }

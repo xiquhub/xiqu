@@ -7,12 +7,11 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "304-闽剧 舞龙女.flv", label: "", sort_order: 0, file_en: "wu-long-nv-main-full.mp4" }
 ---

@@ -14,7 +14,6 @@ cover: /covers/wu-chuang-bai-hu-tang.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "314-闽剧 误闯白虎堂.flv", label: "", sort_order: 0, file_en: "wu-chuang-bai-hu-tang-main-full.mp4" }
 ---

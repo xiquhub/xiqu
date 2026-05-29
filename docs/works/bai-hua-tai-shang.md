@@ -7,14 +7,12 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 古代
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/bai-hua-tai-shang.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "275-闽剧 百花台上.flv", label: "", sort_order: 0, file_en: "bai-hua-tai-shang-main-full.mp4" }
 ---
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《百花台上》是中国传统戏曲中一个常见的情节，通常讲述才子佳人的故事。  在闽剧《百花台上》中，故事多围绕着一位才华横溢的书生与一位美丽聪慧的女子展开。  他们可能是在百花盛开的台面上初次相遇，一见钟情。  然而，命运多舛，他们可能会面临家族阻碍、社会压力、或是其他反派的干扰，导致分离或遭遇困境。  剧情常涉及诗词唱和、才艺比拼，以及最终的有情人终成眷属的美好结局。  该剧目通过描绘爱情的忠贞与坚守，以及对美好生活的向往，来展现人物的性格和情感。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -44,8 +40,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "171-闽剧 拾绝哥与伍朝闷.flv", label: "", sort_order: 0, file_en: "shi-jue-ge-yu-wu-chao-men-main-full.mp4" }
 ---

@@ -7,12 +7,11 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "368-闽剧 雨过天晴 1.flv", label: "1", sort_order: 1, file_en: "yu-guo-tian-qing-main-p1.mp4" }
       - { file: "369-闽剧 雨过天晴 2.flv", label: "2", sort_order: 2, file_en: "yu-guo-tian-qing-main-p2.mp4" }
@@ -20,7 +19,6 @@ productions:
 ---
 
 # 雨过天晴
-
 
 > 行当/题材：待查
 

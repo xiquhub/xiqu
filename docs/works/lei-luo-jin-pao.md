@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "220-闽剧 泪落锦袍1.flv", label: "1", sort_order: 1, file_en: "lei-luo-jin-pao-main-p1.mp4" }
       - { file: "221-闽剧 泪落锦袍2.flv", label: "2", sort_order: 2, file_en: "lei-luo-jin-pao-main-p2.mp4" }

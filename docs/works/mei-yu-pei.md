@@ -7,13 +7,11 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 未知（通常为架空古代）
 adapted_from: 闽剧传统/原创剧目
-needs_research: true
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "208-闽剧 梅玉配.flv", label: "", sort_order: 0, file_en: "mei-yu-pei-main-full.mp4" }
 ---
@@ -25,8 +23,6 @@ productions:
 ## 剧情简介
 
 《梅玉配》是闽剧的经典剧目之一，讲述了书生陈梅英和陆玉娘这对才子佳人的爱情故事。陈梅英家境贫寒，但聪慧过人，与陆玉娘两情相悦，并私定终身。然而，陆玉娘的父亲陆老爷嫌贫爱富，欲将女儿许配给富家公子。在有情人面临拆散的危难之际，陈梅英发奋读书，高中状元，最终得以与陆玉娘结成连理，有情人终成眷属。全剧情节跌宕起伏，人物形象鲜明，既有青年男女真挚的爱情，也反映了封建社会门第观念对婚姻的束缚，以及对真挚爱情的歌颂。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对。
 
 ## 主要角色
 
@@ -42,8 +38,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

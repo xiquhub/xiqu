@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案/官场
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/qing-guan-diao-ren-hou.png
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "234-闽剧 清官调任后 修正.flv", label: "修正", sort_order: 0, file_en: "qing-guan-diao-ren-hou-main-full.mp4" }
 ---

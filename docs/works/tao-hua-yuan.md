@@ -7,13 +7,12 @@ heritage: false
 plot_type: 爱情传奇剧
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/tao-hua-yuan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "203-闽剧 桃花缘_1.flv", label: "1", sort_order: 1, file_en: "tao-hua-yuan-main-p1.mp4" }
       - { file: "204-闽剧 桃花缘_2.flv", label: "2", sort_order: 2, file_en: "tao-hua-yuan-main-p2.mp4" }

@@ -14,7 +14,6 @@ cover: /covers/gao-lao-shang-shu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "112-闽剧 告老尚书 1.flv", label: "1", sort_order: 1, file_en: "gao-lao-shang-shu-main-p1.mp4" }
       - { file: "113-闽剧 告老尚书 2.flv", label: "2", sort_order: 2, file_en: "gao-lao-shang-shu-main-p2.mp4" }

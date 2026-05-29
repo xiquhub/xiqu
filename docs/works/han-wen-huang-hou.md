@@ -15,7 +15,6 @@ cover: /covers/han-wen-huang-hou.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "215-闽剧 汉文皇后 1.flv", label: "1", sort_order: 1, file_en: "han-wen-huang-hou-main-p1.mp4" }
       - { file: "216-闽剧 汉文皇后 2.flv", label: "2", sort_order: 2, file_en: "han-wen-huang-hou-main-p2.mp4" }

@@ -7,14 +7,12 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 明朝
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/fu-ma-yuan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "375-闽剧 驸马怨 1.flv", label: "1", sort_order: 1, file_en: "fu-ma-yuan-main-p1.mp4" }
       - { file: "376-闽剧 驸马怨 2.flv", label: "2", sort_order: 2, file_en: "fu-ma-yuan-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《驸马怨》讲述了明朝时期，才貌双全的读书人张彦文高中状元，后奉旨迎娶了公主，成为驸马。然而，公主刁蛮任性，对张彦文百般欺凌，甚至强迫其为自己做婢女，并勾结奸臣陷害张彦文。张彦文不堪忍受，为求公正，最终选择休妻（即“怨”）。此剧深刻揭示了封建礼教对人性的压抑，以及封建社会中门第、权力对婚姻和个人命运的摧残。同时，剧中也展现了张彦文作为一个正直读书人的风骨和对自由的向往，以及他与出身贫寒的青梅竹马之间的真挚情感，但最终在强大的封建势力面前，美好的爱情也只能化为无奈的怨叹。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

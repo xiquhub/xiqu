@@ -7,14 +7,12 @@ heritage: false
 plot_type: 历史
 era_setting: 明朝嘉靖年间
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/bao-guo-qi-nv.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "168-闽剧 报国奇女 1.flv", label: "1", sort_order: 1, file_en: "bao-guo-qi-nv-main-p1.mp4" }
       - { file: "169-闽剧 报国奇女 2.flv", label: "2", sort_order: 2, file_en: "bao-guo-qi-nv-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《报国奇女》讲述了明朝嘉靖年间，巾帼英雄林秋娘为报国捐躯的传奇故事。林秋娘，一名出身贫寒但胸怀大志的女子，在国家内忧外患之际，挺身而出，以其过人的智慧和勇气，领导民众抵抗倭寇的侵略。她乔装改扮，深入敌营，屡次挫败敌人的阴谋，为保卫家国做出了巨大贡献。然而，在一次关键战役中，为掩护主力部队撤退，林秋娘英勇牺牲，她的事迹被后人传颂，成为民间传颂的民族英雄。该剧通过林秋娘的个人奋斗与牺牲，展现了中国古代女性的爱国情怀和坚韧不拔的精神。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

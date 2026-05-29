@@ -7,18 +7,16 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "006-福建地方戏曲闽剧《淑女传》全剧.flv", label: "全剧", sort_order: 0, file_en: "shu-nv-chuan-main-full.mp4" }
 ---
 
 # 淑女传
-
 
 > 行当/题材：待考
 

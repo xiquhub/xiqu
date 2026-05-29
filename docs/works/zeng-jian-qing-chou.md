@@ -7,13 +7,12 @@ heritage: false
 plot_type: 武侠/爱情/恩仇
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/zeng-jian-qing-chou.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "315-闽剧 赠剑情仇1.flv", label: "1", sort_order: 1, file_en: "zeng-jian-qing-chou-main-p1.mp4" }
       - { file: "316-闽剧 赠剑情仇2.flv", label: "2", sort_order: 2, file_en: "zeng-jian-qing-chou-main-p2.mp4" }

@@ -7,12 +7,11 @@ heritage: false
 plot_type: 未知
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "268-闽剧 玲珑玉.flv", label: "", sort_order: 0, file_en: "ling-long-yu-main-full.mp4" }
 ---

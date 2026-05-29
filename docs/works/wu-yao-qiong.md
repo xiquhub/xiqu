@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/wu-yao-qiong.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "111-闽剧 吴瑶琼.flv", label: "", sort_order: 0, file_en: "wu-yao-qiong-main-full.mp4" }
 ---

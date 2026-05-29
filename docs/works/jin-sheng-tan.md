@@ -14,7 +14,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "339-闽剧 金圣叹1.flv", label: "1", sort_order: 1, file_en: "jin-sheng-tan-main-p1.mp4" }
       - { file: "340-闽剧 金圣叹2.flv", label: "2", sort_order: 2, file_en: "jin-sheng-tan-main-p2.mp4" }

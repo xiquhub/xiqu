@@ -7,13 +7,12 @@ heritage: false
 plot_type: 社会讽刺喜剧
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/tian-xia-cai-zhu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "449-闽剧《天下财主》全.flv", label: "全", sort_order: 0, file_en: "tian-xia-cai-zhu-main-full.mp4" }
 ---

@@ -14,7 +14,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "481-闽剧《正德帝下江南》1上.flv", label: "上", sort_order: 1, file_en: "zheng-de-di-xia-jiang-nan-main-p1.mp4" }
       - { file: "482-闽剧《正德帝下江南》2中.flv", label: "中", sort_order: 2, file_en: "zheng-de-di-xia-jiang-nan-main-p2.mp4" }

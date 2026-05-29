@@ -7,13 +7,12 @@ heritage: false
 plot_type: 武戏 / 历史戏
 era_setting: 宋代
 adapted_from: 杨家将故事
-needs_research: true
+needs_research: false
 sources:
   - { url: "https://www.kanxiji.net/fujianxi/minju/2016-09-02/55668.html", type: 戏曲资源网, scope: 闽剧专属 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "410-闽剧《三关明月》.flv", label: "", sort_order: 0, file_en: "san-guan-ming-yue-main-full.mp4" }
 ---

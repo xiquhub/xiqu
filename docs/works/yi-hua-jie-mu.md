@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/yi-hua-jie-mu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "289-闽剧 移花接木.flv", label: "", sort_order: 0, file_en: "yi-hua-jie-mu-main-full.mp4" }
 ---

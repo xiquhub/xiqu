@@ -7,12 +7,11 @@ heritage: false
 plot_type: 历史/宫廷
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "253-闽剧 玉玺风波1.flv", label: "1", sort_order: 1, file_en: "yu-xi-feng-bo-main-p1.mp4" }
       - { file: "254-闽剧 玉玺风波2.flv", label: "2", sort_order: 2, file_en: "yu-xi-feng-bo-main-p2.mp4" }

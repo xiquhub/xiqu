@@ -15,7 +15,6 @@ cover: /covers/zhu-yuan-zhang-wei-fu-chu-xun.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "187-闽剧 朱元璋微服出巡 1.flv", label: "1", sort_order: 1, file_en: "zhu-yuan-zhang-wei-fu-chu-xun-main-p1.mp4" }
       - { file: "188-闽剧 朱元璋微服出巡 2.flv", label: "2", sort_order: 2, file_en: "zhu-yuan-zhang-wei-fu-chu-xun-main-p2.mp4" }

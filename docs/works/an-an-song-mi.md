@@ -14,7 +14,6 @@ cover: /covers/an-an-song-mi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "147-闽剧 安安送米 1.flv", label: "1", sort_order: 1, file_en: "an-an-song-mi-main-p1.mp4" }
       - { file: "148-闽剧 安安送米 2.flv", label: "2", sort_order: 2, file_en: "an-an-song-mi-main-p2.mp4" }

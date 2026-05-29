@@ -14,7 +14,6 @@ cover: /covers/chen-xiang-ge.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "217-闽剧 沉香阁 1.flv", label: "1", sort_order: 1, file_en: "chen-xiang-ge-main-p1.mp4" }
       - { file: "218-闽剧 沉香阁 2.flv", label: "2", sort_order: 2, file_en: "chen-xiang-ge-main-p2.mp4" }

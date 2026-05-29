@@ -16,7 +16,6 @@ cover: /covers/tao-li-mei.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "200-闽剧 桃李梅1.flv", label: "1", sort_order: 1, file_en: "tao-li-mei-main-p1.mp4" }
       - { file: "201-闽剧 桃李梅2.flv", label: "2", sort_order: 2, file_en: "tao-li-mei-main-p2.mp4" }

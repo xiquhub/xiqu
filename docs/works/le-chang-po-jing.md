@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "426-闽剧《乐昌破镜》01.flv", label: "1", sort_order: 1, file_en: "le-chang-po-jing-main-p1.mp4" }
       - { file: "427-闽剧《乐昌破镜》02.flv", label: "2", sort_order: 2, file_en: "le-chang-po-jing-main-p2.mp4" }
@@ -23,7 +22,6 @@ productions:
 ---
 
 # 乐昌破镜
-
 
 > 行当/题材：才子佳人
 

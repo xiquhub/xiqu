@@ -15,7 +15,6 @@ cover: /covers/tian-ya-ge-nv.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "134-闽剧 天涯歌女1.flv", label: "1", sort_order: 1, file_en: "tian-ya-ge-nv-main-p1.mp4" }
       - { file: "135-闽剧 天涯歌女2.flv", label: "2", sort_order: 2, file_en: "tian-ya-ge-nv-main-p2.mp4" }

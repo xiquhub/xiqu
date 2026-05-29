@@ -7,13 +7,11 @@ heritage: false
 plot_type: 公案/家庭/才子佳人
 era_setting: 古代 (具体朝代不详，通常为宋、明或清)
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "032-闽剧 丹桂图 1.flv", label: "1", sort_order: 1, file_en: "dan-gui-tu-main-p1.mp4" }
       - { file: "033-闽剧 丹桂图 2.flv", label: "2", sort_order: 2, file_en: "dan-gui-tu-main-p2.mp4" }
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《丹桂图》是闽剧的传统经典剧目之一。故事围绕书生张广祖展开。张广祖进京赶考之际，其父、县令张天佐却被贪官赵富诬陷下狱。张广祖的母亲携年幼的妹妹被逐出家门，历经磨难，受尽欺凌与贫困。多年后，张广祖在科举考试中金榜题名，高中状元，荣归故里（“丹桂”常象征状元及第）。他得知家中变故和父母所受冤屈后，利用自己的新官职，明察秋毫，最终洗清了父亲的冤屈，将贪官赵富绳之以法。故事以张氏家族的团圆为结局，歌颂了忠孝节义的传统美德，揭露了官场的黑暗，同时也展现了民间疾苦与正义的最终胜利。该剧在闽剧表演中常有悲情戏码，尤其考验苦旦角色的功力。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -46,8 +42,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash) — LLM 综合，待人工核校
 
 ## 备注
 

@@ -7,13 +7,12 @@ heritage: false
 plot_type: 未知
 era_setting: 未知
 adapted_from: 传统剧目
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/gan-lan-ji.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "212-闽剧 橄榄记 1.flv", label: "1", sort_order: 1, file_en: "gan-lan-ji-main-p1.mp4" }
       - { file: "213-闽剧 橄榄记 2.flv", label: "2", sort_order: 2, file_en: "gan-lan-ji-main-p2.mp4" }

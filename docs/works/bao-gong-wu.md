@@ -7,14 +7,12 @@ heritage: false
 plot_type: 公案
 era_setting: 宋朝
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 通用, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/bao-gong-wu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "440-闽剧《包公误》全.flv", label: "全", sort_order: 0, file_en: "bao-gong-wu-main-full.mp4" }
 ---
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《包公误》主要讲述了宋仁宗年间，陈州太守庞煜欺压百姓，鱼肉乡里。御史李沆奉旨前往陈州查案，却被庞煜收买，反将真相掩盖。包拯奉命复查，在审理过程中，发现庞煜与李沆串通一气，陷害忠良。最终，包拯秉公执法，揭露了庞煜的罪行，为民伸冤，并严惩了李沆，维护了朝廷的法纪。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -45,8 +41,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

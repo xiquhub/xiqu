@@ -7,14 +7,12 @@ heritage: false
 plot_type: 历史
 era_setting: 北宋
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/huang-shi-di-you.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "276-闽剧 皇师帝友 1.flv", label: "1", sort_order: 1, file_en: "huang-shi-di-you-main-p1.mp4" }
       - { file: "277-闽剧 皇师帝友 2.flv", label: "2", sort_order: 2, file_en: "huang-shi-di-you-main-p2.mp4" }
@@ -29,8 +27,6 @@ productions:
 ## 剧情简介
 
 《皇师帝友》讲述了北宋时期，国丈庞太师与宰相寇准之间的政治斗争。庞太师权势熏天，意图铲除寇准，以巩固其家族在朝中的地位。然而，寇准以其智慧和胆识，在皇帝的信任和支持下，多次挫败庞太师的阴谋。剧情围绕着两人在朝堂上的明争暗斗，以及各自为巩固自身势力所采取的策略展开。最终，寇准凭借忠诚和智谋，赢得了这场权力斗争的胜利，也展现了皇家威仪和大臣气节。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

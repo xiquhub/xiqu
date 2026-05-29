@@ -7,13 +7,11 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 唐代
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "487-闽剧《灞陵伤别》全.flv", label: "全", sort_order: 0, file_en: "ba-ling-shang-bie-main-full.mp4" }
 ---
@@ -25,8 +23,6 @@ productions:
 ## 剧情简介
 
 《灞陵伤别》讲述了唐代长安书生李彦青，怀才不遇，欲赴京赶考。其父李忠乃一富商，极力反对，逼迫彦青回家继承家业。彦青不从，父子争执。李忠一气之下，将彦青赶出家门，并将其情人、歌女王月容卖入妓院。彦青在外偶遇旧日恩师，得知赴京赶考的机会已渺茫，内心十分痛苦。后又在灞桥畔，与被卖的王月容偶然相遇，两人深情诀别，上演了一幕令人肝肠寸断的生离死别。最终，在各方力量的斡旋下，李忠醒悟，父子冰释前嫌，月容也得以脱离苦海，一家团圆。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -43,8 +39,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

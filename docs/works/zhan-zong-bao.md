@@ -15,7 +15,6 @@ cover: /covers/zhan-zong-bao.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "178-闽剧 斩宗保.flv", label: "", sort_order: 0, file_en: "zhan-zong-bao-main-full.mp4" }
 ---

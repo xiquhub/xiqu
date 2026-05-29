@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/yi-xiong-qing-mei.png
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "035-闽剧 义兄情妹.flv", label: "", sort_order: 0, file_en: "yi-xiong-qing-mei-main-full.mp4" }
 ---

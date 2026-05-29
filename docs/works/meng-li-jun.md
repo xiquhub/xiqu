@@ -17,7 +17,6 @@ productions:
     label: "全剧/福建/张建斌"
     troupe: "福州闽剧院一团"
     leads: ["全剧", "福建", "张建斌"]
-    confidence: "high"
     parts:
       - { file: "460-闽剧《孟丽君》全剧 福建福州闽剧院一团 张建斌主演.flv", label: "", sort_order: 0, file_en: "meng-li-jun-main-full.mp4" }
 ---

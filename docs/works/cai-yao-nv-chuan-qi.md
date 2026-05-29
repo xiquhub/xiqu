@@ -7,13 +7,12 @@ heritage: false
 plot_type: 未知
 era_setting: 未知
 adapted_from: 传统剧目
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/cai-yao-nv-chuan-qi.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "320-闽剧 采药女传奇 1.flv", label: "1", sort_order: 1, file_en: "cai-yao-nv-chuan-qi-main-p1.mp4" }
       - { file: "321-闽剧 采药女传奇 2.flv", label: "2", sort_order: 2, file_en: "cai-yao-nv-chuan-qi-main-p2.mp4" }

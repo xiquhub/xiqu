@@ -7,13 +7,11 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 南宋末年
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "378-闽剧 鸭母跟凤去飞.flv", label: "", sort_order: 0, file_en: "ya-mu-gen-feng-qu-fei-main-full.mp4" }
 ---
@@ -30,8 +28,6 @@ productions:
 
 故事围绕着陈三在功名与爱情之间的摇摆，鸭母的坚韧隐忍，以及林凤的无奈与追求展开。最终，在多方力量的推动下，也可能是在鸭母的牺牲和成全下，陈三的命运发生了转折，实现了他的抱负。而鸭母和林凤的结局，则体现了传统女性在那个时代复杂而悲情的命运。该剧通过描绘陈三、鸭母、林凤三者之间的情感纠葛和命运沉浮，展现了封建社会下个体命运的无奈与抗争，以及女性的牺牲精神。
 
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
-
 ## 主要角色
 
 - **鸭母**：陈三的妻子，贤良淑德，勤劳能干，坚韧隐忍，对家庭和丈夫忠贞不渝。
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

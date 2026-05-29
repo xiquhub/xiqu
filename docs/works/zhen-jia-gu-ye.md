@@ -7,13 +7,12 @@ heritage: false
 plot_type: 喜剧/误会/婚恋
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/zhen-jia-gu-ye.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "280-闽剧 真假姑爷1(上).flv", label: "上", sort_order: 1, file_en: "zhen-jia-gu-ye-main-p1.mp4" }
       - { file: "281-闽剧 真假姑爷2(中).flv", label: "中", sort_order: 2, file_en: "zhen-jia-gu-ye-main-p2.mp4" }

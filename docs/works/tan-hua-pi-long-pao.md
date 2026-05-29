@@ -13,7 +13,6 @@ sources:
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "461-闽剧《探花披龙袍》全剧.flv", label: "全剧", sort_order: 0, file_en: "tan-hua-pi-long-pao-main-full.mp4" }
 ---

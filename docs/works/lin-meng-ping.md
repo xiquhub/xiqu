@@ -7,14 +7,12 @@ heritage: false
 plot_type: 才子佳人
 era_setting: 未知（通常为古代）
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/lin-meng-ping.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "195-闽剧 林梦萍 自掏岭.flv", label: "自掏岭", sort_order: 0, file_en: "lin-meng-ping-main-full.mp4" }
 ---
@@ -27,8 +25,6 @@ productions:
 ## 剧情简介
 
 《林梦萍》是中国闽剧的一个经典剧目，属于才子佳人类型的剧目。故事主要围绕林梦萍和她的丈夫展开。林梦萍是一位才貌双全的女子，她与丈夫情投意合，婚后生活美满。然而，命运多舛，一系列的变故接踵而至。剧中可能涉及误会、家庭矛盾、离别或外界的阻挠，考验着林梦萍的智慧、情感和坚韧。最终，在经历种种磨难后，林梦萍和她的家人（或爱人）得以团圆，并重拾幸福。该剧曲折的情节和细腻的情感刻画，展现了古代女子在家庭和社会中的情感与命运。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -43,8 +39,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

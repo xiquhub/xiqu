@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案戏 / 宫廷戏
 era_setting: 不详
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/shen-huang-hou.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "150-闽剧 审皇后 1.flv", label: "1", sort_order: 1, file_en: "shen-huang-hou-main-p1.mp4" }
       - { file: "151-闽剧 审皇后 2.flv", label: "2", sort_order: 2, file_en: "shen-huang-hou-main-p2.mp4" }

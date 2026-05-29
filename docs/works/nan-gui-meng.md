@@ -7,13 +7,12 @@ heritage: false
 plot_type:
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/nan-gui-meng.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "441-闽剧《南归梦》一.flv", label: "一", sort_order: 1, file_en: "nan-gui-meng-main-p1.mp4" }
       - { file: "443-闽剧《南归梦》二.flv", label: "二", sort_order: 2, file_en: "nan-gui-meng-main-p2.mp4" }

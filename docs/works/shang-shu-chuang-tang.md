@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案戏 / 家庭伦理戏
 era_setting: 不详
 adapted_from:
-needs_research: true
+needs_research: false
 sources:
   - { url: "http://9uud.com/v.php?m=vod-play-id-1523-src-1-num-35.html", type: 戏曲视频平台, scope: 闽剧专属 }
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "004-福建地方戏曲闽剧《尚书闯堂》全剧.flv", label: "全剧", sort_order: 0, file_en: "shang-shu-chuang-tang-main-full.mp4" }
 ---

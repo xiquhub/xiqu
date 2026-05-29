@@ -7,13 +7,12 @@ heritage: false
 plot_type: 公案/伦理冲突
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 cover: /covers/qin-zi-shen-fu.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "048-闽剧 亲子审父 1.flv", label: "1", sort_order: 1, file_en: "qin-zi-shen-fu-main-p1.mp4" }
       - { file: "049-闽剧 亲子审父 2.flv", label: "2", sort_order: 2, file_en: "qin-zi-shen-fu-main-p2.mp4" }

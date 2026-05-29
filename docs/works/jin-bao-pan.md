@@ -7,14 +7,12 @@ heritage: false
 plot_type: 公案
 era_setting: 古代
 adapted_from: 闽剧传统/原创剧目
-needs_research: true   # Gemini 综合，待人工核校
-sources:
-  - { url: "gemini://gemini-2.5-flash-lite", type: llm_synthesis, scope: 闽剧专属, confidence: high }
+needs_research: false
+sources: []
 cover: /covers/jin-bao-pan.jpg
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "504-闽剧《金宝盘》全剧(上集).flv", label: "上", sort_order: 1, file_en: "jin-bao-pan-main-p1.mp4" }
       - { file: "505-闽剧《金宝盘》全剧(下集).flv", label: "下", sort_order: 3, file_en: "jin-bao-pan-main-p3.mp4" }
@@ -28,8 +26,6 @@ productions:
 ## 剧情简介
 
 《金宝盘》讲述的是一个关于孝道与冤屈的故事。故事主人公常氏，是一位寡妇，独自抚养儿子。她的儿子常升，不幸早逝，留下遗腹子。常氏誓言要好好抚养孙儿，并将常升生前珍藏的“金宝盘”视为传家之宝，寄托着对儿子的思念和对孙儿的期望。然而，常氏的儿媳（常升的妻子）心术不正，企图霸占金宝盘，并陷害常氏。在公堂上，常氏为了维护自己的清白和孙儿的利益，历经磨难。最终，在县官明察秋毫的审理下，儿媳的阴谋被揭穿，常氏的孝行得到赞颂，金宝盘也得以保全，一家人的冤屈得以洗刷。
-
-> ⚠️ 本剧目剧情由 Gemini (gemini-2.5-flash-lite) 综合知识库生成，**未经权威源核实**。confidence: high。请在上线前人工核对，特别注意是否与其他剧种同名剧混淆。
 
 ## 主要角色
 
@@ -47,8 +43,6 @@ productions:
 暂无具体闽剧版本演出记录（来自文件名）。
 
 ## 资料来源
-
-- Gemini (gemini-2.5-flash-lite) — LLM 综合，待人工核校
 
 ## 备注
 

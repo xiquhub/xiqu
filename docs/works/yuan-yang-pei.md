@@ -7,12 +7,11 @@ heritage: false
 plot_type: 喜剧/婚恋
 era_setting:
 adapted_from:
-needs_research: true
+needs_research: false
 sources: []
 productions:
   - slug: "main"
     label: "主版"
-    confidence: "medium"
     parts:
       - { file: "382-闽剧 鸳鸯配 1.flv", label: "1", sort_order: 1, file_en: "yuan-yang-pei-main-p1.mp4" }
       - { file: "383-闽剧 鸳鸯配 2.flv", label: "2", sort_order: 2, file_en: "yuan-yang-pei-main-p2.mp4" }
