@@ -1,11 +1,13 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import MiniSearch from "minisearch";
 import type { SearchDoc } from "@/lib/search-index";
 
-export function SearchClient({ docs, initialQuery }: { docs: SearchDoc[]; initialQuery: string }) {
-  const [q, setQ] = useState(initialQuery);
+export function SearchClient({ docs }: { docs: SearchDoc[] }) {
+  const sp = useSearchParams();
+  const [q, setQ] = useState(sp.get("q") ?? "");
   const [filter, setFilter] = useState<"all" | "work" | "actor" | "troupe">("all");
 
   const ms = useMemo(() => {
