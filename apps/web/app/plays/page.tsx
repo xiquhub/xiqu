@@ -11,7 +11,7 @@ import type { Work } from "@/lib/types";
 
 export const metadata = {
   title: "全部剧目 · 闽剧档案",
-  description: "闽剧公益档案站收录的全部剧目目录",
+  description: "闽剧档案站收录的全部剧目目录",
 };
 
 type Params = {

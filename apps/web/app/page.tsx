@@ -28,7 +28,7 @@ export default function Home() {
           <div>
             <div className="inline-flex items-center gap-2 text-xs tracking-widest uppercase text-[var(--color-accent)] font-medium mb-4">
               <span className="w-8 h-px bg-[var(--color-accent)]" />
-              福州地方戏曲 · 公益档案
+              福州地方戏曲 · 数字档案
             </div>
             <h1 className="font-serif text-4xl sm:text-5xl lg:text-6xl leading-tight text-[var(--color-fg)] mb-6">
               留下 <span className="text-[var(--color-accent)]">闽剧</span><br />
@@ -37,8 +37,7 @@ export default function Home() {
             <p className="text-lg text-[var(--color-fg-muted)] mb-8 max-w-xl leading-relaxed">
               收录 <strong className="text-[var(--color-fg)]">{totals.works}</strong> 部闽剧剧目、
               <strong className="text-[var(--color-fg)]">{totals.productions}</strong> 个录制版本、
-              <strong className="text-[var(--color-fg)]">{totals.parts}</strong> 个分卷资料，
-              纯民间整理，非商业。
+              <strong className="text-[var(--color-fg)]">{totals.parts}</strong> 个分卷资料。
             </p>
             <SearchBar />
           </div>

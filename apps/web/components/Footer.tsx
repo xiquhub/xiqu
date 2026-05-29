@@ -8,8 +8,8 @@ export function Footer() {
         <div>
           <div className="font-serif text-lg text-[var(--color-fg)]">闽剧档案 · xiquhub</div>
           <p className="mt-2 leading-relaxed">
-            闽剧（福州地方戏曲）公益数字档案。
-            非营利，仅作文化保存与传播。
+            闽剧（福州地方戏曲）数字档案。
+            剧目、演员、剧团、剧情资料收录。
           </p>
         </div>
 

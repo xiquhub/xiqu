@@ -2,11 +2,21 @@
 
 ## 项目背景
 
-V1 闽剧公益数字档案站，非营利、无广告。199 部剧、514 个视频文件（已 ffmpeg
-转 mp4），托管在 `server.yunxy.top:4768` (Caddy)。前端 Next.js 16 + Tailwind v4，
+V1 闽剧数字档案站。199 部剧、514 个视频文件（已 ffmpeg 转 mp4），
+托管在 `server.yunxy.top:4768` (Caddy)。前端 Next.js 16 + Tailwind v4，
 反馈通过 Web3Forms 直发 `xiquhub@gmail.com`。
 
 数据真源：`docs/works/{slug}.md` + `pipelines/ingest/out/plays.jsonl`。
+
+## 商业模式定位（重要）
+
+**不要在任何用户可见处写"非营利 / 公益 / 无广告 / 非商业"等措辞。**
+
+- 后期会接入 Google AdSense 之类广告，至少要覆盖运营成本（域名、Caddy 服务器、流量）
+- 站点定位是"闽剧档案"，而不是"公益慈善"
+- Footer / About / Home 文案中**已删除**所有非营利字样
+- 如果将来需要加广告位，新增 React 组件即可，不需要在 CLAUDE.md 里讨论"是否合规"
+- 仍**不写** ⚠️ 警告类的"求理解我们也要恰饭" 类话术，呈现自然即可
 
 ## 内容书写原则
 

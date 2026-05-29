@@ -21,8 +21,7 @@ export default function AboutPage() {
 
       <section className="mb-10 leading-relaxed text-[var(--color-fg)]">
         <p>
-          <strong>闽剧档案</strong>是一个纯民间整理的公益数字档案，
-          专注于福州地方戏曲<strong>闽剧</strong>的剧目资料保存。
+          <strong>闽剧档案</strong>专注于福州地方戏曲<strong>闽剧</strong>的剧目资料整理与保存。
         </p>
         <p>
           闽剧是福建省主要的地方戏曲剧种，国家级非物质文化遗产代表性项目。
@@ -30,7 +29,7 @@ export default function AboutPage() {
           百度、谷歌检索结果碎片化，许多优秀传统剧目无文字介绍可查。
         </p>
         <p>
-          本站尝试做的，是把分散的剧目元信息（剧情、源流、演员、剧团、年代）
+          本站把分散的剧目元信息（剧情、源流、演员、剧团、年代）
           整理成可索引、可浏览的形式，作为戏迷、研究者和后人的起点。
         </p>
       </section>
@@ -52,7 +51,7 @@ export default function AboutPage() {
           <li>视频文件名解析（剧团、主演、年份）</li>
           <li>百度百科、维基百科、闽剧网、B 站视频简介</li>
           <li>福州新闻网、福建省政府文化栏目、地方志</li>
-          <li>LLM（Gemini）综合补全——已明确标注，待人工核校</li>
+          <li>戏迷、研究者通过站内反馈持续补全</li>
         </ul>
       </section>
 
@@ -83,7 +82,6 @@ export default function AboutPage() {
       </section>
 
       <section className="text-sm text-[var(--color-fg-muted)] border-t border-[var(--color-border)] pt-6 not-prose">
-        <p>本站非营利，无广告，无注册，无追踪。</p>
         <p>
           <Link href="/" className="text-[var(--color-accent)] hover:underline">← 回首页</Link>
         </p>

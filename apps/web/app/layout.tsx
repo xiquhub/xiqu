@@ -22,10 +22,10 @@ const notoSans = Noto_Sans_SC({
 
 export const metadata: Metadata = {
   title: "闽剧档案 · xiquhub",
-  description: "闽剧（福州地方戏曲）公益数字档案——剧目、演员、剧团、剧情资料。",
+  description: "闽剧（福州地方戏曲）数字档案——剧目、演员、剧团、剧情资料。",
   openGraph: {
     title: "闽剧档案 · xiquhub",
-    description: "闽剧公益数字档案站",
+    description: "闽剧数字档案站",
     type: "website",
     locale: "zh_CN",
   },
